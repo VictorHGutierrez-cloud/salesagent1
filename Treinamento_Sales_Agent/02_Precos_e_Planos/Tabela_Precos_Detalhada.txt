@@ -1,0 +1,82 @@
+TABELA DE PREÇOS FACTORIAL - BRASIL Q2
+=======================================
+
+MÓDULOS PRINCIPAIS:
+==================
+
+FACTORIAL CORE:
+- Business Mensal: R$ 7,60
+- Business Anual: R$ 6,70
+- Enterprise Mensal: R$ 10,15
+- Enterprise Anual: R$ 9,10
+
+GESTÃO DE AUSÊNCIAS E FÉRIAS:
+- Business Mensal: R$ 2,15
+- Business Anual: R$ 1,90
+- Enterprise Mensal: R$ 3,15
+- Enterprise Anual: R$ 3,10
+
+RELÓGIO DE PONTO:
+- Business Mensal: R$ 3,50
+- Business Anual: R$ 3,50
+- Enterprise Mensal: R$ 3,50
+- Enterprise Anual: R$ 3,50
+
+GESTÃO DE TURNOS:
+- Business Mensal: R$ 2,15
+- Business Anual: R$ 2,15
+- Enterprise Mensal: R$ 2,15
+- Enterprise Anual: R$ 2,15
+
+GESTÃO DE PROJETOS:
+- Business Mensal: R$ 3,15
+- Business Anual: R$ 3,15
+- Enterprise Mensal: R$ 3,15
+- Enterprise Anual: R$ 3,15
+
+ENGAJAMENTO:
+- Business Mensal: R$ 1,60
+- Business Anual: R$ 1,60
+- Enterprise Mensal: R$ 1,60
+- Enterprise Anual: R$ 1,60
+
+TREINAMENTOS:
+- Business Mensal: R$ 1,60
+- Business Anual: R$ 1,60
+- Enterprise Mensal: R$ 1,60
+- Enterprise Anual: R$ 1,60
+
+PERFORMANCE:
+- Business Mensal: R$ 3,00
+- Business Anual: R$ 3,00
+- Enterprise Mensal: R$ 3,00
+- Enterprise Anual: R$ 3,00
+
+MÓDULOS FIXOS:
+==============
+RECRUTAMENTO (FIXO E ÚNICO):
+- Valor: R$ 550,00
+
+DESPESAS (FIXO E ÚNICO):
+- Valor: R$ 252,00
+
+ESTRATÉGIA DE PREÇOS:
+====================
+1. DESCONTO POR VOLUME:
+   - 40 empresas com desconto especial
+   - Negociação baseada em número de vidas
+
+2. BUNDLES RECOMENDADOS:
+   - Core + Time + Ausências (mais vendido)
+   - Core + Performance + Treinamentos (Enterprise)
+   - Core + Engajamento + Despesas (completo)
+
+3. TARGET DE VENDAS:
+   - Business: Até 200 vidas
+   - Enterprise: 200+ vidas
+   - Foco em empresas carteirizadas
+
+4. MARGEM DE NEGOCIAÇÃO:
+   - Até 20% de desconto para volumes altos
+   - Desconto especial para parcerias
+   - Preço promocional para migração de concorrentes

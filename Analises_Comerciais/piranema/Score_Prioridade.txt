@@ -1,0 +1,10 @@
+=== SCORE DE PRIORIDADE ===
+
+Urgência: 5/10
+Autoridade: 6/10
+Orçamento: 10/10
+Fit da Solução: 10/10
+Timing: 10/10
+
+SCORE GERAL: 7.7/10
+CLASSIFICAÇÃO: MÉDIA PRIORIDADE

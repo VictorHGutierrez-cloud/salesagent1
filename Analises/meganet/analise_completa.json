@@ -1,0 +1,105 @@
+{
+  "resumo_executivo": "Lead warm com scores: Urgência 0.83, Necessidade 0.57, Fit 0.48. 5 stakeholders identificados.",
+  "highlights": [
+    "Urgência: rápido, prazo, tempo",
+    "Necessidades: preciso, problema, dificuldade",
+    "Fit: perfeito, certo, bom"
+  ],
+  "scores": {
+    "urgencia": 0.83,
+    "necessidade": 0.57,
+    "fit": 0.48,
+    "confianca": 0.8
+  },
+  "temperature": "Warm",
+  "frameworks": {
+    "BANT": {
+      "budget": "Identificado",
+      "authority": "Identificado",
+      "need": "Identificado",
+      "timeline": "Identificado"
+    },
+    "MEDDIC": {
+      "metrics": "A definir - precisa perguntar sobre KPIs e métricas de sucesso",
+      "economic_buyer": "Identificado",
+      "decision_criteria": "A definir - precisa perguntar sobre critérios de decisão",
+      "decision_process": "A definir - precisa perguntar sobre processo de decisão",
+      "identify_pain": "Identificado",
+      "champion": "A definir - precisa identificar campeão interno"
+    },
+    "SPIN": {
+      "situation": "Situação atual identificada através da conversa",
+      "problem": "Problemas identificados",
+      "implication": "A definir - precisa explorar implicações dos problemas",
+      "need_payoff": "A definir - precisa explorar benefícios da solução"
+    }
+  },
+  "stakeholders": [
+    {
+      "nome": "Depende do",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "tem nenhum",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "vai ter um",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "precisa ter num PDF para apresentar para essa",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "eu sou",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    }
+  ],
+  "objeções": [
+    "acabou que eu acho que não tá indo pelo botucho",
+    "cara, é Rio de Janeiro",
+    "a factorial é multinacional",
+    "mais atuais, mas que nos forneça mais informações, relatórios também",
+    "hoje eu não tenho o que a gente já agasta"
+  ],
+  "próximos_passos": [
+    {
+      "ação": "mudar de sala aqui",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "falar com vocês",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "lá, então, para a gente otimizar",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    }
+  ],
+  "recomendações_estratégicas": [
+    "Lead morno - manter engajamento regular",
+    "Agendar próxima reunião para aprofundar necessidades",
+    "Abordar objeções identificadas: acabou que eu acho que não tá indo pelo botucho, cara, é Rio de Janeiro"
+  ],
+  "email_followup": "Assunto: Material complementar - meganet\n\nOlá,\n\nComo prometido, segue material complementar sobre Urgência: rápido, prazo, tempo.\n\nGostaria de agendar uma breve conversa para discutir como isso pode ajudar sua empresa?\n\nDisponível nos próximos dias.\n\nAtenciosamente,\n[SEU NOME]",
+  "call_script": "ROTEIRO - LEAD MORNO\n1. Retomar conversa anterior\n2. Explorar necessidades mais profundas\n3. Apresentar cases de sucesso\n4. Identificar stakeholders adicionais\n5. Agendar próxima reunião",
+  "data_analise": "2025-09-12",
+  "cliente": "meganet"
+}

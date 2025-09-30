@@ -1,0 +1,54 @@
+CASO DE USO REAL - COMBE
+=====================================
+
+PERFIL DO CLIENTE:
+- 1000+ colaboradores
+- Cultura alemã
+- Processos de digitalização já implementados
+- Usando Kylon para assinatura digital
+- TOTVS para folha de pagamento
+
+DORES IDENTIFICADAS:
+1. ENTREGA DE EPI MANUAL
+   - Processo manual com planilhas Excel
+   - Ficha de EPI preenchida manualmente
+   - Controle de estoque pelo almoxarifado
+   - Horários específicos de entrega (manhã, almoço, final da tarde)
+
+2. CONTROLE DE VENCIMENTOS
+   - Planilha gerada pelo ERM para protetores auriculares
+   - Controle de 6 meses para troca de EPI
+   - Comunicação manual para líderes sobre vencimentos
+
+3. ASOS (Atestados de Saúde Ocupacional)
+   - Documentação física em gaveteiros
+   - Sala do RH a 600 metros da produção
+   - Processo manual para exames e demissões
+
+4. PGR (Programa de Gerenciamento de Riscos)
+   - NR-15 e NR-16
+   - Ordem de serviço manual
+   - Treinamento de NR5
+
+SOLUÇÃO PROPOSTA:
+- Tablet para assinatura digital na entrega de EPI
+- Integração com estoque
+- Evento automático no e-social
+- Digitalização de ASOS
+- Campos personalizados para riscos de trabalho
+
+STAKEHOLDERS:
+- Fernanda: Cuida dos ASOS e vencimentos
+- Monica: Engenheira de segurança do trabalho
+- Ricardo: Usa no servidor (Pique Control ID)
+
+IMPACTO:
+- 20 novos colaboradores por semana
+- Redução de 600 metros de deslocamento
+- Eliminação de processos manuais
+- Compliance total com legislação
+
+PRÓXIMOS PASSOS:
+- Enviar login do Sana
+- Definir prazo para transição de relógio
+- Lista de 40 empresas com desconto

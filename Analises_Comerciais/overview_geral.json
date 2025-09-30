@@ -1,0 +1,90 @@
+[
+  {
+    "Cliente": "action day",
+    "Score_Geral": 8.6,
+    "Urgencia": 8,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "ALTA PRIORIDADE",
+    "Prioridade": "ALTA"
+  },
+  {
+    "Cliente": "ccbc",
+    "Score_Geral": 8.0,
+    "Urgencia": 6,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "ALTA PRIORIDADE",
+    "Prioridade": "ALTA"
+  },
+  {
+    "Cliente": "cubo energia",
+    "Score_Geral": 7.1,
+    "Urgencia": 5,
+    "Autoridade": 5,
+    "Orcamento": 8,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "MÉDIA PRIORIDADE",
+    "Prioridade": "MÉDIA"
+  },
+  {
+    "Cliente": "meganet",
+    "Score_Geral": 8.4,
+    "Urgencia": 8,
+    "Autoridade": 5,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "ALTA PRIORIDADE",
+    "Prioridade": "ALTA"
+  },
+  {
+    "Cliente": "metalcoop",
+    "Score_Geral": 7.8,
+    "Urgencia": 6,
+    "Autoridade": 5,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "MÉDIA PRIORIDADE",
+    "Prioridade": "MÉDIA"
+  },
+  {
+    "Cliente": "piranema",
+    "Score_Geral": 7.7,
+    "Urgencia": 5,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "MÉDIA PRIORIDADE",
+    "Prioridade": "MÉDIA"
+  },
+  {
+    "Cliente": "tech_solutions_exemplo",
+    "Score_Geral": 9.4,
+    "Urgencia": 10,
+    "Autoridade": 8,
+    "Orcamento": 9,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "ALTA PRIORIDADE",
+    "Prioridade": "ALTA"
+  },
+  {
+    "Cliente": "vguard",
+    "Score_Geral": 7.7,
+    "Urgencia": 5,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Classificacao": "MÉDIA PRIORIDADE",
+    "Prioridade": "MÉDIA"
+  }
+]

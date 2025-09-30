@@ -1,0 +1,22 @@
+{
+  "BANT": {
+    "budget": "Identificado",
+    "authority": "Identificado",
+    "need": "Identificado",
+    "timeline": "Identificado"
+  },
+  "MEDDIC": {
+    "metrics": "A definir - precisa perguntar sobre KPIs e métricas de sucesso",
+    "economic_buyer": "Identificado",
+    "decision_criteria": "A definir - precisa perguntar sobre critérios de decisão",
+    "decision_process": "A definir - precisa perguntar sobre processo de decisão",
+    "identify_pain": "Identificado",
+    "champion": "A definir - precisa identificar campeão interno"
+  },
+  "SPIN": {
+    "situation": "Situação atual identificada através da conversa",
+    "problem": "Problemas identificados",
+    "implication": "A definir - precisa explorar implicações dos problemas",
+    "need_payoff": "A definir - precisa explorar benefícios da solução"
+  }
+}

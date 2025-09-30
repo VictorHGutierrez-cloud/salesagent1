@@ -1,0 +1,22 @@
+Cliente,Categoria,Prioridade,Temperatura,Ação,Prazo,Prioridade_Ação,Tipo
+action day,📈 MÉDIO,0.55,Warm,Ligação imediata para action day - Lead com alta urgência,7 dia(s),ALTA,Contato direto
+action day,📈 MÉDIO,0.55,Warm,Envio de proposta comercial para action day,8 dia(s),ALTA,Proposta
+action day,📈 MÉDIO,0.55,Warm,Nurturing campaign para action day,14 dias,MÉDIA,Nurturing
+ccbc,📈 MÉDIO,0.41,Warm,Email de follow-up para ccbc,7 dia(s),MÉDIA,Follow-up
+ccbc,📈 MÉDIO,0.41,Warm,Nurturing campaign para ccbc,14 dias,MÉDIA,Nurturing
+cubo energia,📈 MÉDIO,0.59,Warm,Ligação imediata para cubo energia - Lead com alta urgência,7 dia(s),ALTA,Contato direto
+cubo energia,📈 MÉDIO,0.59,Warm,Envio de proposta comercial para cubo energia,8 dia(s),ALTA,Proposta
+cubo energia,📈 MÉDIO,0.59,Warm,Agendar call de qualificação técnica com cubo energia,12 dias,MÉDIA,Qualificação
+cubo energia,📈 MÉDIO,0.59,Warm,Nurturing campaign para cubo energia,14 dias,MÉDIA,Nurturing
+meganet,⚡ ALTO,0.63,Warm,Ligação imediata para meganet - Lead com alta urgência,3 dia(s),ALTA,Contato direto
+meganet,⚡ ALTO,0.63,Warm,Envio de proposta comercial para meganet,4 dia(s),ALTA,Proposta
+meganet,⚡ ALTO,0.63,Warm,Agendar call de qualificação técnica com meganet,8 dias,MÉDIA,Qualificação
+meganet,⚡ ALTO,0.63,Warm,Nurturing campaign para meganet,10 dias,MÉDIA,Nurturing
+metalcoop,📈 MÉDIO,0.46,Warm,Email de follow-up para metalcoop,7 dia(s),MÉDIA,Follow-up
+metalcoop,📈 MÉDIO,0.46,Warm,Nurturing campaign para metalcoop,14 dias,MÉDIA,Nurturing
+piranema,⚡ ALTO,0.66,Warm,Ligação imediata para piranema - Lead com alta urgência,3 dia(s),ALTA,Contato direto
+piranema,⚡ ALTO,0.66,Warm,Envio de proposta comercial para piranema,4 dia(s),ALTA,Proposta
+piranema,⚡ ALTO,0.66,Warm,Agendar call de qualificação técnica com piranema,8 dias,MÉDIA,Qualificação
+piranema,⚡ ALTO,0.66,Warm,Nurturing campaign para piranema,10 dias,MÉDIA,Nurturing
+vguard,📈 MÉDIO,0.44,Warm,Email de follow-up para vguard,7 dia(s),MÉDIA,Follow-up
+vguard,📈 MÉDIO,0.44,Warm,Nurturing campaign para vguard,14 dias,MÉDIA,Nurturing

@@ -1,0 +1,56 @@
+7 PECADOS DOS CANAIS - FACTORIAL
+=================================
+
+PROBLEMAS IDENTIFICADOS NOS CANAIS DE VENDAS:
+
+1. FALTA DE COMUNICAÇÃO E AGRESSIVIDADE
+   - Canais não comunicam adequadamente
+   - Falta de proatividade nas vendas
+   - Pouco follow-up com leads
+   - Comunicação interna deficiente
+
+2. NÃO FORNECER MATERIAIS SUFICIENTES
+   - Falta de materiais de apoio
+   - Sem cases de sucesso
+   - Poucos materiais visuais
+   - Falta de roteiros de vendas
+
+3. FALTA DE TREINAMENTO ESPECÍFICO
+   - Canais não conhecem produtos
+   - Falta de conhecimento sobre dores
+   - Sem treinamento em objeções
+   - Pouco conhecimento de preços
+
+4. AUSÊNCIA DE METAS CLARAS
+   - Metas não definidas
+   - Falta de KPIs específicos
+   - Sem acompanhamento de performance
+   - Pouco incentivo para vendas
+
+5. FALTA DE SUPORTE TÉCNICO
+   - Pouco suporte para demos
+   - Falta de materiais técnicos
+   - Sem acompanhamento pós-venda
+   - Pouco conhecimento técnico
+
+6. COMUNICAÇÃO INCONSISTENTE
+   - Mensagens diferentes por canal
+   - Falta de padronização
+   - Sem alinhamento de estratégia
+   - Comunicação fragmentada
+
+7. FALTA DE FEEDBACK
+   - Pouco feedback dos clientes
+   - Falta de acompanhamento
+   - Sem métricas de satisfação
+   - Pouco aprendizado com erros
+
+SOLUÇÕES IMPLEMENTADAS:
+======================
+1. Treinamento intensivo dos canais
+2. Materiais padronizados
+3. Metas claras e KPIs
+4. Suporte técnico dedicado
+5. Comunicação unificada
+6. Feedback constante
+7. Acompanhamento regular

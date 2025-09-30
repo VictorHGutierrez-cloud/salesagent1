@@ -1,0 +1,72 @@
+{
+  "Cliente": "Tech Solutions",
+  "Data_Analise": "2025-09-12 11:41:40",
+  "Diagnostico": {
+    "Setor": "tecnologia",
+    "Porte": "media",
+    "Dores_Principais": [
+      "entregar no prazo"
+    ],
+    "Stakeholders": {
+      "Decisores": [
+        "Contato atual"
+      ],
+      "Influenciadores": [
+        "Equipe interna",
+        "Equipe interna"
+      ],
+      "Usuarios": []
+    },
+    "Gatilhos_Emocionais": [],
+    "Objetivos_Declarados": [
+      "de uma solução que funcione imediatamente"
+    ]
+  },
+  "Score_Prioridade": {
+    "Urgencia": 10,
+    "Autoridade": 8,
+    "Orcamento": 9,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Score_Geral": 9.4,
+    "Classificacao": "ALTA PRIORIDADE"
+  },
+  "Resumo_FollowUp": {
+    "Resumo_Executivo": "Cliente do setor tecnologia com alta prioridade (score 9.4/10). Principais dores: entregar no prazo. Alta urgência detectada - priorizar follow-up imediato.",
+    "Objecoes_Identificadas": [
+      "Nenhuma objeção explícita identificada"
+    ],
+    "Respostas_Strategicas": [],
+    "Template_Email": "Assunto: Próximos passos - Cliente\n\n\nOlá Cliente,\n\nObrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.\n\nBaseado na nossa conversa, identifiquei algumas oportunidades interessantes:\n• entregar no prazo\n\nPróximos passos sugeridos:\n• [Ação específica baseada no score de prioridade]\n• [Segunda ação]\n• [Terceira ação]\n\nGostaria de agendar uma call de 15 minutos para discutirmos os detalhes?\n\nAtenciosamente,\n[Seu nome]\n",
+    "Proximos_Passos_Sugeridos": [
+      "PRIORIDADE: Contato imediato via telefone",
+      "Agendar call de fechamento em 24-48h",
+      "Preparar proposta comercial detalhada",
+      "Envolver stakeholders-chave identificados"
+    ]
+  },
+  "Feedback_Pessoal": {
+    "Total_Perguntas": 7,
+    "Perguntas_Abertas": 5,
+    "Perguntas_Fechadas": 2,
+    "Razao_Abertas_Fechadas": 2.5,
+    "Indicadores_Inseguranca": 0,
+    "Indicadores_Confianca": 0,
+    "Score_Confianca": 5,
+    "Melhorias_Sugeridas": [
+      "Preparar perguntas específicas sobre dores e objetivos",
+      "Usar mais cases de sucesso para construir credibilidade",
+      "Focar em benefícios específicos para o cliente"
+    ]
+  },
+  "Proximos_Passos": {
+    "Prioridade": "ALTA",
+    "Acoes_Imediatas": [
+      "Contato telefônico em 24h",
+      "Preparar proposta comercial",
+      "Agendar reunião de fechamento"
+    ],
+    "Prazo_Proxima_Acao": "24-48 horas",
+    "Objetivo_Proxima_Call": "Fechamento da venda"
+  }
+}

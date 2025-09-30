@@ -1,0 +1,65 @@
+[
+  {
+    "cliente": "piranema",
+    "urgencia": 0.92,
+    "necessidade": 0.6,
+    "fit": 0.47,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.6633333333333333
+  },
+  {
+    "cliente": "meganet",
+    "urgencia": 0.83,
+    "necessidade": 0.57,
+    "fit": 0.48,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.6266666666666666
+  },
+  {
+    "cliente": "cubo energia",
+    "urgencia": 0.8,
+    "necessidade": 0.46,
+    "fit": 0.5,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.5866666666666667
+  },
+  {
+    "cliente": "action day",
+    "urgencia": 1.0,
+    "necessidade": 0.33,
+    "fit": 0.33,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.5533333333333333
+  },
+  {
+    "cliente": "metalcoop",
+    "urgencia": 0.61,
+    "necessidade": 0.4,
+    "fit": 0.37,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.45999999999999996
+  },
+  {
+    "cliente": "vguard",
+    "urgencia": 0.6,
+    "necessidade": 0.38,
+    "fit": 0.33,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.4366666666666667
+  },
+  {
+    "cliente": "ccbc",
+    "urgencia": 0.51,
+    "necessidade": 0.39,
+    "fit": 0.34,
+    "confianca": 0.8,
+    "temperature": "Warm",
+    "prioridade": 0.41333333333333333
+  }
+]

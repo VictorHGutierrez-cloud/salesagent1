@@ -1,0 +1,19 @@
+
+=== RELATÓRIO EXECUTIVO - ANÁLISE COMERCIAL ===
+Data: 29/09/2025 00:54
+
+RESUMO GERAL:
+• Total de clientes analisados: 8
+• Score médio de prioridade: 8.1/10
+• Clientes de alta prioridade: 4
+• Taxa de alta prioridade: 50.0%
+
+TOP 3 CLIENTES POR PRIORIDADE:
+1. tech_solutions_exemplo: 9.4/10 (ALTA PRIORIDADE)
+2. action day: 8.6/10 (ALTA PRIORIDADE)
+3. meganet: 8.4/10 (ALTA PRIORIDADE)
+
+PRÓXIMAS AÇÕES RECOMENDADAS:
+• Focar nos 4 clientes de alta prioridade
+• Revisar estratégia para clientes de baixa prioridade
+• Implementar melhorias de performance identificadas

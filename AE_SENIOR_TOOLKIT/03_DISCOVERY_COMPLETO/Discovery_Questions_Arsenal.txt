@@ -1,0 +1,201 @@
+DISCOVERY QUESTIONS ARSENAL - AE SENIOR
+=======================================
+
+🎯 DESCOBERTA ESTRATÉGICA AVANÇADA
+
+ESTRUTURA SPIN SELLING AVANÇADA:
+===============================
+
+S - SITUATION QUESTIONS (SITUAÇÃO)
+==================================
+
+CONTEXTO ORGANIZACIONAL:
+• "Me conta um pouco sobre a [EMPRESA]. Como vocês se posicionam no mercado?"
+• "Qual o tamanho da equipe hoje? E a previsão de crescimento?"
+• "Como está estruturado o RH/DP? Quantas pessoas na equipe?"
+• "Vocês têm quantas unidades/filiais?"
+• "Qual o mix de CLT vs PJ vs terceirizados?"
+
+CONTEXTO TECNOLÓGICO:
+• "Que sistemas vocês usam hoje para RH/DP?"
+• "Como funciona a integração entre os sistemas?"
+• "Quem cuida da parte técnica/TI?"
+• "Já tiveram experiência com SaaS antes?"
+• "Como fazem backup/segurança dos dados?"
+
+CONTEXTO PROCESSUAL:
+• "Como funciona hoje o processo de admissão?"
+• "E o fechamento da folha, como é feito?"
+• "Quem controla ponto/horas extras?"
+• "Como gerenciam férias/ausências?"
+• "Que relatórios vocês precisam gerar?"
+
+P - PROBLEM QUESTIONS (PROBLEMAS)
+=================================
+
+PROBLEMAS OPERACIONAIS:
+• "Quais os maiores desafios do dia a dia do RH?"
+• "O que mais consome tempo da equipe?"
+• "Que erros acontecem com mais frequência?"
+• "Como vocês lidam com prazos apertados?"
+• "Onde vocês sentem mais dificuldade?"
+
+PROBLEMAS ESTRATÉGICOS:
+• "O que mais impede o RH de ser estratégico?"
+• "Que métricas vocês gostariam de ter mas não têm?"
+• "Como vocês medem a performance da equipe?"
+• "Que decisões vocês tomam sem dados suficientes?"
+• "O que o CEO mais cobra do RH?"
+
+PROBLEMAS DE COMPLIANCE:
+• "Já tiveram algum problema em auditoria?"
+• "Como garantem compliance trabalhista?"
+• "Que riscos mais preocupam vocês?"
+• "Como acompanham mudanças na legislação?"
+• "Já tiveram multa trabalhista?"
+
+I - IMPLICATION QUESTIONS (IMPLICAÇÕES)
+======================================
+
+IMPACTO FINANCEIRO:
+• "Quanto isso custa por mês em retrabalho?"
+• "Qual o impacto de um erro de cálculo?"
+• "E se tivessem uma auditoria hoje?"
+• "Quanto vocês perdem com turnover?"
+• "Que multas poderiam evitar?"
+
+IMPACTO OPERACIONAL:
+• "Como isso afeta outras áreas?"
+• "O que acontece quando alguém da equipe sai de férias?"
+• "Como isso limita o crescimento da empresa?"
+• "Que oportunidades vocês perdem por causa disso?"
+• "Como isso afeta a credibilidade do RH?"
+
+IMPACTO ESTRATÉGICO:
+• "Como isso impede vocês de serem mais estratégicos?"
+• "Que projetos ficam em segundo plano?"
+• "Como isso afeta a experiência dos funcionários?"
+• "O que o board pensa sobre isso?"
+• "Como isso impacta a competitividade?"
+
+N - NEED-PAYOFF QUESTIONS (NECESSIDADE-BENEFÍCIO)
+================================================
+
+BENEFÍCIOS FINANCEIROS:
+• "Quanto valeria economizar [X] horas por mês?"
+• "Qual seria o impacto de reduzir erros em 80%?"
+• "E se conseguissem fechar a folha em 2 dias?"
+• "Quanto vale evitar uma multa trabalhista?"
+• "Como seria ter ROI de 300% no primeiro ano?"
+
+BENEFÍCIOS OPERACIONAIS:
+• "Como seria ter visibilidade total dos processos?"
+• "E se pudessem gerar qualquer relatório em segundos?"
+• "Qual seria o impacto de automatizar tudo?"
+• "Como mudaria o dia a dia da equipe?"
+• "E se nunca mais tivessem retrabalho?"
+
+BENEFÍCIOS ESTRATÉGICOS:
+• "Como seria ser parceiro estratégico do negócio?"
+• "E se tivessem métricas para todas as decisões?"
+• "Qual seria o impacto na experiência dos funcionários?"
+• "Como isso mudaria a percepção do RH na empresa?"
+• "E se pudessem focar só no estratégico?"
+
+DISCOVERY AVANÇADO POR PERSONA:
+==============================
+
+CEO/PRESIDENTE:
+• "Qual a maior prioridade estratégica dos próximos 12 meses?"
+• "O que mais te preocupa em termos de riscos?"
+• "Como o RH pode contribuir mais para o resultado?"
+• "Que métricas você acompanha do RH?"
+• "Como você vê o futuro da empresa?"
+
+CFO:
+• "Qual o budget aprovado para tecnologia este ano?"
+• "Como vocês calculam ROI de investimentos?"
+• "Que custos ocultos mais preocupam?"
+• "Como medem eficiência operacional?"
+• "Qual o processo de aprovação de CAPEX?"
+
+CHRO/DIRETOR RH:
+• "Qual sua principal frustração no dia a dia?"
+• "Que projetos você gostaria de tocar mas não consegue?"
+• "Como você mede sucesso do RH?"
+• "O que te impede de ser mais estratégico?"
+• "Como você vê o futuro do RH na empresa?"
+
+CTO/TI:
+• "Que integrações são críticas para vocês?"
+• "Quais os requisitos de segurança?"
+• "Como gerenciam implementações de software?"
+• "Que problemas técnicos mais enfrentam?"
+• "Como está a estratégia de cloud?"
+
+COORDENADOR/ANALISTA RH:
+• "O que mais consome seu tempo?"
+• "Que tarefas você odeia fazer?"
+• "Onde vocês cometem mais erros?"
+• "O que te deixa mais estressado?"
+• "Como seria seu dia ideal?"
+
+DISCOVERY CHECKLIST:
+===================
+
+BEFORE THE CALL:
+✅ Research da empresa (15 min mínimo)
+✅ LinkedIn dos participantes
+✅ Notícias recentes/trigger events
+✅ Competitors analysis
+✅ Prep das perguntas específicas
+
+DURING THE CALL:
+✅ Listening ratio 70/30
+✅ Take notes detalhadas
+✅ Confirm understanding
+✅ Ask for specific examples
+✅ Quantify everything
+
+AFTER THE CALL:
+✅ Summarize findings
+✅ Qualify com MEDDIC
+✅ Define next steps
+✅ Send follow-up in 2h
+✅ Update CRM completely
+
+RED FLAGS:
+==========
+🚩 "Estamos só pesquisando"
+🚩 "Não temos budget aprovado"
+🚩 "É só uma cotação para o jurídico"
+🚩 "Estamos satisfeitos com o atual"
+🚩 "Não há urgência"
+🚩 "Quero só o preço"
+🚩 "Vamos decidir no próximo ano"
+
+GREEN FLAGS:
+============
+🟢 Specific pain points mencionados
+🟢 Timeline definido
+🟢 Budget range mencionado
+🟢 Multiple stakeholders involved
+🟢 Current solution failing
+🟢 Growth/expansion plans
+🟢 Compliance pressures
+
+DISCOVERY SCORING:
+==================
+• Pain identified: 25 pontos
+• Quantified impact: 20 pontos
+• Timeline defined: 15 pontos
+• Budget confirmed: 15 pontos
+• Decision process mapped: 15 pontos
+• Champion identified: 10 pontos
+
+PRÓXIMOS PASSOS POR SCORE:
+=========================
+80-100: Demo personalizada + ROI
+60-79: More discovery + stakeholders
+40-59: Pain amplification + education
+0-39: Disqualify ou long-term nurture

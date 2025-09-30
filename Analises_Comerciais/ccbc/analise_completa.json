@@ -1,0 +1,75 @@
+{
+  "Cliente": "ccbc",
+  "Data_Analise": "2025-09-29 00:54:54",
+  "Diagnostico": {
+    "Setor": "tecnologia",
+    "Porte": "grande",
+    "Dores_Principais": [
+      "que o próprio gestor não estava conseguindo aprovar os pontos e aí o gestor RH fazia essa função, mas a ideia é justamente o gestor ser responsável por essas aprovações, de atestados, de declaração de horas, enfim"
+    ],
+    "Stakeholders": {
+      "Decisores": [],
+      "Influenciadores": [
+        "Equipe interna",
+        "Equipe interna"
+      ],
+      "Usuarios": []
+    },
+    "Gatilhos_Emocionais": [],
+    "Objetivos_Declarados": [
+      "em geral",
+      "eu tenho várias pessoas atribuídas",
+      "numérica"
+    ]
+  },
+  "Score_Prioridade": {
+    "Urgencia": 6,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Score_Geral": 8.0,
+    "Classificacao": "ALTA PRIORIDADE"
+  },
+  "Resumo_FollowUp": {
+    "Resumo_Executivo": "Cliente do setor tecnologia com alta prioridade (score 8.0/10). Principais dores: que o próprio gestor não estava conseguindo aprovar os pontos e aí o gestor RH fazia essa função, mas a ideia é justamente o gestor ser responsável por essas aprovações, de atestados, de declaração de horas, enfim. Urgência moderada - agendar follow-up em 48h.",
+    "Objecoes_Identificadas": [
+      "Objeção detectada: (?:muito\\s+)?(?:caro|caro\\s+demais)"
+    ],
+    "Respostas_Strategicas": [
+      "Focar no ROI e economia de longo prazo. Apresentar casos de sucesso com retorno comprovado."
+    ],
+    "Template_Email": "Assunto: Próximos passos - Cliente\n\n\nOlá Cliente,\n\nObrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.\n\nBaseado na nossa conversa, identifiquei algumas oportunidades interessantes:\n• que o próprio gestor não estava conseguindo aprovar os pontos e aí o gestor RH fazia essa função, mas a ideia é justamente o gestor ser responsável por essas aprovações, de atestados, de declaração de horas, enfim\n\nPróximos passos sugeridos:\n• [Ação específica baseada no score de prioridade]\n• [Segunda ação]\n• [Terceira ação]\n\nGostaria de agendar uma call de 15 minutos para discutirmos os detalhes?\n\nAtenciosamente,\n[Seu nome]\n",
+    "Proximos_Passos_Sugeridos": [
+      "Agendar call de fechamento em 24-48h",
+      "Preparar proposta comercial detalhada",
+      "Envolver stakeholders-chave identificados"
+    ]
+  },
+  "Feedback_Pessoal": {
+    "Total_Perguntas": 193,
+    "Perguntas_Abertas": 137,
+    "Perguntas_Fechadas": 56,
+    "Razao_Abertas_Fechadas": 2.45,
+    "Indicadores_Inseguranca": 59,
+    "Indicadores_Confianca": 0,
+    "Score_Confianca": 0,
+    "Melhorias_Sugeridas": [
+      "Reduzir uso de palavras que transmitem insegurança (acho, talvez)",
+      "Usar mais linguagem assertiva e baseada em fatos",
+      "Preparar perguntas específicas sobre dores e objetivos",
+      "Usar mais cases de sucesso para construir credibilidade",
+      "Focar em benefícios específicos para o cliente"
+    ]
+  },
+  "Proximos_Passos": {
+    "Prioridade": "ALTA",
+    "Acoes_Imediatas": [
+      "Contato telefônico em 24h",
+      "Preparar proposta comercial",
+      "Agendar reunião de fechamento"
+    ],
+    "Prazo_Proxima_Acao": "24-48 horas",
+    "Objetivo_Proxima_Call": "Fechamento da venda"
+  }
+}

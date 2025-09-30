@@ -1,0 +1,105 @@
+{
+  "resumo_executivo": "Lead warm com scores: Urgência 1.0, Necessidade 0.33, Fit 0.33. 5 stakeholders identificados.",
+  "highlights": [
+    "Urgência: rápido, prazo, tempo",
+    "Necessidades: necessário, problema, dor",
+    "Fit: perfeito, alinhado, certo"
+  ],
+  "scores": {
+    "urgencia": 1.0,
+    "necessidade": 0.33,
+    "fit": 0.33,
+    "confianca": 0.8
+  },
+  "temperature": "Warm",
+  "frameworks": {
+    "BANT": {
+      "budget": "Identificado",
+      "authority": "Identificado",
+      "need": "Identificado",
+      "timeline": "Identificado"
+    },
+    "MEDDIC": {
+      "metrics": "A definir - precisa perguntar sobre KPIs e métricas de sucesso",
+      "economic_buyer": "Identificado",
+      "decision_criteria": "A definir - precisa perguntar sobre critérios de decisão",
+      "decision_process": "A definir - precisa perguntar sobre processo de decisão",
+      "identify_pain": "Identificado",
+      "champion": "A definir - precisa identificar campeão interno"
+    },
+    "SPIN": {
+      "situation": "Situação atual identificada através da conversa",
+      "problem": "Problemas identificados",
+      "implication": "A definir - precisa explorar implicações dos problemas",
+      "need_payoff": "A definir - precisa explorar benefícios da solução"
+    }
+  },
+  "stakeholders": [
+    {
+      "nome": "Vamos supor que seus",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de pontos por",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "Para que seu",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "do meu",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "aqueceu dentro do objetivo do seu",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    }
+  ],
+  "objeções": [
+    "estou frente dos processos da Action",
+    "eu quero entender qual que seria o objetivo aqui hoje de vocês, pessoal",
+    "estilo Netflix, sabe",
+    "eu entendi inicialmente que vocês têm treinamentos, querem entender PDI, e eu já vou mostrar diretamente para vocês qual que é a visão de um gestor dentro do perfil de um colaborador, onde a gente vai centralizar inicialmente tudo isso que vocês falaram",
+    "a ClickUp tá vindo forte com as tecnologias, eles estão querendo centralizar até Slack, é como se você, enfim, ClickUp tá vindo forte, mas acho que não é exatamente pra isso, né"
+  ],
+  "próximos_passos": [
+    {
+      "ação": "ver se a gente consegue",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "mostrar diretamente para vocês qual que é a visão de um gestor dentro do perfil de um colaborador, onde a gente vai centralizar inicialmente tudo isso que vocês falaram",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "mandar para o gestor uma eficácia também, tá",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    }
+  ],
+  "recomendações_estratégicas": [
+    "Lead morno - manter engajamento regular",
+    "Agendar próxima reunião para aprofundar necessidades",
+    "Abordar objeções identificadas: estou frente dos processos da Action, eu quero entender qual que seria o objetivo aqui hoje de vocês, pessoal"
+  ],
+  "email_followup": "Assunto: Material complementar - action day\n\nOlá,\n\nComo prometido, segue material complementar sobre Urgência: rápido, prazo, tempo.\n\nGostaria de agendar uma breve conversa para discutir como isso pode ajudar sua empresa?\n\nDisponível nos próximos dias.\n\nAtenciosamente,\n[SEU NOME]",
+  "call_script": "ROTEIRO - LEAD MORNO\n1. Retomar conversa anterior\n2. Explorar necessidades mais profundas\n3. Apresentar cases de sucesso\n4. Identificar stakeholders adicionais\n5. Agendar próxima reunião",
+  "data_analise": "2025-09-12",
+  "cliente": "action day"
+}

@@ -1,0 +1,99 @@
+LEADS QUALIFICADOS - FACTORIAL
+==============================
+
+CLIENTES ATIVOS:
+===============
+
+1. MOBOCARE TECNOLOGIA
+   - Colaboradores: 7
+   - Módulos: Core + Time
+   - Status: Ativo
+   - Responsável: [Nome]
+   - Telefone: [Telefone]
+   - Email: [Email]
+
+2. AMAZONIERE DOCURAS
+   - Colaboradores: 9
+   - Módulos: Core + Ausências
+   - Status: Ativo
+   - Responsável: [Nome]
+   - Telefone: [Telefone]
+   - Email: [Email]
+
+3. LM AUTOMÓVEIS
+   - Colaboradores: 2
+   - Módulos: Core
+   - Status: Ativo
+   - Responsável: [Nome]
+   - Telefone: [Telefone]
+   - Email: [Email]
+
+4. JVE FARDAMENTOS
+   - Colaboradores: 2
+   - Módulos: Core + Time
+   - Status: Ativo
+   - Responsável: [Nome]
+   - Telefone: [Telefone]
+   - Email: [Email]
+
+5. SIMDATA SISTEMAS LTDA ME
+   - Colaboradores: 9
+   - Módulos: Core + Performance
+   - Status: Ativo
+   - Responsável: [Nome]
+   - Telefone: [Telefone]
+   - Email: [Email]
+
+LEADS EM NEGOCIAÇÃO:
+===================
+
+1. COMBE
+   - Colaboradores: 1000+
+   - Dores: EPI manual, ASOS, PGR
+   - Status: Hot Lead
+   - Próximo passo: Demo técnica
+   - Stakeholder: Monica (Eng. Segurança)
+
+2. DI PAOLO
+   - Colaboradores: 400
+   - Dores: Treinamentos, AVD, PDI
+   - Status: Hot Lead
+   - Próximo passo: Proposta comercial
+   - Stakeholder: Gestor de área
+
+3. IFOOD
+   - Colaboradores: 500+
+   - Dores: Gestão de leads, CRM
+   - Status: Warm Lead
+   - Próximo passo: Reunião estratégica
+   - Stakeholder: Ewerton Barros
+
+4. MADEISA
+   - Colaboradores: 1300
+   - Dores: Onboarding, EPI
+   - Status: Warm Lead
+   - Próximo passo: Apresentação
+   - Stakeholder: [Nome]
+
+LEADS FRIOS:
+===========
+
+1. EMPRESAS COM < 30 RECARGAS
+   - Quantidade: 55
+   - Status: Cold
+   - Estratégia: Reengajamento
+   - Próximo passo: Campanha de reativação
+
+2. EMPRESAS SEM RECARGA
+   - Quantidade: 21
+   - Status: Cold
+   - Estratégia: Investigação
+   - Próximo passo: Entender motivos
+
+MÉTRICAS DE CONVERSÃO:
+=====================
+- Taxa de conversão: 15%
+- Tempo médio de fechamento: 45 dias
+- Ticket médio: R$ 2.500/mês
+- Churn rate: 5%
+- NPS: 8.5

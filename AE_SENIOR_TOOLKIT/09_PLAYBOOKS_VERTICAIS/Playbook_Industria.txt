@@ -1,0 +1,327 @@
+PLAYBOOK VERTICAL - INDÚSTRIA
+=============================
+
+🎯 ESTRATÉGIA ESPECÍFICA PARA SETOR INDUSTRIAL
+
+PERFIL DO SETOR:
+===============
+
+CARACTERÍSTICAS GERAIS:
+• 500-5000+ funcionários
+• Múltiplos turnos
+• Compliance rigoroso
+• Processos padronizados
+• Foco em eficiência
+• Cultura de segurança
+• Sindicatos ativos
+
+STAKEHOLDERS TÍPICOS:
+• CEO/Presidente
+• Diretor Industrial
+• Gerente de RH
+• Coordenador de Segurança
+• Analista de DP
+• Supervisor de Produção
+• Representante Sindical
+
+DORES ESPECÍFICAS DA INDÚSTRIA:
+==============================
+
+1. CONTROLE DE PONTO COMPLEXO:
+• Múltiplos turnos (6h, 8h, 12h)
+• Banco de horas sindical
+• Horas extras limitadas
+• Adicional noturno
+• Escala de revezamento
+• Controle por setor/linha
+
+2. SEGURANÇA DO TRABALHO:
+• NRs obrigatórias (1, 5, 6, 7, 9, 15, 16, 17, etc.)
+• Entrega/controle de EPI
+• Treinamentos obrigatórios
+• ASOS por função
+• PGR/LTCAT
+• CIPA ativa
+
+3. COMPLIANCE TRABALHISTA:
+• Convenções coletivas específicas
+• Adicional de insalubridade
+• Adicional de periculosidade
+• Intervalo intrajornada
+• Descanso semanal
+• Medicina do trabalho
+
+4. GESTÃO DE TURNOVER:
+• Rotatividade alta
+• Contratação sazonal
+• Processo seletivo massivo
+• Onboarding padronizado
+• Offboarding controlado
+
+MESSAGING ESPECÍFICO:
+====================
+
+VALUE PROPOSITION PRINCIPAL:
+"Eliminamos 90% dos processos manuais de RH, garantimos 100% de compliance industrial e reduzimos riscos trabalhistas em 95%"
+
+PAIN AMPLIFICATION:
+"Uma única auditoria do Ministério do Trabalho pode resultar em multas de R$ 500k+ e interdição da planta. Vale o risco?"
+
+ROI MESSAGING:
+"Indústrias similares economizam R$ 50k+ por mês só em redução de retrabalho. ROI médio: 400% no primeiro ano."
+
+DISCOVERY QUESTIONS VERTICAIS:
+=============================
+
+OPERACIONAIS:
+• "Quantos turnos vocês operam?"
+• "Como controlam banco de horas sindical?"
+• "Qual o processo de entrega de EPI?"
+• "Como fazem treinamentos obrigatórios?"
+• "Quantas NRs vocês precisam atender?"
+
+COMPLIANCE:
+• "Já tiveram auditoria do Ministério do Trabalho?"
+• "Como garantem cumprimento da convenção coletiva?"
+• "Que controles têm para insalubridade/periculosidade?"
+• "Como documentam treinamentos de segurança?"
+• "Já tiveram multa trabalhista?"
+
+PROCESSUAIS:
+• "Como é o fechamento de folha com múltiplos turnos?"
+• "Quanto tempo leva para admitir 50 funcionários?"
+• "Como controlam absenteísmo por setor?"
+• "Que relatórios precisam para sindicato?"
+• "Como medem produtividade por turno?"
+
+DEMO FLOW INDUSTRIAL:
+=====================
+
+1. CONTROLE DE PONTO AVANÇADO (15 min):
+• Configuração de turnos complexos
+• Banco de horas sindical
+• Adicional noturno automático
+• Controle por centro de custo
+• Relatórios específicos
+
+2. SEGURANÇA DO TRABALHO (15 min):
+• Gestão de EPI digital
+• Treinamentos obrigatórios
+• Controle de vencimentos
+• ASOS automatizado
+• Dashboard de compliance
+
+3. GESTÃO DE PESSOAS (15 min):
+• Onboarding massivo
+• Avaliação por competência
+• Plano de carreira
+• Gestão de performance
+• Analytics de RH
+
+ROI ESPECÍFICO INDÚSTRIA:
+========================
+
+BENCHMARK SETORIAL:
+• Redução de 70% em tempo de fechamento de folha
+• Economia de R$ 30k+/mês em retrabalho
+• 95% menos riscos de multa trabalhista
+• ROI médio: 350% no primeiro ano
+
+CASE DE SUCESSO PADRÃO:
+"Metalúrgica com 1.200 funcionários economizou R$ 480k/ano eliminando planilhas e automatizando compliance. Payback em 4 meses."
+
+OBJECTION HANDLING VERTICAL:
+============================
+
+"NOSSOS PROCESSOS SÃO MUITO ESPECÍFICOS":
+"Perfeito! Por isso configuramos para atender convenção coletiva, turnos específicos, e todas as NRs do seu setor. Posso mostrar casos similares?"
+
+"SINDICATO PODE NÃO ACEITAR":
+"Na verdade, sindicatos adoram transparência total. Com nossa solução, eles têm acesso a todos os dados em tempo real. Eliminamos conflitos."
+
+"E SE PARAR EM PRODUÇÃO?":
+"Implementação 100% paralela, zero downtime. Validamos tudo antes de migrar. Já fizemos 50+ indústrias sem nenhum problema."
+
+"MUITO CARO PARA INDÚSTRIA":
+"Na verdade, é barato. Uma multa trabalhista custa mais que 3 anos de licença. Uma hora de produção parada custa mais que 1 mês. Perspectiva, né?"
+
+COMPETITIVE BATTLECARDS:
+=======================
+
+VS. SISTEMAS LEGADOS:
+• Tecnologia: Cloud vs on-premise
+• Compliance: Atualização automática vs manual
+• Integração: API nativa vs customização
+• Suporte: 24/7 vs horário comercial
+
+VS. CONCORRENTES:
+• Funcionalidades: 100% industrial vs genérico
+• Implementação: 30 dias vs 6+ meses
+• Preço: Transparent vs oculto
+• Referências: 50+ indústrias vs poucos
+
+IMPLEMENTATION ROADMAP:
+======================
+
+FASE 1 - SETUP (SEMANA 1-2):
+• Importação de funcionários
+• Configuração de turnos
+• Setup de centros de custo
+• Integração com ponto eletrônico
+• Configuração sindical
+
+FASE 2 - PILOTO (SEMANA 2-3):
+• Teste com 1 setor
+• Validação de cálculos
+• Treinamento supervisores
+• Ajustes necessários
+• Aprovação sindical
+
+FASE 3 - ROLLOUT (SEMANA 3-4):
+• Migração completa
+• Treinamento geral
+• Go-live monitorado
+• Suporte intensivo
+• Validação final
+
+FASE 4 - OTIMIZAÇÃO (SEMANA 4-6):
+• Relatórios específicos
+• Automações avançadas
+• Integrações adicionais
+• Best practices
+• Treinamento avançado
+
+RECURSOS ESPECÍFICOS:
+====================
+
+CASE STUDIES:
+• Metalúrgica (1200 funcionários)
+• Química (800 funcionários)  
+• Alimentícia (2000 funcionários)
+• Automotiva (1500 funcionários)
+• Farmacêutica (600 funcionários)
+
+MATERIAIS TÉCNICOS:
+• NRs atendidas
+• Convenções configuradas
+• Integrações disponíveis
+• Certificações de segurança
+• Compliance checklist
+
+FERRAMENTAS DE VENDAS:
+• ROI calculator específico
+• Compliance assessment
+• Demo environment industrial
+• Reference calls setoriais
+• Implementation timeline
+
+MÉTRICAS DE SUCESSO:
+===================
+
+VENDAS:
+• Conversion rate: 35%+
+• Deal size: R$ 50k+ ARR
+• Sales cycle: 90 dias
+• Pipeline velocity: +40%
+
+IMPLEMENTAÇÃO:
+• Time-to-value: 30 dias
+• User adoption: 95%+
+• Go-live success: 100%
+• Customer satisfaction: 9.5+
+
+EXPANSION:
+• Upsell rate: 60%+
+• Additional modules: 2.3 avg
+• Referral rate: 40%+
+• Retention rate: 98%+
+
+ENABLEMENT CHECKLIST:
+====================
+
+CONHECIMENTO TÉCNICO:
+✅ NRs principais
+✅ Convenções coletivas
+✅ Turnos industriais
+✅ Cálculos específicos
+✅ Integrações típicas
+
+CONHECIMENTO COMERCIAL:
+✅ ROI benchmarks
+✅ Competitive landscape
+✅ Pricing strategies
+✅ Reference stories
+✅ Objection handling
+
+FERRAMENTAS:
+✅ Demo environment
+✅ ROI calculator
+✅ Battle cards
+✅ Case studies
+✅ Technical specs
+
+PRÓXIMOS PASSOS TÍPICOS:
+========================
+
+APÓS DISCOVERY:
+• Demo personalizada agendada
+• Stakeholders mapeados
+• ROI preliminar enviado
+• References compartilhadas
+
+APÓS DEMO:
+• Proposta técnica enviada
+• Pilot project proposto
+• Executive presentation agendada
+• Timeline definido
+
+APÓS PROPOSTA:
+• Negotiation call agendada
+• Legal review iniciado
+• Implementation planning
+• Contract finalization
+
+SUCCESS METRICS POR ETAPA:
+==========================
+
+PROSPECTING:
+• Response rate: 20%+
+• Meeting rate: 8%+
+• Qualification rate: 60%+
+
+DISCOVERY:
+• Next step rate: 80%+
+• Demo conversion: 70%+
+• Stakeholder expansion: 2.5 avg
+
+DEMO:
+• Engagement score: 8+
+• Proposal request: 60%+
+• Reference calls: 40%+
+
+PROPOSAL:
+• Win rate: 45%+
+• Average deal size: R$ 75k
+• Time to close: 30 dias
+
+RED FLAGS SETORIAIS:
+===================
+
+🚩 "Nunca tivemos problema trabalhista"
+🚩 "Sindicato não vai aceitar mudança"
+🚩 "Sistema atual atende bem"
+🚩 "Não temos budget para tecnologia"
+🚩 "Só compramos de fornecedor nacional"
+🚩 "Precisamos de customização total"
+🚩 "Implantação não pode afetar produção"
+
+GREEN FLAGS SETORIAIS:
+=====================
+
+🟢 Auditoria recente do MT
+🟢 Projeto de expansão/nova planta
+🟢 Problema com sindicato
+🟢 Multa trabalhista recente
+🟢 Troca de liderança RH
+🟢 Crescimento acelerado
+🟢 Digitalização em curso

@@ -1,0 +1,275 @@
+{
+  "data_geracao": "2025-09-12 02:57",
+  "resumo_executivo": "Plano de ação para 7 leads analisados",
+  "leads_por_prioridade": [
+    {
+      "cliente": "action day",
+      "categoria": "📈 MÉDIO",
+      "prioridade": 0.55,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Ligação imediata para action day - Lead com alta urgência",
+          "prazo": "7 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Contato direto"
+        },
+        {
+          "acao": "Envio de proposta comercial para action day",
+          "prazo": "8 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Proposta"
+        },
+        {
+          "acao": "Nurturing campaign para action day",
+          "prazo": "14 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "ccbc",
+      "categoria": "📈 MÉDIO",
+      "prioridade": 0.41,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Email de follow-up para ccbc",
+          "prazo": "7 dia(s)",
+          "prioridade": "MÉDIA",
+          "tipo": "Follow-up"
+        },
+        {
+          "acao": "Nurturing campaign para ccbc",
+          "prazo": "14 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "cubo energia",
+      "categoria": "📈 MÉDIO",
+      "prioridade": 0.59,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Ligação imediata para cubo energia - Lead com alta urgência",
+          "prazo": "7 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Contato direto"
+        },
+        {
+          "acao": "Envio de proposta comercial para cubo energia",
+          "prazo": "8 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Proposta"
+        },
+        {
+          "acao": "Agendar call de qualificação técnica com cubo energia",
+          "prazo": "12 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Qualificação"
+        },
+        {
+          "acao": "Nurturing campaign para cubo energia",
+          "prazo": "14 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "meganet",
+      "categoria": "⚡ ALTO",
+      "prioridade": 0.63,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Ligação imediata para meganet - Lead com alta urgência",
+          "prazo": "3 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Contato direto"
+        },
+        {
+          "acao": "Envio de proposta comercial para meganet",
+          "prazo": "4 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Proposta"
+        },
+        {
+          "acao": "Agendar call de qualificação técnica com meganet",
+          "prazo": "8 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Qualificação"
+        },
+        {
+          "acao": "Nurturing campaign para meganet",
+          "prazo": "10 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "metalcoop",
+      "categoria": "📈 MÉDIO",
+      "prioridade": 0.46,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Email de follow-up para metalcoop",
+          "prazo": "7 dia(s)",
+          "prioridade": "MÉDIA",
+          "tipo": "Follow-up"
+        },
+        {
+          "acao": "Nurturing campaign para metalcoop",
+          "prazo": "14 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "piranema",
+      "categoria": "⚡ ALTO",
+      "prioridade": 0.66,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Ligação imediata para piranema - Lead com alta urgência",
+          "prazo": "3 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Contato direto"
+        },
+        {
+          "acao": "Envio de proposta comercial para piranema",
+          "prazo": "4 dia(s)",
+          "prioridade": "ALTA",
+          "tipo": "Proposta"
+        },
+        {
+          "acao": "Agendar call de qualificação técnica com piranema",
+          "prazo": "8 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Qualificação"
+        },
+        {
+          "acao": "Nurturing campaign para piranema",
+          "prazo": "10 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    },
+    {
+      "cliente": "vguard",
+      "categoria": "📈 MÉDIO",
+      "prioridade": 0.44,
+      "temperatura": "Warm",
+      "sugestoes": [
+        {
+          "acao": "Email de follow-up para vguard",
+          "prazo": "7 dia(s)",
+          "prioridade": "MÉDIA",
+          "tipo": "Follow-up"
+        },
+        {
+          "acao": "Nurturing campaign para vguard",
+          "prazo": "14 dias",
+          "prioridade": "MÉDIA",
+          "tipo": "Nurturing"
+        }
+      ]
+    }
+  ],
+  "acoes_imediatas": [],
+  "acoes_semana": [
+    {
+      "acao": "Ligação imediata para meganet - Lead com alta urgência",
+      "prazo": "3 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Contato direto"
+    },
+    {
+      "acao": "Envio de proposta comercial para meganet",
+      "prazo": "4 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Proposta"
+    },
+    {
+      "acao": "Ligação imediata para piranema - Lead com alta urgência",
+      "prazo": "3 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Contato direto"
+    },
+    {
+      "acao": "Envio de proposta comercial para piranema",
+      "prazo": "4 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Proposta"
+    }
+  ],
+  "acoes_mes": [
+    {
+      "acao": "Ligação imediata para action day - Lead com alta urgência",
+      "prazo": "7 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Contato direto"
+    },
+    {
+      "acao": "Email de follow-up para ccbc",
+      "prazo": "7 dia(s)",
+      "prioridade": "MÉDIA",
+      "tipo": "Follow-up"
+    },
+    {
+      "acao": "Ligação imediata para cubo energia - Lead com alta urgência",
+      "prazo": "7 dia(s)",
+      "prioridade": "ALTA",
+      "tipo": "Contato direto"
+    },
+    {
+      "acao": "Email de follow-up para metalcoop",
+      "prazo": "7 dia(s)",
+      "prioridade": "MÉDIA",
+      "tipo": "Follow-up"
+    },
+    {
+      "acao": "Email de follow-up para vguard",
+      "prazo": "7 dia(s)",
+      "prioridade": "MÉDIA",
+      "tipo": "Follow-up"
+    }
+  ],
+  "metricas_sucesso": [
+    "Taxa de conversão de leads quentes: >70%",
+    "Tempo médio de resposta: <24h para leads críticos",
+    "Taxa de follow-up: 100% dos leads em 48h",
+    "Taxa de reuniões agendadas: >50% dos contatos"
+  ],
+  "calendario_sugerido": [
+    {
+      "data": "2025-09-13",
+      "atividade": "Follow-up imediato com leads críticos",
+      "leads": []
+    },
+    {
+      "data": "2025-09-15",
+      "atividade": "Reuniões de qualificação com leads de alta prioridade",
+      "leads": []
+    },
+    {
+      "data": "2025-09-19",
+      "atividade": "Apresentação de propostas para leads quentes",
+      "leads": []
+    },
+    {
+      "data": "2025-09-26",
+      "atividade": "Revisão de pipeline e ajustes estratégicos",
+      "leads": "Todos os leads ativos"
+    }
+  ]
+}

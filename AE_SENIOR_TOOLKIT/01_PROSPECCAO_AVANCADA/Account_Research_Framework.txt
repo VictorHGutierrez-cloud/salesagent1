@@ -1,0 +1,466 @@
+ACCOUNT RESEARCH FRAMEWORK - AE SENIOR
+======================================
+
+🎯 METODOLOGIA HARDCORE DE PESQUISA
+
+RESEARCH METHODOLOGY AVANÇADA:
+==============================
+
+ESTRUTURA DE PESQUISA (30 MIN/CONTA):
+====================================
+
+FASE 1 - COMPANY INTELLIGENCE (10 MIN):
+=======================================
+
+FONTES PRIMÁRIAS:
+• Website oficial + blog
+• LinkedIn company page
+• Glassdoor reviews
+• Crunchbase profile
+• G2/Capterra reviews
+
+FONTES SECUNDÁRIAS:
+• Google News últimos 6 meses
+• Press releases
+• Relatórios anuais
+• Apresentações investidores
+• Podcasts/entrevistas CEO
+
+INFORMAÇÕES CRÍTICAS:
+• Revenue/funding stage
+• Growth trajectory
+• Recent expansions
+• Technology stack
+• Competitive positioning
+
+RESEARCH CHECKLIST COMPANY:
+===========================
+
+BASIC INFO:
+□ Fundação/idade da empresa
+□ Número de funcionários
+□ Número de escritórios/países
+□ Revenue estimado (se público)
+□ Funding total (se startup)
+
+BUSINESS MODEL:
+□ B2B vs B2C vs B2B2C
+□ SaaS vs Product vs Service
+□ Target market/ICP
+□ Pricing model
+□ Revenue streams
+
+GROWTH INDICATORS:
+□ Hiring spree (50+ vagas)
+□ New office/expansion
+□ Product launches
+□ Funding rounds
+□ Acquisitions
+
+PAIN INDICATORS:
+□ Layoffs recentes
+□ Executive turnover
+□ Negative reviews
+□ Compliance issues
+□ Technical debt mentioned
+
+FASE 2 - STAKEHOLDER MAPPING (15 MIN):
+======================================
+
+DECISION MAKERS IDENTIFICATION:
+• CEO/President
+• CFO/Finance Director
+• CHRO/VP People
+• CTO/VP Engineering
+• COO/Operations
+
+LINKEDIN DEEP DIVE:
+• Background profissional
+• Education/certifications
+• Recent posts/activity
+• Mutual connections
+• Interests/hobbies
+
+INFLUENCE MAPPING:
+• Reporting structure
+• Decision influence level
+• Budget authority
+• Technical vs business focus
+• Internal vs external hire
+
+STAKEHOLDER PROFILES:
+====================
+
+CEO PROFILE TEMPLATE:
+• Nome: [NOME]
+• Tenure: [TEMPO] na empresa
+• Background: [EXPERIÊNCIA ANTERIOR]
+• Education: [FORMAÇÃO]
+• Focus areas: [PRIORIDADES]
+• Pain points: [CHALLENGES]
+• Communication style: [FORMAL/CASUAL]
+• Decision criteria: [FINANCIAL/STRATEGIC]
+
+CHRO PROFILE TEMPLATE:
+• Nome: [NOME]
+• Team size: [PESSOAS RH]
+• HR tech stack: [FERRAMENTAS ATUAIS]
+• Recent initiatives: [PROJETOS]
+• Challenges: [DORES ESPECÍFICAS]
+• Success metrics: [KPIS]
+• Reporting to: [CEO/COO]
+• Budget authority: [SIM/NÃO]
+
+CFO PROFILE TEMPLATE:
+• Nome: [NOME]
+• Financial priorities: [COST/GROWTH]
+• Recent financial moves: [INITIATIVES]
+• Risk tolerance: [HIGH/LOW]
+• ROI requirements: [THRESHOLDS]
+• Approval process: [BOARD/SOLO]
+• Investment philosophy: [CONSERVATIVE/AGGRESSIVE]
+
+FASE 3 - TRIGGER EVENTS RESEARCH (5 MIN):
+=========================================
+
+GROWTH TRIGGERS:
+• Série A/B/C funding
+• IPO preparation
+• International expansion
+• New product launch
+• Market expansion
+• Strategic partnerships
+
+OPERATIONAL TRIGGERS:
+• New office opening
+• Merger & acquisition
+• Technology migration
+• Compliance requirements
+• System upgrades
+• Process improvements
+
+PEOPLE TRIGGERS:
+• Executive hiring
+• Team expansion
+• Organizational restructure
+• Remote work transition
+• Culture initiatives
+• Employee experience focus
+
+FINANCIAL TRIGGERS:
+• Cost reduction programs
+• Efficiency initiatives
+• Budget planning cycle
+• Quarterly earnings pressure
+• Investor demands
+• Market pressures
+
+TRIGGER EVENT SCORING:
+=====================
+
+HIGH PRIORITY (CONTACT IMMEDIATELY):
+• Executive hire (CHRO/CFO) - last 30 days
+• Funding round - last 60 days
+• Expansion announcement - last 90 days
+• Compliance issue - any time
+• Competitor mention - last 30 days
+
+MEDIUM PRIORITY (CONTACT THIS WEEK):
+• Team expansion - last 90 days
+• Technology upgrade - last 6 months
+• Process improvement initiative - ongoing
+• Employee survey results - last quarter
+• Industry conference speaking - upcoming
+
+LOW PRIORITY (ADD TO NURTURE):
+• General growth mentions
+• Thought leadership content
+• Conference attendance
+• Industry recognition
+• Partnership announcements
+
+RESEARCH TOOLS & SOURCES:
+=========================
+
+FREE TOOLS:
+• LinkedIn Sales Navigator
+• Google Alerts
+• Glassdoor Insights
+• Crunchbase Basic
+• Company websites
+
+PAID TOOLS:
+• ZoomInfo/Apollo
+• 6sense
+• Bombora
+• Clearbit
+• BuiltWith
+
+SOCIAL LISTENING:
+• Twitter mentions
+• LinkedIn company updates
+• Glassdoor reviews
+• Reddit discussions
+• Industry forums
+
+NEWS MONITORING:
+• Google News alerts
+• PR Newswire
+• Business journals
+• Industry publications
+• Podcast mentions
+
+RESEARCH TEMPLATES:
+==================
+
+ACCOUNT RESEARCH DOCUMENT:
+==========================
+
+COMPANY: [EMPRESA]
+RESEARCH DATE: [DATA]
+RESEARCHER: [NOME]
+
+EXECUTIVE SUMMARY:
+• Company stage: [STARTUP/GROWTH/ENTERPRISE]
+• Employee count: [NUMBER]
+• Revenue estimate: [RANGE]
+• Primary business: [DESCRIPTION]
+• Key challenges: [TOP 3]
+
+STAKEHOLDER MAP:
+• Economic Buyer: [NOME + PROFILE]
+• Technical Buyer: [NOME + PROFILE]
+• User Buyer: [NOME + PROFILE]
+• Coach/Champion: [POTENTIAL]
+• Blockers: [POTENTIAL]
+
+TRIGGER EVENTS:
+• Recent: [LAST 90 DAYS]
+• Upcoming: [NEXT 90 DAYS]
+• Ongoing: [CURRENT INITIATIVES]
+
+PAIN POINTS IDENTIFIED:
+• Operational: [SPECIFIC PAINS]
+• Financial: [COST PRESSURES]
+• Strategic: [GROWTH CHALLENGES]
+• Compliance: [REGULATORY ISSUES]
+
+COMPETITIVE LANDSCAPE:
+• Current solutions: [INCUMBENTS]
+• Recent changes: [SWITCHES]
+• Satisfaction level: [HIGH/LOW]
+• Contract timing: [RENEWAL DATES]
+
+OUTREACH STRATEGY:
+• Primary contact: [NOME]
+• Messaging angle: [TRIGGER/PAIN]
+• Value proposition: [SPECIFIC BENEFIT]
+• Proof point: [SIMILAR CUSTOMER]
+• Next steps: [CONTACT PLAN]
+
+RESEARCH PLAYBOOK POR VERTICAL:
+==============================
+
+MANUFACTURING:
+• Safety incidents/OSHA
+• Production efficiency metrics
+• Supply chain challenges
+• Workforce management
+• Compliance requirements
+• Automation initiatives
+
+TECHNOLOGY:
+• Scaling challenges
+• IPO preparation
+• Remote work policies
+• Engineering productivity
+• Talent acquisition
+• Security compliance
+
+HEALTHCARE:
+• Regulatory compliance
+• Patient experience
+• Staff retention
+• Cost reduction
+• Digital transformation
+• Quality metrics
+
+RETAIL:
+• Seasonal workforce
+• Customer experience
+• Omnichannel strategy
+• Supply chain optimization
+• Cost management
+• Digital transformation
+
+ADVANCED RESEARCH TECHNIQUES:
+============================
+
+SOCIAL SELLING RESEARCH:
+• LinkedIn activity analysis
+• Content engagement patterns
+• Network connections
+• Thought leadership topics
+• Industry event participation
+
+COMPETITIVE INTELLIGENCE:
+• Win/loss against competitors
+• Customer switching patterns
+• Pricing intelligence
+• Product comparison
+• Market positioning
+
+INTENT DATA ANALYSIS:
+• Website visitor tracking
+• Content consumption
+• Search behavior
+• Technology research
+• Budget planning signals
+
+TIMING INTELLIGENCE:
+• Contract renewal dates
+• Budget cycle timing
+• Project timelines
+• Executive calendar
+• Industry event schedule
+
+RESEARCH QUALITY CONTROL:
+========================
+
+VERIFICATION CHECKLIST:
+□ Information recency (<90 days)
+□ Source credibility
+□ Data triangulation (2+ sources)
+□ Contact accuracy
+□ Trigger event validity
+
+ACCURACY STANDARDS:
+• Contact info: 95%+ accuracy
+• Company info: 90%+ current
+• Trigger events: Verified within 30 days
+• Stakeholder roles: Confirmed via LinkedIn
+• Pain points: Evidence-based
+
+RESEARCH AUTOMATION:
+===================
+
+ALERT SETUP:
+• Google Alerts por empresa
+• LinkedIn notifications
+• Crunchbase updates
+• News monitoring
+• Social mentions
+
+CRM INTEGRATION:
+• Auto-populate research
+• Trigger event logging
+• Contact enrichment
+• Activity tracking
+• Research history
+
+WORKFLOW AUTOMATION:
+• Research task creation
+• Follow-up reminders
+• Contact sequence triggers
+• Lead scoring updates
+• Report generation
+
+RESEARCH ROI METRICS:
+====================
+
+EFFICIENCY METRICS:
+• Research time per account: <30 min
+• Contact accuracy rate: 95%+
+• Response rate improvement: +40%
+• Meeting conversion: +25%
+
+QUALITY METRICS:
+• Trigger event relevance: 90%+
+• Pain point accuracy: 85%+
+• Stakeholder identification: 80%+
+• Competitive intel accuracy: 90%+
+
+BUSINESS IMPACT:
+• Pipeline velocity: +30%
+• Deal size increase: +20%
+• Win rate improvement: +15%
+• Sales cycle reduction: -25%
+
+RESEARCH BEST PRACTICES:
+=======================
+
+DO'S:
+✅ Start with company, then people
+✅ Verify information from multiple sources
+✅ Focus on recent triggers (90 days)
+✅ Map complete buying committee
+✅ Identify specific pain points
+✅ Find mutual connections
+✅ Research competitors in account
+
+DON'TS:
+❌ Rely on single source
+❌ Use outdated information (>1 year)
+❌ Skip stakeholder mapping
+❌ Ignore trigger events
+❌ Generic pain point assumptions
+❌ Skip competitive research
+❌ Research without purpose
+
+RESEARCH TEMPLATES BY SCENARIO:
+==============================
+
+NEW ACCOUNT RESEARCH:
+• Full 30-min deep dive
+• Complete stakeholder mapping
+• Trigger event identification
+• Competitive landscape
+• Outreach strategy
+
+EXISTING ACCOUNT EXPANSION:
+• Stakeholder evolution
+• New trigger events
+• Additional pain points
+• Competitive threats
+• Expansion opportunities
+
+COMPETITIVE DISPLACEMENT:
+• Incumbent solution analysis
+• Contract renewal timing
+• Satisfaction assessment
+• Decision criteria evolution
+• Switching trigger events
+
+INBOUND LEAD RESEARCH:
+• Qualification enhancement
+• Stakeholder expansion
+• Urgency validation
+• Budget confirmation
+• Process acceleration
+
+MASTERY CHECKLIST:
+=================
+
+BEGINNER LEVEL:
+□ Company basics in 10 min
+□ Key stakeholders identified
+□ Primary trigger events found
+□ Basic pain points understood
+
+INTERMEDIATE LEVEL:
+□ Complete buying committee mapped
+□ Multiple trigger events tracked
+□ Specific pain points quantified
+□ Competitive landscape understood
+
+ADVANCED LEVEL:
+□ Influence network mapped
+□ Decision process understood
+□ Budget cycles identified
+□ Timing perfectly optimized
+
+EXPERT LEVEL:
+□ Intent signals monitored
+□ Predictive insights generated
+□ Account strategy automated
+□ Research ROI maximized

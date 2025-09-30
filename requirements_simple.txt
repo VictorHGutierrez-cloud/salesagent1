@@ -1,0 +1,25 @@
+# Core IA & OpenAI
+openai>=1.50.0
+tiktoken>=0.7.0
+
+# Audio Processing (essenciais)
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Vector Database & Embeddings (simplificado)
+sentence-transformers>=2.2.2
+
+# Interface & Real-time
+flask>=3.0.0
+
+# GUI & Overlay (sem tkinter que já vem com Python)
+pillow>=10.1.0
+
+# Data Processing
+pandas>=2.1.4
+python-dotenv>=1.0.0
+
+# Utilities
+rich>=13.7.0
+loguru>=0.7.2

@@ -1,0 +1,54 @@
+CASO DE USO REAL - DI PAOLO
+============================
+
+PERFIL DO CLIENTE:
+- 400 vidas
+- Implementação de treinamentos
+- Certificação NR5
+- Processo de onboarding semanal
+
+DORES IDENTIFICADAS:
+1. GESTÃO DE TREINAMENTOS
+   - Tudo em papel e Excel
+   - Falta de controle de evolução
+   - Sem comparativo de resultados
+   - PDI (Plano de Desenvolvimento Individual) inexistente
+
+2. AVALIAÇÃO E DESEMPENHO
+   - Uso de planilhas, forms e pesquisas
+   - 2 anos de utilização sem evolução
+   - Falta de histórico comparativo
+   - Sem calibração de resultados
+
+3. RECRUTAMENTO E SELEÇÃO
+   - Nível operacional apenas
+   - Processo manual
+   - Falta de integração
+
+4. COMUNICAÇÃO INTERNA
+   - Canal de endomarketing centralizado (4bee)
+   - Ouvidor digital implementado em outubro
+
+SOLUÇÃO IMPLEMENTADA:
+- Sistema de gestão de treinamentos
+- Controle de evolução de funcionários
+- PDI integrado
+- Avaliações digitais
+- Relatórios comparativos
+
+RESULTADOS:
+- Controle total de treinamentos
+- Evolução mensurável dos colaboradores
+- PDI implementado
+- Processo de onboarding digitalizado
+
+STAKEHOLDERS:
+- Gestor de área (avalia e é avaliado)
+- TI (expertise em sistemas)
+- DP (primeira mudança)
+
+IMPACTO:
+- Eliminação de processos manuais
+- Controle de evolução
+- PDI funcional
+- Integração com sistemas existentes

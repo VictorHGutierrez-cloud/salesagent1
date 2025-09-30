@@ -1,0 +1,55 @@
+CASO DE USO REAL - IFOOD
+=========================
+
+PERFIL DO CLIENTE:
+- Estratégia de CX (Customer Experience)
+- Parceiro de cartão corporativo
+- Base de leads do painel do gestor
+- Foco em empresas até 500 vidas
+
+DORES IDENTIFICADAS:
+1. GESTÃO DE LEADS
+   - Filtro de recarga de 30
+   - 55 leads abaixo de 30 recargas
+   - 21 sem recarga no mês
+   - Falta de estratégia para Key Account
+
+2. PROCESSO DE VENDAS
+   - Vendas de Colab+ apenas por WhatsApp
+   - Falta de integração entre times
+   - CRM separado do processo de vendas
+
+3. ESTRATÉGIA DE CANAIS
+   - Time de CS foca até 500 vidas
+   - Key Account sem estratégia definida
+   - Falta de comunicação entre times
+
+SOLUÇÃO IMPLEMENTADA:
+- Estratégia 1: CRM (Cuida dos disparos)
+- Gestor de SDR: Reuniões marcadas
+- Time de CS: Reuniões de agendas positivas
+- Foco em empresas carteirizadas (200+ vendas)
+
+RESULTADOS:
+- Base de leads qualificada
+- Processo de vendas estruturado
+- Integração entre times
+- Foco em empresas de maior valor
+
+STAKEHOLDERS:
+- Ewerton Barros (gestor)
+- Time de CRM
+- Time de SDR
+- Time de CS
+- Time de Key Account
+
+KPIs:
+- Leads qualificados
+- Reuniões marcadas
+- Conversão por canal
+- Vendas de Colab+
+
+PRÓXIMOS PASSOS:
+- Aguardar final do mês para leads sem recarga
+- Desenvolver estratégia para Key Account
+- Integrar processo de vendas

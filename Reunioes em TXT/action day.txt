@@ -1,0 +1,899 @@
+00:04 - Victor Henrique Aguiar Gutierrez Duarte: Bom dia, Alan.
+00:11 - Victor Henrique Aguiar Gutierrez Duarte: Bom dia, Camires.
+00:15 - Victor Henrique Aguiar Gutierrez Duarte: Bom dia.
+00:15 - Victor Henrique Aguiar Gutierrez Duarte: Bom dia, Victor.
+00:15 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bem, pessoal?
+00:18 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bem.
+00:19 - Victor Henrique Aguiar Gutierrez Duarte: Que bom, legal sala cheia hoje.
+00:21 - Victor Henrique Aguiar Gutierrez Duarte: Posso conhecê-los antes da gente começar?
+00:25 - Victor Henrique Aguiar Gutierrez Duarte: Pode, pode.
+00:25 - Victor Henrique Aguiar Gutierrez Duarte: O senhor é o Alan, o senhor não, né?
+00:26 - Alan Correa Graminho: Pelo amor de Deus.
+00:30 - Alan Correa Graminho: Eu sou o Alan, eu sou o senhor aqui da Action Bay, na verdade eu sou o senhor da... do grupo da Holding, que é dona da Action Day e dona da MyFarm Agro, são duas empresas.
+00:46 - Alan Correa Graminho: Então, a Holding tem duas empresas, são quase 90 colaboradores aí, e a gente tem tanto assessoria de marketing, endtech aqui, e assessoria de marketing, e a gente tem um endtech no Agro, só rapidinho.
+00:52 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente tem pouco a isso.
+00:53 - Alan Correa Graminho: Que legal!
+00:56 - Victor Henrique Aguiar Gutierrez Duarte: É, assim, Cruz Alta e Cuiabá, Maturas.
+00:57 - Victor Henrique Aguiar Gutierrez Duarte: Legal, perfeito, prazer.
+00:58 - Victor Henrique Aguiar Gutierrez Duarte: Você do meio, rapazinho?
+01:01 - Alan Correa Graminho: Eu me chamo Lourenzo, sou diretor operacional aqui na Action Day e lidero a operação da Action Day, então não atuo diretamente com a My Farm, mas estou frente dos processos da Action.
+01:11 - Victor Henrique Aguiar Gutierrez Duarte: Que legal, um prazer te conhecer Lourenzo.
+01:13 - Victor Henrique Aguiar Gutierrez Duarte: E a Moça Atamires?
+01:15 - Alan Correa Graminho: Isso mesmo, um prazer e victória.
+01:17 - Alan Correa Graminho: Eu sou Ruby Sinistarte, aqui na Action.
+01:20 - Alan Correa Graminho: Um partindo no RH, um pouquinho do RH tradicional e o RH estratégico.
+01:24 - Victor Henrique Aguiar Gutierrez Duarte: Que legal, que legal.
+01:26 - Victor Henrique Aguiar Gutierrez Duarte: A gente trabalha bastante com BP e essencial demais, né?
+01:29 - Victor Henrique Aguiar Gutierrez Duarte: Acho que você tem um pezinho ali também, provavelmente que ajuda o pessoal de vendas, vai entendendo ali como as coisas vão se desenvolvendo, né?
+01:34 - Victor Henrique Aguiar Gutierrez Duarte: Depois você me conta um pouco mais do seu escopo, tá?
+01:37 - Victor Henrique Aguiar Gutierrez Duarte: Bacana.
+01:39 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito, gente.
+01:39 - Victor Henrique Aguiar Gutierrez Duarte: Eu sou o Vitor Gutierre, sou gerente de expansão aqui da Factorial, e eu fui convidado a apresentar para vocês uma solução de avaliação de desempenho, feedback.
+01:46 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai entrar no detalhe, mas eu quero entender qual que seria o objetivo aqui hoje de vocês, pessoal.
+01:51 - Victor Henrique Aguiar Gutierrez Duarte: A gente precisa desenvolver os colaboradores, vocês querem todas as metrificações de desempenho, querem explorar, falar, e depois a gente começa?
+02:02 - Alan Correa Graminho: Pode ser.
+02:02 - Alan Correa Graminho: Até para a gente ser bem objetivo.
+02:02 - Alan Correa Graminho: O sistema de vocês é bem complexo, é um monte depois, né?
+02:05 - Alan Correa Graminho: E assim, o nosso foco acho que era na... tinha um dos módulos, deixa eu pegar o site ali, aquele módulo de...
+02:12 - Victor Henrique Aguiar Gutierrez Duarte: Tinha um módulo que a gente...
+02:13 - Victor Henrique Aguiar Gutierrez Duarte: O que de beck é o desempenho, será?
+02:16 - Alan Correa Graminho: Deixa eu ver se é.
+02:17 - Alan Correa Graminho: Deixa eu entrar no site e ver se eu lembro.
+02:25 - Alan Correa Graminho: A nossa intenção, editor, é unificar, ter um identificado dentro de uma plataforma o desenvolvimento das pessoas, PDI, avaliação do desempenho, treinamentos, entradas e saídas de pessoas, ter um relatório, E também um canal que a gente consiga ter comunicação ali dentro.
+02:49 - Alan Correa Graminho: É o gestão de talentos, acho.
+02:50 - Alan Correa Graminho: Reputamento, portal de barras, onboard.
+02:51 - Alan Correa Graminho: Acho que era o gestão de talentos que a gente já viu.
+02:52 - Victor Henrique Aguiar Gutierrez Duarte: E avaliação do desempenho por OKL.
+02:53 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+02:53 - Victor Henrique Aguiar Gutierrez Duarte: E a gente está pensando na holding ou mais na action day hoje?
+02:56 - Victor Henrique Aguiar Gutierrez Duarte: Hoje é action day.
+02:59 - Alan Correa Graminho: Legal.
+02:59 - Alan Correa Graminho: A gente também tem... plataformas estilo Netflix, sabe?
+03:06 - Alan Correa Graminho: E a gente quer que ela não deixe de ser uma nossa plataforma de treinamentos pro time, principalmente Action Day, sabe?
+03:12 - Alan Correa Graminho: Falando assim, sobre vendas, sobre isso.
+03:14 - Alan Correa Graminho: A gente quer conectar isso também com a solução de vocês para a gente ter aonde gerenciar o desenvolvimento, principalmente os TDIs, os espaços de desenvolvimento, porque as duas empresas são pessoas, a gente não tem produtos, né?
+03:25 - Alan Correa Graminho: Aqui a gente trabalha Então, a gente depende muito das pessoas.
+03:32 - Alan Correa Graminho: Então, é bem focado principalmente nesse desenvolvimento.
+03:35 - Alan Correa Graminho: E entender também os recursos.
+03:37 - Alan Correa Graminho: Por isso que o Lorenzo está aqui.
+03:38 - Alan Correa Graminho: A gente tem um setor de TI grande.
+03:40 - Alan Correa Graminho: A gente faz automação, faz um monte de coisa.
+03:42 - Alan Correa Graminho: Vamos ver se a gente consegue.
+03:43 - Alan Correa Graminho: Não sei se vocês têm abrir a verga ou não.
+03:46 - Alan Correa Graminho: Para a gente ver o que a gente consegue integrar.
+03:48 - Alan Correa Graminho: As coisas que a gente consegue integrar.
+03:51 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, inclusive, Lourenço, legal que eu adoro falar sobre isso, tá?
+03:53 - Victor Henrique Aguiar Gutierrez Duarte: A nossa API é 100% aberta, se você conectar, enfim, qualquer tipo de IA ali, você puxa todos os dados e você vai poder fazer todos os relatórios que você quiser, tá?
+04:02 - Victor Henrique Aguiar Gutierrez Duarte: Inclusive, eu estava brincando com isso ontem, puxei todos os dados, usei o cursor ali e criei até um PDF dentro do cursor, que é uma baita do manhã. para criar, enfim, outras coisas que a gente não traz.
+04:11 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu entendi inicialmente que vocês têm treinamentos, querem entender PDI, e eu já vou mostrar diretamente para vocês qual que é a visão de um gestor dentro do perfil de um colaborador, onde a gente vai centralizar inicialmente tudo isso que vocês falaram.
+04:22 - Victor Henrique Aguiar Gutierrez Duarte: Vocês estão vendo a minha telinha aqui, não é?
+04:25 - Victor Henrique Aguiar Gutierrez Duarte: Primeira questão, eu já tenho aqui na tela inicial os treinamentos.
+04:30 - Victor Henrique Aguiar Gutierrez Duarte: Os treinamentos que ele fez, que ele está incluso, que ele vai começar.
+04:33 - Victor Henrique Aguiar Gutierrez Duarte: E que tipo de treinamento são esses, pessoal?
+04:35 - Victor Henrique Aguiar Gutierrez Duarte: Vocês podem trazer os materiais de vocês, colocar aqui dentro, tá?
+04:39 - Victor Henrique Aguiar Gutierrez Duarte: E eles consomem esse material por dentro da Factorial.
+04:42 - Victor Henrique Aguiar Gutierrez Duarte: Um vídeo, um PDF, de repente um PowerPoint.
+04:44 - Victor Henrique Aguiar Gutierrez Duarte: E podem fazer provas depois.
+04:46 - Victor Henrique Aguiar Gutierrez Duarte: Que tipo de provas a gente tem?
+04:48 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho uma prova de perguntas, realmente, para ver se ele entendeu o conteúdo.
+04:55 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou mandar para o gestor uma eficácia também, tá?
+04:57 - Victor Henrique Aguiar Gutierrez Duarte: Então, essa questão de prova vocês já fazem, como é que vocês metrificam hoje o treinamento, se ele foi efetivo ou não?
+05:02 - Victor Henrique Aguiar Gutierrez Duarte: Como é que vocês estão fazendo hoje?
+05:14 - Alan Correa Graminho: A parte de treinamentos é tudo por acompanhamento de onboard mesmo, e o resultado da entrega, né?
+05:16 - Victor Henrique Aguiar Gutierrez Duarte: Não tem prova, assim, se eu for comprar um preço, talvez.
+05:17 - Victor Henrique Aguiar Gutierrez Duarte: Isso é só no onboard mesmo, né?
+05:17 - Alan Correa Graminho: No onboard.
+05:18 - Alan Correa Graminho: Pode falar.
+05:18 - Alan Correa Graminho: É, pegando que tivesse tudo, porque esse é o nosso trabalho muito técnico.
+05:22 - Alan Correa Graminho: E assim, não existe hoje faculdade, por exemplo, de gestor de tráfico.
+05:25 - Alan Correa Graminho: Não existe faculdade, né?
+05:27 - Alan Correa Graminho: Não sei, a gente tem que treinar o cara, acompanhar, ter os nossos treinamentos aqui em vídeo, e acompanhar o desenvolvimento dele, e na prática, com o líder mais próximo, no onboard, ele que tá me dizendo, acompanhando isso, né?
+05:39 - Alan Correa Graminho: Hoje a gente não tem relatórios.
+05:40 - Alan Correa Graminho: A tratativa de como instar esse acompanhamento é feito no feedback, no manual, no click-up.
+05:48 - Alan Correa Graminho: Informalmente, né?
+05:49 - Alan Correa Graminho: A gente não tem nada na registra.
+05:52 - Alan Correa Graminho: Só no click-up da registra.
+05:54 - Alan Correa Graminho: Assim, no PDIS, no PDIS...
+05:55 - Alan Correa Graminho: É, sim.
+05:56 - Alan Correa Graminho: Basta tudo muito manual, o click-up não é pra isso, né?
+06:00 - Victor Henrique Aguiar Gutierrez Duarte: É, não é pra isso, mas a ClickUp tá vindo forte com as tecnologias, eles estão querendo centralizar até Slack, é como se você, enfim, ClickUp tá vindo forte, mas acho que não é exatamente pra isso, né?
+06:10 - Victor Henrique Aguiar Gutierrez Duarte: A Factor é muito voltada pra desenvolvimento, então é uma ferramenta especializada em pessoas.
+06:14 - Victor Henrique Aguiar Gutierrez Duarte: Se a gente precisa de insight de treinamento, tá?
+06:17 - Victor Henrique Aguiar Gutierrez Duarte: A gente já teria tudo aqui.
+06:18 - Victor Henrique Aguiar Gutierrez Duarte: Você tem treinamento externo, vocês pagam consultoria externa ou vocês mesmos, então todos os treinamentos?
+06:23 - Victor Henrique Aguiar Gutierrez Duarte: Nós vamos todos.
+06:24 - Victor Henrique Aguiar Gutierrez Duarte: Então não vai ter custo subsidiado, a gente pode ter custo laboral.
+06:27 - Victor Henrique Aguiar Gutierrez Duarte: Se o seu gestor está saindo do posto de trabalho, tem um valor de hora homem ali e está aplicando o treinamento, a gente pode computar isso também.
+06:34 - Victor Henrique Aguiar Gutierrez Duarte: Então quanto está valendo a hora homem desse gestor, tá?
+06:37 - Victor Henrique Aguiar Gutierrez Duarte: Todos os KPIs ali, de repente, para treinamentos, a gente já centraliza.
+06:41 - Victor Henrique Aguiar Gutierrez Duarte: Então, colaboradores inscritos, custo total, custo salarial, inscritos por equipe, horas totais de treinamento.
+06:48 - Victor Henrique Aguiar Gutierrez Duarte: Então, depois que eles fazem os treinamentos, eles colocam ali a lista de presença, a gente traz todos esses dados aqui para vocês.
+06:56 - Victor Henrique Aguiar Gutierrez Duarte: Uma coisa muito bacana, a gente tem catálogo, não é nosso, vocês vão trazer todos os treinamentos de vocês e vão deixar todos aqui listados, todo o catálogo.
+07:04 - Victor Henrique Aguiar Gutierrez Duarte: Para quê?
+07:05 - Victor Henrique Aguiar Gutierrez Duarte: Para o colaborador solicitar, de repente, esse treinamento, tá?
+07:08 - Victor Henrique Aguiar Gutierrez Duarte: Faz ali a avaliação de desempenho, pô, eu quero fazer um curso para melhorar.
+07:11 - Victor Henrique Aguiar Gutierrez Duarte: Ele vai lá, faz a solicitação e já abriria esse curso, tá?
+07:19 - Alan Correa Graminho: Tá, você deixa eu entender esse catálogo.
+07:20 - Victor Henrique Aguiar Gutierrez Duarte: O catálogo, eu só vou colocar, por exemplo, o nome do curso aqui, ele vai fazer lá na nossa plataforma.
+07:22 - Alan Correa Graminho: Maravilha.
+07:22 - Alan Correa Graminho: Eu gostaria que explicasse um pouquinho para o Allan, porque a gente fez com o Leonardo uma conversa inicial sobre a plataforma, sobre a integração com sistemas de fora, que vocês não fazem, né?
+07:37 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente queria que baixasse o curso e incluísse ele aí.
+07:38 - Victor Henrique Aguiar Gutierrez Duarte: Sim, vocês têm em vídeo esses cursos de vocês, PDF.
+07:41 - Victor Henrique Aguiar Gutierrez Duarte: Vocês podem fazer massivamente.
+07:42 - Victor Henrique Aguiar Gutierrez Duarte: Pode subir via API, se vocês quiserem, que pode ser mais fácil, né?
+07:46 - Victor Henrique Aguiar Gutierrez Duarte: Então, dá para fazer.
+07:49 - Victor Henrique Aguiar Gutierrez Duarte: Não tem custo de servidor com vocês?
+07:49 - Victor Henrique Aguiar Gutierrez Duarte: Não, não tem.
+07:50 - Victor Henrique Aguiar Gutierrez Duarte: Não tem custo de servidor, tá?
+07:53 - Victor Henrique Aguiar Gutierrez Duarte: Então, vou até mostrar aqui pra vocês entenderem.
+07:57 - Victor Henrique Aguiar Gutierrez Duarte: Vamos direto na API e a gente já fala como é que vocês colocariam, de repente, aqui, tá?
+08:00 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem a muito bem documentada aqui.
+08:03 - Victor Henrique Aguiar Gutierrez Duarte: É só eu simplesmente dar um jump aqui pra Trainings.
+08:07 - Victor Henrique Aguiar Gutierrez Duarte: E, ó, vamos lá.
+08:11 - Victor Henrique Aguiar Gutierrez Duarte: Trainings.
+08:15 - Victor Henrique Aguiar Gutierrez Duarte: Vamos pegar aqui.
+08:16 - Alan Correa Graminho: Aqui, gente.
+08:17 - Alan Correa Graminho: Vini, o Panda, algum desses...
+08:22 - Victor Henrique Aguiar Gutierrez Duarte: Integração, você diz, nativa?
+08:24 - Alan Correa Graminho: É, tipo assim, eu gosto só porque eu quero pegar o link de incorporação do Panda e colocar aqui.
+08:29 - Victor Henrique Aguiar Gutierrez Duarte: Pode.
+08:30 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser, você faz lá pela front-end, na verdade, tá?
+08:32 - Victor Henrique Aguiar Gutierrez Duarte: Você pode criar o curso e colocar.
+08:34 - Victor Henrique Aguiar Gutierrez Duarte: O curso não vai ser feito na Factorial, é um link.
+08:36 - Victor Henrique Aguiar Gutierrez Duarte: Esse link, ele clica e vai para outro lugar.
+08:38 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser, tiver um curso por um link, que é outro site, você coloca no próprio treinamento da Factorial.
+08:44 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser subir massivamente os dados para a nossa plataforma, você vai ter aqui em trainings, todos os endpoints aqui para criar, tá?
+08:51 - Victor Henrique Aguiar Gutierrez Duarte: Tanto para puxar relatório, tanto para colocar novos treinamentos.
+08:55 - Victor Henrique Aguiar Gutierrez Duarte: Então é muito bem documentado.
+08:56 - Alan Correa Graminho: Tá, mas o vídeo, ele fica numa...
+09:03 - Alan Correa Graminho: É que assim, eu sei que é questão do vídeo que eu vou encargar.
+09:04 - Alan Correa Graminho: O vídeo, ele fica hospedado dentro do servidor de vocês ou é só um link de incorporação?
+09:07 - Victor Henrique Aguiar Gutierrez Duarte: Não, fica armazenado aqui dentro.
+09:10 - Victor Henrique Aguiar Gutierrez Duarte: Então não tem limite, entendeu?
+09:11 - Victor Henrique Aguiar Gutierrez Duarte: De servidores.
+09:12 - Victor Henrique Aguiar Gutierrez Duarte: Coloca tudo aqui, tá?
+09:18 - Alan Correa Graminho: E não tem limite da gente sobreviver?
+09:19 - Alan Correa Graminho: Tipo assim, a gente tem...
+09:20 - Victor Henrique Aguiar Gutierrez Duarte: Caramba, são mais de 100 treinamentos gravados.
+09:21 - Victor Henrique Aguiar Gutierrez Duarte: Não tem.
+09:21 - Victor Henrique Aguiar Gutierrez Duarte: Pode colocar, quanto você quiser.
+09:24 - Victor Henrique Aguiar Gutierrez Duarte: Bom, né?
+09:25 - Victor Henrique Aguiar Gutierrez Duarte: Interessante, não tem custo de servidor.
+09:26 - Victor Henrique Aguiar Gutierrez Duarte: Para documentos também a gente tem limite, não tem limite, para esses vídeos também não tem limite, então você vai colocando, obviamente...
+09:39 - Victor Henrique Aguiar Gutierrez Duarte: Com a incorporação do link do YouTube, incorporação do plano aquele, quando tu coloca uma line page assim no sistema, entendeu?
+09:44 - Alan Correa Graminho: Hmm, entendi.
+09:44 - Alan Correa Graminho: Com incorporar meio que no HTML ali, no caso.
+09:45 - Alan Correa Graminho: Isso, que sai aquele linkzinho de incorporar, entendeu?
+09:46 - Alan Correa Graminho: Porque assim, a gente já tem todos os vídeos no nosso servidor.
+09:47 - Alan Correa Graminho: Se fosse só um incorporar, era uma barbada.
+09:50 - Victor Henrique Aguiar Gutierrez Duarte: Olha, eu nunca vi dessa incorporação, porque a gente não vai abrir, por exemplo, aqui, sei lá, o HTML, a programação pra fazer isso, entendeu?
+10:02 - Victor Henrique Aguiar Gutierrez Duarte: É um player de vídeo que vocês utilizam?
+10:06 - Alan Correa Graminho: O player?
+10:06 - Victor Henrique Aguiar Gutierrez Duarte: É, player de vídeo dentro da plataforma?
+10:07 - Victor Henrique Aguiar Gutierrez Duarte: Não sei nem que tipo de player que é, na verdade.
+10:08 - Victor Henrique Aguiar Gutierrez Duarte: Eu sei que é a hora que a gente coloca, a gente assiste aqui por dentro normalmente, tá?
+10:12 - Victor Henrique Aguiar Gutierrez Duarte: Deixa eu ver se eu tenho um vídeo aqui pra te mostrar.
+10:15 - Victor Henrique Aguiar Gutierrez Duarte: Vídeo, tá vendo aqui?
+10:18 - Alan Correa Graminho: Tô.
+10:24 - Victor Henrique Aguiar Gutierrez Duarte: Aqui eu posso baixar esse vídeo também.
+10:28 - Victor Henrique Aguiar Gutierrez Duarte: Então, de repente, se vocês automatizarem via API, vocês deixam a máquina rodando lá de alguma forma e já vai jogando tudo para cá.
+10:35 - Victor Henrique Aguiar Gutierrez Duarte: Dá para fazer, tá?
+10:38 - Victor Henrique Aguiar Gutierrez Duarte: Então, tranquilo até aqui?
+10:40 - Victor Henrique Aguiar Gutierrez Duarte: Ó, inclusive por aqui, tá?
+10:43 - Victor Henrique Aguiar Gutierrez Duarte: A gente pode colocar um link aqui, até ser encontrado um link com o vídeo.
+10:46 - Victor Henrique Aguiar Gutierrez Duarte: Manda para mim um link depois, vamos ver se a gente consegue fazer por aqui.
+10:49 - Alan Correa Graminho: Tá, vocês mandaram um do YouTube aqui pra te incorporar aí, pra mandar um HTML, mas não sei se eu...
+10:54 - Victor Henrique Aguiar Gutierrez Duarte: Manda aqui no chat.
+10:58 - Victor Henrique Aguiar Gutierrez Duarte: A gente já tem que incorporar aqui.
+11:09 - Alan Correa Graminho: Vamos voltar um pouco.
+11:20 - Victor Henrique Aguiar Gutierrez Duarte: Pode ser qualquer vídeo, né?
+11:22 - Alan Correa Graminho: Sim, eu mandava pro meu YouTube, só tem um pouco de óculos das da minha filha.
+11:29 - Alan Correa Graminho: Ai, cara.
+11:36 - Victor Henrique Aguiar Gutierrez Duarte: Eu mandei um quadradinho do lado.
+11:38 - Victor Henrique Aguiar Gutierrez Duarte: Eu te mandei um frame.
+11:39 - Victor Henrique Aguiar Gutierrez Duarte: Ai, frame.
+11:40 - Victor Henrique Aguiar Gutierrez Duarte: Tô vendo aqui.
+11:41 - Victor Henrique Aguiar Gutierrez Duarte: Vamos copiar?
+11:42 - Victor Henrique Aguiar Gutierrez Duarte: É.
+11:43 - Victor Henrique Aguiar Gutierrez Duarte: Não sei se vai funcionar dessa maneira aqui, hein.
+11:45 - Victor Henrique Aguiar Gutierrez Duarte: Título.
+11:46 - Victor Henrique Aguiar Gutierrez Duarte: Novo vídeo.
+11:49 - Alan Correa Graminho: É isso.
+11:49 - Alan Correa Graminho: E aí embaixo?
+11:50 - Victor Henrique Aguiar Gutierrez Duarte: Deve começar com a HTTPS, tá vendo?
+11:54 - Victor Henrique Aguiar Gutierrez Duarte: Pode ser.
+11:55 - Victor Henrique Aguiar Gutierrez Duarte: Aqui não dá nesse caso, né?
+11:56 - Victor Henrique Aguiar Gutierrez Duarte: Na verdade, vamos ver se a gente consegue fazer.
+11:58 - Victor Henrique Aguiar Gutierrez Duarte: Tire isso daqui, né?
+12:02 - Victor Henrique Aguiar Gutierrez Duarte: É, tenta jogar só o link.
+12:03 - Victor Henrique Aguiar Gutierrez Duarte: Acho que eu vou tirar tudo isso daqui, ó.
+12:08 - Victor Henrique Aguiar Gutierrez Duarte: Vai tentar botar só o link.
+12:08 - Victor Henrique Aguiar Gutierrez Duarte: Erro desconhecido.
+12:09 - Victor Henrique Aguiar Gutierrez Duarte: Será que eu vou tentar pegar um vídeo normal aqui?
+12:15 - Alan Correa Graminho: Pega só o link do vídeo, vamos ver.
+12:16 - Alan Correa Graminho: Porque eu tentei, mas pode pegar só o link direto no YouTube.
+12:18 - Victor Henrique Aguiar Gutierrez Duarte: É, vou pegar aqui.
+12:19 - Victor Henrique Aguiar Gutierrez Duarte: Ou apago esse daqui.
+12:20 - Victor Henrique Aguiar Gutierrez Duarte: Deixa eu ver.
+12:21 - Victor Henrique Aguiar Gutierrez Duarte: Vamos ver.
+12:22 - Victor Henrique Aguiar Gutierrez Duarte: Até onde que vai, mais ou menos.
+12:23 - Alan Correa Graminho: Deixa eu ver.
+12:27 - Victor Henrique Aguiar Gutierrez Duarte: É que assim, aí dentro também tem o link aí dentro do e-frame.
+12:29 - Victor Henrique Aguiar Gutierrez Duarte: Isso aqui, né?
+12:29 - Victor Henrique Aguiar Gutierrez Duarte: É, isso aí.
+12:29 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+12:30 - Victor Henrique Aguiar Gutierrez Duarte: Contra o X, contra o A, deleta.
+12:31 - Victor Henrique Aguiar Gutierrez Duarte: Acredito que seja só isso, né?
+12:33 - Victor Henrique Aguiar Gutierrez Duarte: Vamos ver.
+12:36 - Victor Henrique Aguiar Gutierrez Duarte: Opa!
+12:39 - Victor Henrique Aguiar Gutierrez Duarte: Aí a gente...
+12:40 - Victor Henrique Aguiar Gutierrez Duarte: É, a gente acaba migrando para a tela ali.
+12:41 - Victor Henrique Aguiar Gutierrez Duarte: Olha o pouco aí.
+12:42 - Alan Correa Graminho: É, mas é que se tu botar o panda, o outro ali roda.
+12:47 - Alan Correa Graminho: Legal, então.
+12:53 - Victor Henrique Aguiar Gutierrez Duarte: Tem que centralizar dentro da plataforma, pergunta depois os caras se eles conseguem incorporar.
+12:55 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou ver, tem que falar com o time de Barcelona.
+12:57 - Victor Henrique Aguiar Gutierrez Duarte: Mudanças mais estruturais assim no back da plataforma fica um pouco mais complicado, mas legal.
+13:06 - Victor Henrique Aguiar Gutierrez Duarte: Só se existe o recurso.
+13:06 - Victor Henrique Aguiar Gutierrez Duarte: Vou perguntar e te respondo depois então, email, tá?
+13:09 - Victor Henrique Aguiar Gutierrez Duarte: Fechou.
+13:10 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+13:11 - Victor Henrique Aguiar Gutierrez Duarte: Então, legal.
+13:11 - Victor Henrique Aguiar Gutierrez Duarte: A gente já viu que dá pra adicionar algumas coisas, os vídeos, os PDFs, então, inicialmente, tranquilo, a gente vai colocar os participantes e aí vocês pretendem também pegar a lista de presença, mandar certificado, vocês mandam certificado pro pessoal?
+13:26 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+13:26 - Victor Henrique Aguiar Gutierrez Duarte: O certificado é interno, né?
+13:27 - Victor Henrique Aguiar Gutierrez Duarte: Vocês conficcionam e mandam pra ele assinar.
+13:34 - Alan Correa Graminho: É que hoje, como eles fazem lá na D-members, o curso, nessas plataformas, terminou, já sai o certificado, entende?
+13:36 - Victor Henrique Aguiar Gutierrez Duarte: Ah, então eles podem pegar o certificado e eles mesmos sobem aqui, tá?
+13:40 - Victor Henrique Aguiar Gutierrez Duarte: Eles podem sozinho subir os certificados aqui.
+13:42 - Victor Henrique Aguiar Gutierrez Duarte: Então, bacana que já facilita.
+13:44 - Victor Henrique Aguiar Gutierrez Duarte: Caso você queira criar um curso interno e criar o seu próprio certificado, você traz um modelo de doc.docx e a gente vai distribuir o nome, o sobrenome, a data desse treinamento individualmente.
+13:55 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente também cria esses certificados, tá?
+13:57 - Victor Henrique Aguiar Gutierrez Duarte: Para treinamentos então, qual que é a grande necessidade de vocês?
+14:01 - Victor Henrique Aguiar Gutierrez Duarte: É colocar os materiais em bedados?
+14:03 - Victor Henrique Aguiar Gutierrez Duarte: É metrificar também tempo de vítimas?
+14:05 - Victor Henrique Aguiar Gutierrez Duarte: Quanto vamos explorar a necessidade em cima de treinamento, gente?
+14:18 - Alan Correa Graminho: É que assim, o treinamento nosso é uma sequência de treinamentos.
+14:20 - Alan Correa Graminho: Assim, com um treinamento só, a pessoa não consegue, por exemplo assim, gestor de tráfego, ele tem que primeiro entender de business lá, modelo de negócios, tem que ser uma trilha.
+14:25 - Alan Correa Graminho: A gente tem que fazer uma trilha.
+14:26 - Alan Correa Graminho: Só que assim, A gente já tem essa trilha pronta lá dentro da nossa plataforma.
+14:30 - Alan Correa Graminho: A gente pode deixar o ar aqui, de alguma maneira dele mostrando, eu fiz esse, fiz esse, fiz esse, anexou o certificado.
+14:37 - Alan Correa Graminho: Total.
+14:38 - Alan Correa Graminho: Só que lá na plataforma a gente não consegue acompanhar.
+14:42 - Alan Correa Graminho: E aí, aqui também a gente queria outras coisas além de treinamento, ou tese, assim, olha, coisas combinadas de outras...
+14:48 - Victor Henrique Aguiar Gutierrez Duarte: Outras áreas.
+14:50 - Victor Henrique Aguiar Gutierrez Duarte: Outras OKRs.
+14:52 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+14:53 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai fazer o seguinte, pode falar.
+14:57 - Victor Henrique Aguiar Gutierrez Duarte: A gente faz assim, então.
+14:58 - Victor Henrique Aguiar Gutierrez Duarte: A gente cria um fluxo de trabalho de treinamentos, onde vai ter etapas, vídeo um, vídeo dois, tudo bem.
+15:02 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente vai criar um fluxo de tarefas e tarefas pendentes.
+15:06 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente reúne duas questões.
+15:07 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai acompanhar o treinamento e num modelo de fluxo de trabalho, o que eu posso entregar para vocês?
+15:13 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso entregar essas tarefas atrasadas, então vocês podem ver que as tarefas, de repente, vão ser os treinamentos.
+15:17 - Victor Henrique Aguiar Gutierrez Duarte: Aí eu vou configurar, vou configurar aqui, justamente, né, etapas, primeiro treinamento, segundo treinamento, a gente pode fazer isso, tá?
+15:27 - Victor Henrique Aguiar Gutierrez Duarte: Coloca um ator personalizado, personalizado, assistir treinamento.
+15:32 - Victor Henrique Aguiar Gutierrez Duarte: Pum, coloca o link, tá?
+15:34 - Victor Henrique Aguiar Gutierrez Duarte: Em contato de duas formas, faz aqui um desenho de campanhas, tarefas pendentes, atrelado ao treinamento, mas vocês podem também usar aqui, eu acho que os dois ao mesmo tempo.
+15:45 - Victor Henrique Aguiar Gutierrez Duarte: Deixe aqui mais organizado os seus treinamentos, deixe as informações do que é esse treinamento.
+15:50 - Victor Henrique Aguiar Gutierrez Duarte: Objetivo competitivo do treinamento, são os grupos que vocês criaram de novos colaboradores, grupos de reciclagem. você vai criando seus grupos, vai adicionando os participantes, tá?
+16:01 - Victor Henrique Aguiar Gutierrez Duarte: Aí depois a gente lança uma pesquisa, uma competitividade, uma satisfação e uma pesquisa mesmo de treinamento.
+16:07 - Victor Henrique Aguiar Gutierrez Duarte: Um knowledge test, por exemplo, tá?
+16:09 - Victor Henrique Aguiar Gutierrez Duarte: Com perguntas, enfim, verdadeiras e falsas.
+16:12 - Alan Correa Graminho: Até então, num geralzão, dá pra E naquele treinamento, a gente consegue ir fazendo tarefas que são, uma pode ser um curso, uma outra pode ser uma prova, outra pode ser uma coisa assim, mas vai dividindo as tarefas que quiser.
+16:28 - Victor Henrique Aguiar Gutierrez Duarte: Totalmente, totalmente.
+16:29 - Victor Henrique Aguiar Gutierrez Duarte: Você personaliza os fluxos de trabalho para treinamentos diferentes, entendeu?
+16:33 - Victor Henrique Aguiar Gutierrez Duarte: Provavelmente vai ter trilhas que tem mais treinamentos, outros que tem menos.
+16:36 - Victor Henrique Aguiar Gutierrez Duarte: Então dá para a gente deixar tudo bonitinho.
+16:39 - Victor Henrique Aguiar Gutierrez Duarte: E o bom é que essas tarefas ficam claras para as pessoas, porque elas chegam numa caixa de entrada muito simples, tá?
+16:45 - Victor Henrique Aguiar Gutierrez Duarte: Então aqui vai aparecer, ah, você lançaram um treinamento para você, foi emitido o seu certificado, tá?
+16:51 - Victor Henrique Aguiar Gutierrez Duarte: Tem tudo aqui numa caixa de entrada relacionada ao que tem que fazer.
+16:54 - Victor Henrique Aguiar Gutierrez Duarte: Tem uma pesquisa de satisfação de treinamento, e aí ele vai responder todas as pesquisas, todas as avaliações de desempenho, ou pelo computador aqui, ou pelo celular.
+17:03 - Victor Henrique Aguiar Gutierrez Duarte: Podemos pular de treinamento e fluxo de tarefa para desempenho?
+17:06 - Victor Henrique Aguiar Gutierrez Duarte: Faz sentido?
+17:08 - Victor Henrique Aguiar Gutierrez Duarte: Então vamos lá.
+17:10 - Victor Henrique Aguiar Gutierrez Duarte: Hoje vocês fazem uma avaliação de gerência para subordinado, como é que funciona a avaliação de desempenho de vocês?
+17:15 - Victor Henrique Aguiar Gutierrez Duarte: É só para treinamentos?
+17:17 - Victor Henrique Aguiar Gutierrez Duarte: Como é que vocês fazem avaliações de desempenho hoje?
+17:21 - Alan Correa Graminho: Aí o desempenho depende do nível do jogo.
+17:26 - Alan Correa Graminho: Por exemplo, os diretores são metas, então a gente vai ter as metas lá dele.
+17:31 - Alan Correa Graminho: E a avaliação do desempenho por metas.
+17:35 - Alan Correa Graminho: Aí vai depender do nível da empresa.
+17:36 - Alan Correa Graminho: Por exemplo, aí tem o coordenador, que é os dados do squash dele lá.
+17:40 - Alan Correa Graminho: A gente vai criando as metas dele.
+17:43 - Alan Correa Graminho: Então, a análise de desempenho hoje está muito ligado a metas.
+17:46 - Alan Correa Graminho: Não tem uma ligação com educação ainda, porque a gente não está conseguindo controlar.
+17:51 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+17:53 - Victor Henrique Aguiar Gutierrez Duarte: É muito numérico, então.
+17:54 - Victor Henrique Aguiar Gutierrez Duarte: Então, deixa eu entender.
+17:57 - Victor Henrique Aguiar Gutierrez Duarte: O que a gente faria?
+17:57 - Victor Henrique Aguiar Gutierrez Duarte: Vamos supor que seus gerentes tenham uma meta.
+18:00 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai quantificar, de repente, essa meta pelo CRM de vocês, não sei como que eles vão vender, e a gente vai fazer um questionário.
+18:05 - Victor Henrique Aguiar Gutierrez Duarte: Vai fazer um questionário, ó.
+18:07 - Victor Henrique Aguiar Gutierrez Duarte: De 1 a 5, a tua meta, gerente, foi 3.
+18:09 - Victor Henrique Aguiar Gutierrez Duarte: Coloca um texto também descritivo, vai fazendo uma avaliação como tem que fazer.
+18:12 - Victor Henrique Aguiar Gutierrez Duarte: É um formulário, gente, não passa disso, tá?
+18:17 - Alan Correa Graminho: Essa avaliação de desempenha numérica que a gente vai organizando as competências ali, ela ocorre normalmente quando é feito o PDI, que também é um hábito que a gente está agora agregando, avaliação de desempenho.
+18:30 - Alan Correa Graminho: Mas ela está sendo feita durante o ano, que normalmente a gente pode fazer a cada tri, né, ou duas vezes por ano, mas não está sendo feita assim.
+18:41 - Alan Correa Graminho: A gente fez o último quando foi investido o PDI.
+18:45 - Alan Correa Graminho: E aí, pesantes, avaliação de desempenho, e depois executou o PDI.
+18:50 - Victor Henrique Aguiar Gutierrez Duarte: Entende?
+18:50 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente pode fazer exatamente isso, tá?
+18:53 - Victor Henrique Aguiar Gutierrez Duarte: Vamos fazer o seguinte, deixa eu mostrar o conceito básico aqui.
+18:55 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho uma avaliação de desempenho aqui de performance em rascunho, tá?
+18:58 - Victor Henrique Aguiar Gutierrez Duarte: Então vamos criar uma avaliação de desempenho rapidamente para vocês entenderem que não é difícil.
+19:02 - Victor Henrique Aguiar Gutierrez Duarte: E aqui, ó, eu tenho autoavaliação e avaliação de gestor.
+19:04 - Victor Henrique Aguiar Gutierrez Duarte: Posso ter avaliação de pares também, aí depende muito o que vocês vão fazer ali no futuro.
+19:08 - Victor Henrique Aguiar Gutierrez Duarte: Vou lançar aqui as perguntas dentro de uma faixa de pontuação.
+19:12 - Victor Henrique Aguiar Gutierrez Duarte: Rui, inconsistente, posso criar faixa de 1 a 5, de 1 a 10.
+19:15 - Victor Henrique Aguiar Gutierrez Duarte: É bem livre isso daqui, tá? para a gente criar as fases iniciais.
+19:19 - Victor Henrique Aguiar Gutierrez Duarte: E depois eu venho por sessões, de repente metas de trabalho, comunicação.
+19:24 - Victor Henrique Aguiar Gutierrez Duarte: Criam-se sessões, criam-se perguntas obrigatórias ou não aqui, de forma bem livre, com texto livre, com múltipla escolha, com classificação.
+19:34 - Victor Henrique Aguiar Gutierrez Duarte: Então, gente, é confeccional o que vocês querem perguntar.
+19:37 - Victor Henrique Aguiar Gutierrez Duarte: Se vocês quiserem já deixar competências atreladas aos cargos, a gente pode deixar e automaticamente a gente vai puxar a competência do cargo dessa pessoa para cá para quantificar também.
+19:47 - Victor Henrique Aguiar Gutierrez Duarte: Vamos supor que o seu gerente comercial, de repente, ele tem um peso mais maior, na verdade, na seção de entrega de meta.
+19:53 - Victor Henrique Aguiar Gutierrez Duarte: Eu também vou ter pesos aqui.
+19:55 - Victor Henrique Aguiar Gutierrez Duarte: Paixas de pontuação, pesos por sessão, pesos por autoavaliação.
+19:58 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente trabalha com pesos e ponderações também.
+20:01 - Victor Henrique Aguiar Gutierrez Duarte: É uma novidade na plataforma.
+20:03 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bem?
+20:03 - Victor Henrique Aguiar Gutierrez Duarte: Perguntas?
+20:06 - Victor Henrique Aguiar Gutierrez Duarte: O peso é em percentual.
+20:14 - Alan Correa Graminho: O peso é em percentual?
+20:14 - Alan Correa Graminho: Porque a gente trabalha com o OTEES aqui, né?
+20:15 - Alan Correa Graminho: Por exemplo, assim, ele vai ter três metas.
+20:16 - Victor Henrique Aguiar Gutierrez Duarte: Uma pesa 40%, outra 30%, outra 30%, né?
+20:17 - Victor Henrique Aguiar Gutierrez Duarte: Maravilhoso.
+20:18 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai fazer exatamente isso.
+20:20 - Victor Henrique Aguiar Gutierrez Duarte: Legal, vocês trabalham quanto é.
+20:21 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente faz isso.
+20:22 - Victor Henrique Aguiar Gutierrez Duarte: E aí, não só internamente essas metas ponderadas, mas entre também visões.
+20:27 - Victor Henrique Aguiar Gutierrez Duarte: Então, a visão do gestor vale mais.
+20:29 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente também tem essa ponderação.
+20:32 - Victor Henrique Aguiar Gutierrez Duarte: Criou-se aqui essas avaliações, a gente vai enviar, eles vão receber uma notificação e vão responder do celular, do computador, enfim.
+20:39 - Victor Henrique Aguiar Gutierrez Duarte: Então, a confecção é bastante simples, bastante personalizável.
+20:43 - Victor Henrique Aguiar Gutierrez Duarte: E o que a gente quer no final, ali no jogo?
+20:45 - Victor Henrique Aguiar Gutierrez Duarte: O que a gente precisa enxergar?
+20:47 - Victor Henrique Aguiar Gutierrez Duarte: Primeiro de tudo, taxa de conclusão, ver se teve aderência, distribuição de pontos por gerente.
+20:53 - Victor Henrique Aguiar Gutierrez Duarte: Se vocês repararem, eu tenho a gerente Helena aqui.
+20:56 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso migrar e ver como é que está o desempenho da equipe de cada um dos meus líderes aqui.
+21:02 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu vou trazer as faixas de pontuação da equipe e logo abaixo eu vou trazer as notas dos colaboradores. 3.5, alinhamento médio feito por IA.
+21:11 - Victor Henrique Aguiar Gutierrez Duarte: A nossa IA vai pegar tudo que vocês estão falando na avaliação e vai dizer assim, ó, a equipe aqui da Tamires, ela tem um desempenho mediano.
+21:17 - Victor Henrique Aguiar Gutierrez Duarte: O Victor performa bem, o Lourenço performa melhor.
+21:20 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente vai dar um insight para a gestão também criar os próprios PDIs.
+21:24 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente dá ali uma pinceladinha nesse insight de equipe.
+21:28 - Victor Henrique Aguiar Gutierrez Duarte: Para que seu gerente, de repente, não tenha muito conhecimento do que fazer depois, ele vai ser ajudado por nós.
+21:33 - Victor Henrique Aguiar Gutierrez Duarte: Iada factorial.
+21:35 - Victor Henrique Aguiar Gutierrez Duarte: A equipe da liderança da Clara tem um nível de desempenho consistente, cada membro alcança sua meta.
+21:40 - Victor Henrique Aguiar Gutierrez Duarte: Mas o que a gente pode melhorar?
+21:42 - Victor Henrique Aguiar Gutierrez Duarte: Implementa um workshop de pensamento estratégico.
+21:44 - Victor Henrique Aguiar Gutierrez Duarte: Por exemplo, desenvolva um programa de treinamento.
+21:47 - Victor Henrique Aguiar Gutierrez Duarte: Isso para cada um dos colaboradores, entendeu, gente?
+21:50 - Victor Henrique Aguiar Gutierrez Duarte: Faz avaliação, a gente ajuda nesse PDI e, claramente, a gente vai poder melhorar.
+21:54 - Alan Correa Graminho: Perguntas nessa sessão?
+21:58 - Victor Henrique Aguiar Gutierrez Duarte: Tem alguma pergunta?
+21:59 - Victor Henrique Aguiar Gutierrez Duarte: Tranquilo?
+22:01 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+22:02 - Victor Henrique Aguiar Gutierrez Duarte: Outros tipos de gráficos eu já vou mostrar como é o compilado, mas eu tenho o mapa de calor, que mostra um pouquinho ali em números, tá?
+22:08 - Victor Henrique Aguiar Gutierrez Duarte: Se tá vermelho, tá ruim, se tá azul claro, tá um pouco melhor.
+22:11 - Victor Henrique Aguiar Gutierrez Duarte: E aí, finalmente, eu acho que o supra-sumo é a gente fazer o plano de ação em conjunto com esse liderado, que a gente chama de GPDI, obviamente.
+22:21 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente gerou por insight já, mas vamos melhorar isso.
+22:23 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos primeiro analisar alguns mapas de teia.
+22:26 - Victor Henrique Aguiar Gutierrez Duarte: Isso daqui, gente, é minha percepção frente à percepção do meu gestor.
+22:29 - Victor Henrique Aguiar Gutierrez Duarte: Então dá pra colocar essas duas visões que, de repente, traz mais ideias, tá?
+22:33 - Victor Henrique Aguiar Gutierrez Duarte: Não só uma 90 graus.
+22:35 - Victor Henrique Aguiar Gutierrez Duarte: Aqui, tudo que foi falado, a visão do meu gerente pra mim, tá?
+22:39 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bonitinho.
+22:40 - Victor Henrique Aguiar Gutierrez Duarte: E aí eu posso fazer um questionário final.
+22:44 - Victor Henrique Aguiar Gutierrez Duarte: E posso criar agora exatamente aquilo que a gente queria.
+22:48 - Victor Henrique Aguiar Gutierrez Duarte: Um item de ação.
+22:49 - Victor Henrique Aguiar Gutierrez Duarte: Você trabalha com AT?
+22:50 - Victor Henrique Aguiar Gutierrez Duarte: Vamos fazer o seguinte.
+22:51 - Victor Henrique Aguiar Gutierrez Duarte: Meta trimestral. de vendas.
+22:57 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai colocar aqui, vai salvar e vai dar o número.
+23:01 - Victor Henrique Aguiar Gutierrez Duarte: Vocês vão trazer exatamente aqui esse resultado chave.
+23:05 - Victor Henrique Aguiar Gutierrez Duarte: Quantitativo.
+23:07 - Victor Henrique Aguiar Gutierrez Duarte: O cara tem que vender 5 mil.
+23:09 - Victor Henrique Aguiar Gutierrez Duarte: E a gente tem um objetivo maior.
+23:11 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente vai criar um objetivo para a empresa inteira, para a Action Day.
+23:13 - Victor Henrique Aguiar Gutierrez Duarte: A Action Day tem que aumentar o faturamento em 15%.
+23:16 - Victor Henrique Aguiar Gutierrez Duarte: Vai ter várias pessoas envolvidas nisso.
+23:18 - Victor Henrique Aguiar Gutierrez Duarte: Um júnior de repente contribui menos, um mid contribui mais e por aí vai.
+23:23 - Victor Henrique Aguiar Gutierrez Duarte: Então, criei meus objetivos, atrelo esse KPI aos objetivos e salvo aqui.
+23:29 - Victor Henrique Aguiar Gutierrez Duarte: Pronto.
+23:30 - Victor Henrique Aguiar Gutierrez Duarte: O que eu vou fazer depois?
+23:31 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso sugerir um curso para ele, plano de aprendizado.
+23:34 - Victor Henrique Aguiar Gutierrez Duarte: Lembra que eu falei que a gente tem uns treinamentos?
+23:35 - Victor Henrique Aguiar Gutierrez Duarte: Você vai escolher do seu catálogo e vai sugerir um treinamento aqui para ele.
+23:38 - Victor Henrique Aguiar Gutierrez Duarte: O Victor precisa melhorar na oratória.
+23:43 - Victor Henrique Aguiar Gutierrez Duarte: O curso que a gente quer, que já está no catálogo.
+23:48 - Victor Henrique Aguiar Gutierrez Duarte: Resolução de conflitos, por exemplo.
+23:50 - Victor Henrique Aguiar Gutierrez Duarte: Os participantes.
+23:52 - Victor Henrique Aguiar Gutierrez Duarte: Posso colocar ele, posso colocar mais gente.
+23:53 - Victor Henrique Aguiar Gutierrez Duarte: E comentários.
+23:55 - Victor Henrique Aguiar Gutierrez Duarte: Envio para aprovação.
+23:57 - Victor Henrique Aguiar Gutierrez Duarte: Alguém que é responsável pelo treinamento, se tiver que habilitar e liberar, vai aprovar essa licitação.
+24:03 - Victor Henrique Aguiar Gutierrez Duarte: Feito isso, posso por uma conclusão final.
+24:05 - Victor Henrique Aguiar Gutierrez Duarte: Interessante que isso daqui é democrático, gente.
+24:07 - Victor Henrique Aguiar Gutierrez Duarte: O colaborador também ajuda nessa criação para que ambos estejam alinhados.
+24:11 - Victor Henrique Aguiar Gutierrez Duarte: E aí, finalmente, a gente assina.
+24:13 - Victor Henrique Aguiar Gutierrez Duarte: Assinou o gestor, a gente assinou o colaborador, a gente fica com esse PDF aqui.
+24:17 - Alan Correa Graminho: Finalizado.
+24:19 - Alan Correa Graminho: Claro?
+24:21 - Victor Henrique Aguiar Gutierrez Duarte: Então, fizemos as avaliações.
+24:24 - Victor Henrique Aguiar Gutierrez Duarte: Como é que eu vou ver como é que está o objetivo da Action Day aqui?
+24:27 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai trazer os objetivos de vocês todos.
+24:31 - Victor Henrique Aguiar Gutierrez Duarte: Posso por ciclo também.
+24:33 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente divide o ciclo trimestralmente.
+24:36 - Victor Henrique Aguiar Gutierrez Duarte: Quais são as metas do trimestre?
+24:38 - Victor Henrique Aguiar Gutierrez Duarte: Melhorar a qualidade do design e inovação, progresso 82%.
+24:43 - Victor Henrique Aguiar Gutierrez Duarte: Por que 82%?
+24:43 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai entender aqui agora.
+24:47 - Victor Henrique Aguiar Gutierrez Duarte: O João não atingiu.
+24:49 - Victor Henrique Aguiar Gutierrez Duarte: O João também não atingiu esse.
+24:51 - Victor Henrique Aguiar Gutierrez Duarte: O João não atingiu muita coisa.
+24:53 - Victor Henrique Aguiar Gutierrez Duarte: Mas vamos entender aqui, de repente, como é que ele evoluiu nessa meta.
+24:56 - Victor Henrique Aguiar Gutierrez Duarte: Vocês estão vendo que eu criei uma linha de tendência.
+24:58 - Victor Henrique Aguiar Gutierrez Duarte: Então eu tenho uma curvatura esperada de um prazo inicial para o final.
+25:02 - Victor Henrique Aguiar Gutierrez Duarte: E eu vejo como é que ele atingiu.
+25:03 - Victor Henrique Aguiar Gutierrez Duarte: Então, gente, dá para rastrear passo a passo essas metas.
+25:06 - Victor Henrique Aguiar Gutierrez Duarte: Faz sentido o que eu estou falando?
+25:13 - Alan Correa Graminho: Faz muito.
+25:13 - Alan Correa Graminho: Agora eu vou tirar tudo aqui.
+25:13 - Alan Correa Graminho: Eu vou criar as metas anuais lá.
+25:14 - Alan Correa Graminho: Estão bem presas.
+25:14 - Alan Correa Graminho: Vai faturar 10 milhões.
+25:16 - Victor Henrique Aguiar Gutierrez Duarte: Aí a cada trimestre eu vou anunciando quanto que foi faturado.
+25:26 - Victor Henrique Aguiar Gutierrez Duarte: E já vai bater no quanto chegou de percentual naquela meta, ali vai parecer assim.
+25:28 - Victor Henrique Aguiar Gutierrez Duarte: Vai, ó.
+25:28 - Victor Henrique Aguiar Gutierrez Duarte: Se eu aumentar drasticamente aqui a contribuição de uma pessoa, automaticamente eu já aumento, obviamente.
+25:32 - Alan Correa Graminho: Vamos colocar o número de orbitantes aqui também.
+25:34 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu entendi o que você falou.
+25:35 - Victor Henrique Aguiar Gutierrez Duarte: Juntar todas as metras e ver o anual.
+25:37 - Victor Henrique Aguiar Gutierrez Duarte: Você viu que já subiu aqui o anual, por exemplo?
+25:40 - Victor Henrique Aguiar Gutierrez Duarte: Já foi por 88%.
+25:42 - Victor Henrique Aguiar Gutierrez Duarte: Vamos aumentar mais ainda.
+25:46 - Victor Henrique Aguiar Gutierrez Duarte: Mas tem que ser ligado a contribuição de cada pessoa a meta anual?
+25:49 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+25:50 - Victor Henrique Aguiar Gutierrez Duarte: É assim que você precisa?
+25:53 - Victor Henrique Aguiar Gutierrez Duarte: Não.
+25:53 - Victor Henrique Aguiar Gutierrez Duarte: Como é que você precisa?
+26:04 - Alan Correa Graminho: Não, precisaria só lançar o faturamento da empresa, porque é difícil, por exemplo, assim, a parte de finanças, de entrada de dinheiro, quase toda ela para no comercial.
+26:07 - Victor Henrique Aguiar Gutierrez Duarte: Isso aí é ter 100% diferente de comercial, será?
+26:08 - Victor Henrique Aguiar Gutierrez Duarte: O que eu posso fazer, eu posso criar um objetivo novo aqui, a gente aparta isso, então a gente está falando de faturamento anual, é isso?
+26:14 - Victor Henrique Aguiar Gutierrez Duarte: Esse é o nosso objetivo anual?
+26:15 - Victor Henrique Aguiar Gutierrez Duarte: Isso é, lá.
+26:19 - Victor Henrique Aguiar Gutierrez Duarte: Tá, então vamos lá.
+26:20 - Victor Henrique Aguiar Gutierrez Duarte: Vamos colocar esse ciclo aqui, a gente pode criar um ciclo que não é nem trimestre 1, trimestre 2, é anual.
+26:25 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente cria um novo ciclo aqui, tá?
+26:26 - Victor Henrique Aguiar Gutierrez Duarte: Primeiro a gente criaria um ciclo novo, aí a gente faz esse ciclo aqui.
+26:31 - Victor Henrique Aguiar Gutierrez Duarte: Da terencial, a gente vai fazer o quê?
+26:33 - Victor Henrique Aguiar Gutierrez Duarte: Vai pegar lá o janeiro, né?
+26:35 - Victor Henrique Aguiar Gutierrez Duarte: Pega o janeiro, pega aqui o final do ano, dezembro, coloca aqui, faturamento anual. o nome do ciclo.
+26:48 - Victor Henrique Aguiar Gutierrez Duarte: Quando eu criar as minhas AVDs, eu posso colocar os KPIs ali, os resultados-chave, dentro desse faturamento anual.
+26:56 - Victor Henrique Aguiar Gutierrez Duarte: A gente pode fazer, colocar isso, enfim, em qualquer um desses ciclos, tá?
+27:01 - Victor Henrique Aguiar Gutierrez Duarte: Vamos lá de novo.
+27:03 - Alan Correa Graminho: Você vai faturar x em cada mês?
+27:11 - Victor Henrique Aguiar Gutierrez Duarte: Você quer dividir mensalmente, então, esse fatoramento é nó para entender se no mês 1, no mês 2, no mês 3, individualmente, e depois a gente já cançou isso no final do ano, mais ou menos isso?
+27:23 - Victor Henrique Aguiar Gutierrez Duarte: Por exemplo, o gerente comercial, ele tem que vender 100 mil por mês, milhão por mês.
+27:26 - Victor Henrique Aguiar Gutierrez Duarte: Caramba, está vendendo bem, hein?
+27:27 - Victor Henrique Aguiar Gutierrez Duarte: Está vendendo bem.
+27:27 - Victor Henrique Aguiar Gutierrez Duarte: Vamos lá.
+27:28 - Victor Henrique Aguiar Gutierrez Duarte: Venda mensal.
+27:29 - Victor Henrique Aguiar Gutierrez Duarte: Vocês estão vendo que nesse objetivo aqui eu estou criando um resultado-chave que vai ser mensal?
+27:33 - Victor Henrique Aguiar Gutierrez Duarte: Aí, claro que a gente vai ter que ter um pouquinho de paciência e eu vou criar aqui, né?
+27:37 - Victor Henrique Aguiar Gutierrez Duarte: Então vou lá, vou criar aqui também.
+27:39 - Victor Henrique Aguiar Gutierrez Duarte: Vamos finalizar janeiro.
+27:41 - Victor Henrique Aguiar Gutierrez Duarte: Quantitativo, seleciona um colaborador.
+27:43 - Victor Henrique Aguiar Gutierrez Duarte: Ele tem que vender 100 mil? 100 mil?
+27:46 - Victor Henrique Aguiar Gutierrez Duarte: Milhão?
+27:47 - Victor Henrique Aguiar Gutierrez Duarte: Beleza.
+27:48 - Victor Henrique Aguiar Gutierrez Duarte: Vamos atribuir então o gestor, a betina, de repente aqui.
+27:52 - Victor Henrique Aguiar Gutierrez Duarte: Venda mensal.
+27:53 - Victor Henrique Aguiar Gutierrez Duarte: Aí, o que eu vou colocar?
+27:55 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou colocar todos os meses, gente.
+27:57 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou ter que fazer, individualmente, o resultado-chave para cada mês, mas tranquilo.
+28:00 - Victor Henrique Aguiar Gutierrez Duarte: Porque depois ele vai vir aqui e vai colocar seu faturamento.
+28:03 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai medir, vai te dar individualmente por mês, atingimento e anual.
+28:06 - Victor Henrique Aguiar Gutierrez Duarte: Acabou, resolvido.
+28:08 - Victor Henrique Aguiar Gutierrez Duarte: Dá para lançar então as mapas.
+28:11 - Alan Correa Graminho: Dá, dá para lançar.
+28:17 - Alan Correa Graminho: O gerente operacional, ele tem a corpera da receita, a corpera de churn, ele vai lançar o percentual de churn.
+28:20 - Victor Henrique Aguiar Gutierrez Duarte: Exatamente.
+28:21 - Victor Henrique Aguiar Gutierrez Duarte: A ClickUp, vocês não conseguem mexer na ClickUp e nessas questões mais de venda?
+28:24 - Victor Henrique Aguiar Gutierrez Duarte: Só para entender, aqui a gente faz isso.
+28:26 - Victor Henrique Aguiar Gutierrez Duarte: Mas a ClickUp não está atendendo?
+28:27 - Victor Henrique Aguiar Gutierrez Duarte: É o CRM de vocês, né?
+28:33 - Victor Henrique Aguiar Gutierrez Duarte: Não, o ClickUp é o nosso fluxo, é o nosso workflow de trabalho.
+28:35 - Victor Henrique Aguiar Gutierrez Duarte: Tipo um Monday, assim?
+28:36 - Victor Henrique Aguiar Gutierrez Duarte: Tipo um Monday, bem certo.
+28:37 - Victor Henrique Aguiar Gutierrez Duarte: Hmm, legal.
+28:39 - Victor Henrique Aguiar Gutierrez Duarte: A gente não integra ainda com a ClickUp, mas a gente integra com o stack Microsoft e Google.
+28:42 - Victor Henrique Aguiar Gutierrez Duarte: Se vocês quiserem trocar credenciais rapidamente, vocês trocam.
+28:45 - Victor Henrique Aguiar Gutierrez Duarte: Mas falando sobre esse assunto aqui, gente, sim, a gente atende o objetivo de vocês, metrifica mensalmente até chegar no objetivo maior.
+28:53 - Victor Henrique Aguiar Gutierrez Duarte: E aí, qual que é a ideia?
+28:54 - Victor Henrique Aguiar Gutierrez Duarte: Você vai entrar aqui, de repente, você aqueceu dentro do objetivo do seu gerente, e você vai ver aqui o progresso dele.
+29:01 - Victor Henrique Aguiar Gutierrez Duarte: Pronto, não é mais rápido que você vê assim?
+29:03 - Victor Henrique Aguiar Gutierrez Duarte: Você vai clicar e você vai ver diretamente aqui se você quiser dessa forma, tá?
+29:07 - Victor Henrique Aguiar Gutierrez Duarte: O gestor também vê, ele acompanha.
+29:08 - Victor Henrique Aguiar Gutierrez Duarte: Essa é a visão que ele vai ter.
+29:10 - Victor Henrique Aguiar Gutierrez Duarte: O desempenho também, gente.
+29:11 - Victor Henrique Aguiar Gutierrez Duarte: Então lembra que eu falei que a gente centraliza o widgets?
+29:13 - Victor Henrique Aguiar Gutierrez Duarte: Olha que bonitinho aqui.
+29:14 - Victor Henrique Aguiar Gutierrez Duarte: Eu vejo o desempenho atual, os próximos.
+29:17 - Victor Henrique Aguiar Gutierrez Duarte: Eu agendo conversas.
+29:18 - Victor Henrique Aguiar Gutierrez Duarte: Vocês têm one-on-ones, conversas quinzenais ou não?
+29:24 - Alan Correa Graminho: Tem.
+29:24 - Alan Correa Graminho: A estrutura das reuniões é o anão ano, o semanal, o time e a horrendos que a gente tem, estrutura bem.
+29:30 - Victor Henrique Aguiar Gutierrez Duarte: Vocês têm horrendos também?
+29:31 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem horrendos aqui também.
+29:33 - Victor Henrique Aguiar Gutierrez Duarte: A gente faz horrendos global, que a factura é multinacional, então é bem legal.
+29:36 - Victor Henrique Aguiar Gutierrez Duarte: E a gente gosta.
+29:38 - Alan Correa Graminho: A gente acha que tem horrendos.
+29:40 - Victor Henrique Aguiar Gutierrez Duarte: É muito bom.
+29:41 - Victor Henrique Aguiar Gutierrez Duarte: Falando de reuniões, a gente acabou de lançar uma funcionalidade que eu acho que para vocês vai fazer muito, muito sentido.
+29:46 - Victor Henrique Aguiar Gutierrez Duarte: Uma pergunta.
+29:47 - Victor Henrique Aguiar Gutierrez Duarte: Vocês já usam tecnologia de gravação de reuniões para as reuniões de vendas?
+29:52 - Alan Correa Graminho: Sim, o nosso game é o outro.
+29:54 - Alan Correa Graminho: É, qual que vocês usam?
+29:59 - Alan Correa Graminho: Tiki-Taka, acho que é.
+30:02 - Alan Correa Graminho: Tiki-Taka.
+30:04 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem o Meet Rocks aqui, por exemplo, essa reunião que a gente está fazendo é Meet Rocks, é muito bom.
+30:08 - Victor Henrique Aguiar Gutierrez Duarte: Mas como é que eu gravo o One-on-One com a minha gestora?
+30:11 - Victor Henrique Aguiar Gutierrez Duarte: Não é o Meet Rocks, eu vou fazer de outra forma.
+30:13 - Victor Henrique Aguiar Gutierrez Duarte: A gente acabou de lançar a funcionalidade de programar o One-on-One, então vou programar daqui 15 dias o One-on-One com o meu liderado, e a gente vai poder fazer reuniões por dentro da Factorial.
+30:22 - Victor Henrique Aguiar Gutierrez Duarte: Olha isso aqui, precisamente eu fico até arrepiado, eu gosto muito disso, e é recente.
+30:27 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai fazer as reuniões por dentro da Factorial, a gente vai liberar a câmera, vai liberar o microfone e vai gravar.
+30:34 - Victor Henrique Aguiar Gutierrez Duarte: A transcrição vai ficar salva em A para a gente poder conversar com essa transcrição.
+30:39 - Alan Correa Graminho: Entendeu?
+30:42 - Victor Henrique Aguiar Gutierrez Duarte: É presencial.
+30:42 - Victor Henrique Aguiar Gutierrez Duarte: É presencial?
+30:43 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser no presencial escrever então manualmente o que foi one on one, você pode vir e digitar aqui também, não tem problema nenhum.
+30:50 - Alan Correa Graminho: Ligar o microfone ali, ele vai captar também.
+30:56 - Victor Henrique Aguiar Gutierrez Duarte: Vai.
+30:57 - Victor Henrique Aguiar Gutierrez Duarte: Vai, deixa lá ligado, porque depois é mais fácil, gente, entendeu?
+31:00 - Victor Henrique Aguiar Gutierrez Duarte: Então, aqui ó, quais foram os objetivos e progressos?
+31:03 - Victor Henrique Aguiar Gutierrez Duarte: Não sei se vai ter, porque a gente não tem on-one aqui na demonstração.
+31:06 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu vou trazer pra vocês, vocês vão poder digitar aqui no bot.
+31:09 - Victor Henrique Aguiar Gutierrez Duarte: Como é que foi esse papo?
+31:11 - Victor Henrique Aguiar Gutierrez Duarte: Como foi o sentimento?
+31:12 - Victor Henrique Aguiar Gutierrez Duarte: O que ficou acordado?
+31:13 - Victor Henrique Aguiar Gutierrez Duarte: Ó, contexto da última reunião, contratações lentas.
+31:17 - Victor Henrique Aguiar Gutierrez Duarte: Bom, isso aqui realmente salva vidas, né?
+31:21 - Victor Henrique Aguiar Gutierrez Duarte: Tópico de discussão.
+31:21 - Victor Henrique Aguiar Gutierrez Duarte: Vocês podem até brincar aqui com isso que é criado.
+31:24 - Victor Henrique Aguiar Gutierrez Duarte: Então é uma baita tecnologia, tá? para ajudar vocês no registro dessas informações e também para programar esses one-on-ones.
+31:30 - Victor Henrique Aguiar Gutierrez Duarte: Perguntas?
+31:35 - Victor Henrique Aguiar Gutierrez Duarte: Tranquilo.
+31:36 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+31:36 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de clima também acredito que vocês devem fazer, né gente?
+31:40 - Alan Correa Graminho: Sim.
+31:41 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai trazer a mesma coisa, pesquisa de clima, responde pelo celular, pesquisa de qualquer coisa.
+31:46 - Victor Henrique Aguiar Gutierrez Duarte: Estão satisfeitos aqui com a Action Day?
+31:48 - Victor Henrique Aguiar Gutierrez Duarte: Vocês querem algum tipo de benefício?
+31:50 - Victor Henrique Aguiar Gutierrez Duarte: Vocês vão participar da confraternização de fim de ano?
+31:53 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente tem pesquisas ilimitadas, que são anônimas ou não, no caso de uma pesquisa de clima, tá?
+31:58 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai trazer todos os dados.
+31:59 - Victor Henrique Aguiar Gutierrez Duarte: É extremamente, você pode baixar em CSV, xls, puxar pela API também.
+32:05 - Victor Henrique Aguiar Gutierrez Duarte: Então, o que vocês precisam basicamente de uma pesquisa é o que?
+32:07 - Victor Henrique Aguiar Gutierrez Duarte: Ter um formulário personalizado e os dados, tá?
+32:11 - Victor Henrique Aguiar Gutierrez Duarte: E se for de clima anônimo.
+32:13 - Victor Henrique Aguiar Gutierrez Duarte: Então, o stack de pesquisas a gente já tem 100%.
+32:16 - Victor Henrique Aguiar Gutierrez Duarte: Temos também a NPS, que essa é a pessoa detratora, da action day, promotora, traz isso também no geral para vocês.
+32:23 - Victor Henrique Aguiar Gutierrez Duarte: E traz, finalmente, um insight que traz o geralzão.
+32:27 - Victor Henrique Aguiar Gutierrez Duarte: A rotatividade da empresa, de repente, o clima, como é que tá, tá?
+32:32 - Victor Henrique Aguiar Gutierrez Duarte: Pra complementar, diariamente a gente pode lançar uma pesquisa de pulso.
+32:34 - Victor Henrique Aguiar Gutierrez Duarte: Aquela pesquisa aqui, se eu tô feliz, se eu tô triste, a minha carinha, meu emoji.
+32:38 - Victor Henrique Aguiar Gutierrez Duarte: Então, diariamente a gente pode soltar uma pesquisa de pulso.
+32:41 - Victor Henrique Aguiar Gutierrez Duarte: Módulo de engajamento é esse.
+32:43 - Victor Henrique Aguiar Gutierrez Duarte: Aí o colaborador tem o app ali, ele tem que entrar sempre no app pra respondê-lo.
+32:50 - Victor Henrique Aguiar Gutierrez Duarte: Tem.
+32:50 - Victor Henrique Aguiar Gutierrez Duarte: Mas é só colocar a carinha ali e colocar um comentário se for necessário, tá?
+32:55 - Victor Henrique Aguiar Gutierrez Duarte: Tem matriz da Nibó, tem o posto dos colaboradores.
+32:57 - Victor Henrique Aguiar Gutierrez Duarte: Você fez alguma pergunta?
+32:58 - Alan Correa Graminho: Perdão.
+32:58 - Alan Correa Graminho: Não, eu estou pegando água.
+33:11 - Victor Henrique Aguiar Gutierrez Duarte: Ah, beleza.
+33:11 - Victor Henrique Aguiar Gutierrez Duarte: Posso votar?
+33:12 - Victor Henrique Aguiar Gutierrez Duarte: Pode votar.
+33:14 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+33:15 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, gente.
+33:15 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem a matriz na Inbox também.
+33:17 - Victor Henrique Aguiar Gutierrez Duarte: Acredito que, enfim, não sei se vocês já escutaram falar, mas é aquela matriz de nove grátis que diz se a pessoa pode ser promovida, como é que ela está, se ela é uma talento, se ela é essencial para a empresa.
+33:27 - Victor Henrique Aguiar Gutierrez Duarte: Então, assim, não faltam ferramentas aqui de avaliação, tá?
+33:31 - Victor Henrique Aguiar Gutierrez Duarte: A gente filtra muito bem as questões aqui por gerente, então quero fazer um filtro por área, quero fazer um filtro por gestor, filtro por gênero, filtro por CNPJ, enfim, tem filtro de tudo para que se ou possa, no caso você, ver tudo isso centralizado, tá?
+33:55 - Victor Henrique Aguiar Gutierrez Duarte: Ficou claro, pessoal?
+33:56 - Victor Henrique Aguiar Gutierrez Duarte: Como é que tá, Lã?
+33:57 - Victor Henrique Aguiar Gutierrez Duarte: Tudo certo.
+33:58 - Victor Henrique Aguiar Gutierrez Duarte: Lourenço, perguntas?
+33:59 - Victor Henrique Aguiar Gutierrez Duarte: Tamires?
+34:02 - Victor Henrique Aguiar Gutierrez Duarte: Não, não tem momento não.
+34:02 - Victor Henrique Aguiar Gutierrez Duarte: Gente, a gente passou por tudo, basicamente.
+34:04 - Victor Henrique Aguiar Gutierrez Duarte: A gente falou de desempenho, falou de pesquisa, falou de fluxo de tarefa, fluxo de treinamento.
+34:09 - Victor Henrique Aguiar Gutierrez Duarte: Recrutamento selecionado, vocês estão recrutando nesse momento?
+34:13 - Victor Henrique Aguiar Gutierrez Duarte: Sim, sempre.
+34:15 - Alan Correa Graminho: Sempre.
+34:19 - Alan Correa Graminho: Eu não tenho dúvida que o sistema é bom.
+34:20 - Alan Correa Graminho: A minha questão é implantação, você sabe?
+34:21 - Alan Correa Graminho: Os colaboradores têm que sobe cadastro por lista de Excel ou como que funciona esses cadastros?
+34:32 - Victor Henrique Aguiar Gutierrez Duarte: Extremamente simples.
+34:33 - Victor Henrique Aguiar Gutierrez Duarte: A gente precisa que todo mundo tem e-mail, obviamente que todo mundo tem e-mail no Action Day.
+34:37 - Victor Henrique Aguiar Gutierrez Duarte: A gente faz uma importação em massa, obviamente.
+34:40 - Victor Henrique Aguiar Gutierrez Duarte: Me traz uma planilha com nome, sobrenome, data de admissão e e-mail, a gente sobe todo mundo aqui.
+34:44 - Victor Henrique Aguiar Gutierrez Duarte: A gente acompanha você nesse processo de implementação, tá?
+34:47 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente vai criar seis, sete regras de implementação, de onboard.
+34:50 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai ensinar a fazer tudo isso.
+34:52 - Victor Henrique Aguiar Gutierrez Duarte: Na primeira reunião, a gente sobe os colaboradores, tá?
+34:54 - Alan Correa Graminho: Configura tudo.
+34:57 - Victor Henrique Aguiar Gutierrez Duarte: Dá pra subir com o cargo também, se você tiver os cargos já por nitinho.
+35:01 - Victor Henrique Aguiar Gutierrez Duarte: Quanto mais dados na planilha você tiver, melhor, tá?
+35:05 - Victor Henrique Aguiar Gutierrez Duarte: E se for, por exemplo, botou gerente, ele já vai puxar gerente lá nos filtros lá em cima.
+35:11 - Victor Henrique Aguiar Gutierrez Duarte: Vai, vai, sim.
+35:11 - Victor Henrique Aguiar Gutierrez Duarte: Porque se tem um campo na planilha de Excel que é a gerente, você coloca o e-mail do gerente, o organograma é criado automaticamente, tá?
+35:17 - Victor Henrique Aguiar Gutierrez Duarte: Então, ó, vou baixar o modelo para você entender.
+35:19 - Victor Henrique Aguiar Gutierrez Duarte: Olha aqui o organograma.
+35:20 - Victor Henrique Aguiar Gutierrez Duarte: Ele já vai ser construído, sim.
+35:22 - Victor Henrique Aguiar Gutierrez Duarte: Já com o cargo, o gerente.
+35:23 - Victor Henrique Aguiar Gutierrez Duarte: Basta que os dados estejam organizados, tá, gente?
+35:26 - Victor Henrique Aguiar Gutierrez Duarte: Tudo tem um layout.
+35:27 - Victor Henrique Aguiar Gutierrez Duarte: Mas é uma nave difícil.
+35:31 - Victor Henrique Aguiar Gutierrez Duarte: Pode falar, Leandro.
+35:34 - Alan Correa Graminho: Já sabe assim, tá vendo?
+35:37 - Alan Correa Graminho: Eu não vi só a nossa estrutura.
+35:41 - Alan Correa Graminho: Porque a gente separa por squads também, será que teria como quebrar isso no squad também?
+35:46 - Alan Correa Graminho: Teria, né, pra ter que botar o nome do squad.
+35:48 - Alan Correa Graminho: Porque, assim, a diretoria, CSC e as unidades de negócios, assim, sabe, que são os squads.
+35:56 - Alan Correa Graminho: CSC e CSC são serviços compartilhados, que aí entra o financeiro.
+36:00 - Victor Henrique Aguiar Gutierrez Duarte: Uhum, deixa eu pensar numa questão.
+36:03 - Victor Henrique Aguiar Gutierrez Duarte: Então, um gerente tem mais de uma equipe?
+36:08 - Alan Correa Graminho: Não.
+36:08 - Alan Correa Graminho: Tá, deixa eu pensar.
+36:12 - Victor Henrique Aguiar Gutierrez Duarte: Ah, só dá o nome dele, vai ter que ter o nome da equipe lá em cima também, né, pra separar.
+36:14 - Victor Henrique Aguiar Gutierrez Duarte: É, quando eu criar as equipes aqui, a gente vai poder colocar quem são os líderes.
+36:17 - Victor Henrique Aguiar Gutierrez Duarte: Se tiver um gerente que tem mais de uma equipe, ele pode ser líder de mais de uma equipe e os membros aqui.
+36:25 - Victor Henrique Aguiar Gutierrez Duarte: Ah, tem, tem, por exemplo, o Lorenzo tem sete espaias de abaixo dele.
+36:26 - Victor Henrique Aguiar Gutierrez Duarte: Nossa, Lorenzo, que trabalheira, cara.
+36:30 - Victor Henrique Aguiar Gutierrez Duarte: É legal, perfeito.
+36:31 - Victor Henrique Aguiar Gutierrez Duarte: Então, aí, Lourenço, sabe como é que você vai ficar aqui, cara?
+36:34 - Victor Henrique Aguiar Gutierrez Duarte: Você vai ter a tua perninha aqui, ó.
+36:36 - Victor Henrique Aguiar Gutierrez Duarte: E aí você vai ter, de repente, um monte de gente aqui embaixo, tá?
+36:43 - Victor Henrique Aguiar Gutierrez Duarte: Ah, dá pra fazer manual também, né?
+36:49 - Alan Correa Graminho: Dá pra fazer manual, põe aqui.
+36:49 - Victor Henrique Aguiar Gutierrez Duarte: Dá pra editar depois de subir na família, né?
+36:51 - Victor Henrique Aguiar Gutierrez Duarte: Dá.
+36:51 - Victor Henrique Aguiar Gutierrez Duarte: Dá pra editar.
+36:52 - Victor Henrique Aguiar Gutierrez Duarte: Então, dá para criar aqui os cargos também.
+36:54 - Victor Henrique Aguiar Gutierrez Duarte: Então, tranquilo, a gente ajuda na descrição de cargos por IA também.
+36:56 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem IA em tudo.
+36:58 - Victor Henrique Aguiar Gutierrez Duarte: Inclusive, a gente é parceiro Microsoft, assim, de anos, e a gente utiliza aqui o Copilot demais, a Factorota inteira com IA.
+37:06 - Victor Henrique Aguiar Gutierrez Duarte: Então, descrição de cargos, insight de avaliação de desempenho, importamento de seleção, a gente usa tudo IA.
+37:10 - Victor Henrique Aguiar Gutierrez Duarte: Dados mais para RH, gente, entrada de colaborador, saída, toda essa questão de rotatividade que apresenta aqui, seu organograma, seus cargos e equipes. e todas as pessoas.
+37:19 - Victor Henrique Aguiar Gutierrez Duarte: Então, sim, a gente trabalha bem com esses dados, tá?
+37:22 - Victor Henrique Aguiar Gutierrez Duarte: Conforme vocês vão adquirindo, de repente, módulos, vocês vão ter essa visão cada vez mais estruturada, mas também muitos dados de pessoas.
+37:29 - Victor Henrique Aguiar Gutierrez Duarte: Vocês usam o quê hoje?
+37:30 - Victor Henrique Aguiar Gutierrez Duarte: Se eu quero saber a data de admissão de colaboradores, vocês vão em Planilha?
+37:41 - Alan Correa Graminho: Sim.
+37:41 - Alan Correa Graminho: Tudo em Planilha.
+37:42 - Alan Correa Graminho: Mas tem no Planilha também.
+37:42 - Alan Correa Graminho: Tem no Planilha também.
+37:43 - Alan Correa Graminho: É, não, Zé?
+37:43 - Alan Correa Graminho: Ah, não, mas cada sala tem no Planilha também.
+37:44 - Alan Correa Graminho: Eu ia fazer econômica.
+37:50 - Victor Henrique Aguiar Gutierrez Duarte: O que eu pronuncio é essa.
+37:50 - Victor Henrique Aguiar Gutierrez Duarte: No OME-E também é cadastrado.
+37:51 - Victor Henrique Aguiar Gutierrez Duarte: O OME-E, a folha de vocês é externa, né?
+37:55 - Alan Correa Graminho: É tudo no OME-E.
+37:56 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+37:57 - Victor Henrique Aguiar Gutierrez Duarte: Mas quem fica com o OME-E é a contabilidade, né?
+37:59 - Victor Henrique Aguiar Gutierrez Duarte: Vocês só passam as rubricas ali e a contabilidade que é a do...
+38:03 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+38:04 - Victor Henrique Aguiar Gutierrez Duarte: Gente, aqui é um sistema para a gente ficar 100% independente de qualquer outra ferramenta ou de contabilidade externa, porque deixa as informações aqui.
+38:11 - Victor Henrique Aguiar Gutierrez Duarte: Quando entrou, quando saiu, se foi promovido, se tem VT, se tem VA, enfim, se está num estágio, de repente, se está num período de experiência.
+38:19 - Victor Henrique Aguiar Gutierrez Duarte: Essas informações são extremamente importantes para eu avisar o RH ali, ó, está vencendo o contrato da pessoa de experiência.
+38:24 - Victor Henrique Aguiar Gutierrez Duarte: Vamos soltar uma avaliação de desempenho?
+38:26 - Victor Henrique Aguiar Gutierrez Duarte: A gente automatiza tudo isso para você, tá?
+38:28 - Victor Henrique Aguiar Gutierrez Duarte: E te lembra das datas importantes.
+38:30 - Victor Henrique Aguiar Gutierrez Duarte: Vencimento de treinamento também.
+38:31 - Victor Henrique Aguiar Gutierrez Duarte: Tudo isso é para ajudar o RH a lembrar. documentos hoje uma pergunta já está pronto no sistema que a gente tem documento limitado vocês têm ferramentas de assinatura vocês pagam alguma ferramenta extra para assinar documento legal se vocês quiserem usar o sistema é muito bom aqui para que Vocês vão soltar contra-cheque, de repente, em massa.
+38:59 - Victor Henrique Aguiar Gutierrez Duarte: Tem 70 pessoas, todo mundo tem contra-cheque.
+39:01 - Victor Henrique Aguiar Gutierrez Duarte: Em vez de chegar no e-mail para a pessoa abrir, você vai pegar o PDF da contabilidade, da onde você gera, vai enviar com um clique para todo mundo e já chega para assinar.
+39:09 - Victor Henrique Aguiar Gutierrez Duarte: Mais documento de onboarding, pessoal.
+39:10 - Victor Henrique Aguiar Gutierrez Duarte: Deixa aqui documento de treinamento.
+39:12 - Victor Henrique Aguiar Gutierrez Duarte: Vocês têm pastas aqui com armazenamento ilimitado.
+39:15 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente controla muito bem esse GED.
+39:18 - Victor Henrique Aguiar Gutierrez Duarte: Não sei quem faz essa gestão de documentos, mas aqui a gente vai ter tudo centralizado.
+39:22 - Victor Henrique Aguiar Gutierrez Duarte: Pode ajudar também essa questão ou não?
+39:25 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+39:26 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+39:26 - Victor Henrique Aguiar Gutierrez Duarte: Já está no pacote, então ia de qualquer forma.
+39:30 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+39:32 - Victor Henrique Aguiar Gutierrez Duarte: E aí, gente, matamos 90% das dores.
+39:37 - Victor Henrique Aguiar Gutierrez Duarte: Querem arrematar com recurtamento de seleção ou querem ir para a parte boa de preços?
+39:49 - Alan Correa Graminho: Preços.
+39:50 - Alan Correa Graminho: Viu?
+39:51 - Alan Correa Graminho: Só o canal de comunicação dentro dessa plataforma, como que fica?
+39:52 - Alan Correa Graminho: Ah, mas não vai funcionar, porque ele não vai conectar tudo com o Google.
+39:53 - Alan Correa Graminho: Ainda pode ter dois canais.
+39:55 - Alan Correa Graminho: No Google é mais fácil de fazer grupos, o Slack.
+40:10 - Alan Correa Graminho: É para a gente fazer o WhatsApp.
+40:19 - Alan Correa Graminho: Só que aqui a gente vai ter que entender como que vai ser essa, como a gente vai gerir, por exemplo, aqui a plataforma.
+40:28 - Alan Correa Graminho: Mas vocês já sabem que os clientes usam o Slack e tal e tem a plataforma, né?
+40:32 - Victor Henrique Aguiar Gutierrez Duarte: Sim, a gente mesmo, na verdade, usa Google Chat.
+40:35 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho Slack para comunicar com a Espanha.
+40:37 - Victor Henrique Aguiar Gutierrez Duarte: Só que, assim, os aniversários ficam todos aqui, porque é via automatizada.
+40:41 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho mais simples.
+40:42 - Victor Henrique Aguiar Gutierrez Duarte: Eu prefiro ver por aqui.
+40:44 - Alan Correa Graminho: Exato.
+40:47 - Alan Correa Graminho: Não tem problema.
+40:48 - Alan Correa Graminho: A pessoa abre o app.
+40:48 - Alan Correa Graminho: Tem que só forçar a pessoa abrir o app todos os dias.
+40:51 - Victor Henrique Aguiar Gutierrez Duarte: Sim, tem que abrir o app todos os dias, tá?
+40:53 - Victor Henrique Aguiar Gutierrez Duarte: Mas chega por e-mail também.
+40:54 - Victor Henrique Aguiar Gutierrez Duarte: Caso você crie uma publicação aqui, vai chegar bonitinho por e-mail, se quiser manter pelo Google, enfim.
+40:59 - Victor Henrique Aguiar Gutierrez Duarte: Mas é automatizado aqui, você vê se as pessoas visitaram, os comentários, dá pra interagir bastante.
+41:05 - Victor Henrique Aguiar Gutierrez Duarte: Os novos colaboradores, a gente sempre coloca um post aqui na Factorial, tá?
+41:08 - Victor Henrique Aguiar Gutierrez Duarte: Pra poder interagir com eles.
+41:10 - Victor Henrique Aguiar Gutierrez Duarte: Então tem esse painel inicial, todo mundo vai ter esse painel, a caixa de entrada todo mundo tem, os eventos da empresa dá pra colocar aqui, e é tudo sincronizado com a agenda.
+41:18 - Victor Henrique Aguiar Gutierrez Duarte: Então tudo que é enviado aqui vai ser enviado ali pra agenda do Gmail, de repente vai ser enviado pelo Gmail também, tá?
+41:24 - Victor Henrique Aguiar Gutierrez Duarte: É mais uma ferramenta que já tá embedada.
+41:28 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, gente?
+41:32 - Alan Correa Graminho: Gostaram?
+41:35 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+41:35 - Victor Henrique Aguiar Gutierrez Duarte: Show.
+41:35 - Victor Henrique Aguiar Gutierrez Duarte: Uma pergunta, vocês têm PJs?
+41:39 - Alan Correa Graminho: Sim.
+41:41 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+41:41 - Victor Henrique Aguiar Gutierrez Duarte: Dá pra tratar a PJ aqui também, tá?
+41:42 - Victor Henrique Aguiar Gutierrez Duarte: Deixa as notificações fiscais aqui, informação de contrato, sem problema nenhum.
+41:47 - Victor Henrique Aguiar Gutierrez Duarte: Vocês trabalham com horas de projeto?
+41:48 - Victor Henrique Aguiar Gutierrez Duarte: Vocês quantificam projetos?
+41:53 - Victor Henrique Aguiar Gutierrez Duarte: Não, horas de projeto não.
+41:53 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+41:53 - Victor Henrique Aguiar Gutierrez Duarte: Não tem nenhum tipo de despesa relacionada ao projeto com o cliente?
+41:56 - Victor Henrique Aguiar Gutierrez Duarte: Porque, pelo que eu entendi, vocês são uma consultoria de marketing e venda, certo?
+42:05 - Alan Correa Graminho: Tem, mas aqui é todo...
+42:05 - Alan Correa Graminho: A gente trabalha com também PPR mensal, então é tudo metrificado, todo o custo, fecha o custo do mês e...
+42:08 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom, a gente tem aqui horas de projeto, caso os PJs não...
+42:13 - Victor Henrique Aguiar Gutierrez Duarte: Você não pode ter um ponto pro PJs, a gente concorda com isso.
+42:15 - Alan Correa Graminho: É tudo pra...
+42:15 - Victor Henrique Aguiar Gutierrez Duarte: A gente aqui, a gente fica acompanhando o ClickUp, tem que dar umas guardadas aí lá no ClickUp.
+42:23 - Victor Henrique Aguiar Gutierrez Duarte: Ah, maravilha.
+42:24 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+42:24 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bem.
+42:25 - Victor Henrique Aguiar Gutierrez Duarte: Aqui a gente tem uma gestão de projetos, aonde a gente consegue colocar, inclusive, um invoice.
+42:29 - Victor Henrique Aguiar Gutierrez Duarte: O que é um invoice?
+42:29 - Victor Henrique Aguiar Gutierrez Duarte: É a fatura que eu quero emitir pro cara, entendeu?
+42:32 - Victor Henrique Aguiar Gutierrez Duarte: Então, posso vir aqui, de repente, na fatura, criar uma fatura?
+42:35 - Victor Henrique Aguiar Gutierrez Duarte: Do meu serviço.
+42:36 - Victor Henrique Aguiar Gutierrez Duarte: Selecione uma sequência.
+42:38 - Victor Henrique Aguiar Gutierrez Duarte: Invoice, data de vencimento, então a gente coloca aqui, venci hoje, destinatário, para quem que vai, para esse cliente final, só para vocês entenderem, tá?
+42:48 - Victor Henrique Aguiar Gutierrez Duarte: O subprojeto e o item da fatura.
+42:51 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo que a gente consegue gerar aqui uma fatura?
+42:53 - Victor Henrique Aguiar Gutierrez Duarte: É muito bacana.
+42:54 - Victor Henrique Aguiar Gutierrez Duarte: Então fica pelado ao projeto, caso vocês queiram trazer para cá também, tá?
+42:59 - Victor Henrique Aguiar Gutierrez Duarte: Sei lá, consultoria, preço, quantidade, sei lá, 200 reais por aula, 12 aulas.
+43:06 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente mantém também essas faturinhas aqui para os seus clientes, tá?
+43:10 - Victor Henrique Aguiar Gutierrez Duarte: Caso vocês queiram trazer, fica bem legal.
+43:13 - Victor Henrique Aguiar Gutierrez Duarte: Hora de projeto, custo em projeto, despesa em projeto.
+43:15 - Victor Henrique Aguiar Gutierrez Duarte: Às vezes você está alocando alguém diretamente, ou está pagando gasolina para o seu consultor ir lá na empresa.
+43:19 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem gestão de despesas em BW também, que atreve ao projeto e te dá um custo final.
+43:23 - Victor Henrique Aguiar Gutierrez Duarte: Se tiver interesse, a gente explora melhor depois, tá?
+43:30 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha?
+43:30 - Victor Henrique Aguiar Gutierrez Duarte: Vamos falar de preço?
+43:35 - Alan Correa Graminho: Ah, a carinha do Alain.
+43:36 - Victor Henrique Aguiar Gutierrez Duarte: É você que tem que falar, meu Deus, como ouvi.
+43:39 - Victor Henrique Aguiar Gutierrez Duarte: Comercial é contracomercial aqui, né?
+43:42 - Victor Henrique Aguiar Gutierrez Duarte: Vocês já estão pensando em algum orçamento, gente, para esse tipo de projeto ou é tudo uma novidade para vocês?
+43:47 - Victor Henrique Aguiar Gutierrez Duarte: O Leonardo falou que vocês tinham previsão daqui três meses.
+43:49 - Victor Henrique Aguiar Gutierrez Duarte: Como é que funciona isso?
+43:52 - Victor Henrique Aguiar Gutierrez Duarte: É tudo novidade.
+43:52 - Victor Henrique Aguiar Gutierrez Duarte: Tudo novidade, né?
+43:53 - Victor Henrique Aguiar Gutierrez Duarte: Não tem orçamento, né?
+43:56 - Alan Correa Graminho: Como é que isso está incomodando nós?
+43:58 - Victor Henrique Aguiar Gutierrez Duarte: Vamos lá.
+44:00 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem um pagamento mensal recorrente em cima dos módulos contratados e a gente compõe os módulos aqui, a factura é modular.
+44:08 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente pode começar a fazer um roll out desse projeto de forma cadenciada.
+44:13 - Victor Henrique Aguiar Gutierrez Duarte: Ah, Vitor, quero começar agora só com o treinamento, depois com a avaliação.
+44:16 - Victor Henrique Aguiar Gutierrez Duarte: Fica a critério de vocês.
+44:19 - Victor Henrique Aguiar Gutierrez Duarte: Vou mostrar aqui como é que a gente vai compor esse preço e a gente vai discutir isso junto dentro das possibilidades de vocês.
+44:25 - Victor Henrique Aguiar Gutierrez Duarte: Beleza?
+44:25 - Victor Henrique Aguiar Gutierrez Duarte: Módulo base obrigatório, admissão, PDI, integrações, API aberta, tudo isso tá na base e documento.
+44:33 - Victor Henrique Aguiar Gutierrez Duarte: Vamos com esse projeto aqui.
+44:35 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de clima, desempenho, treinamentos.
+44:42 - Victor Henrique Aguiar Gutierrez Duarte: Não tá dando em pré-enxerga, dá um zoomzinho ali, por favor.
+44:44 - Victor Henrique Aguiar Gutierrez Duarte: Você vai tirar um pente da minha tela, né?
+44:45 - Victor Henrique Aguiar Gutierrez Duarte: Eu tô bem canto.
+44:47 - Victor Henrique Aguiar Gutierrez Duarte: Eu tô bem canto.
+44:48 - Victor Henrique Aguiar Gutierrez Duarte: Ó, base, pesquisas, desempenho, treinamento.
+44:52 - Victor Henrique Aguiar Gutierrez Duarte: O base é por pessoa, é isso.
+44:55 - Victor Henrique Aguiar Gutierrez Duarte: Todos são por pessoa.
+44:57 - Victor Henrique Aguiar Gutierrez Duarte: Só que o base é obrigatório, ele é a base do sistema, o organograma ele tem que ter, não importa o plano.
+45:03 - Victor Henrique Aguiar Gutierrez Duarte: Tem raiz por pessoa.
+45:03 - Victor Henrique Aguiar Gutierrez Duarte: Isso, está dando 9 mais 2,80, está dando aqui, espera aí.
+45:08 - Victor Henrique Aguiar Gutierrez Duarte: Vou diminuir porque não quero fazer as contas na cabeça não. 18,80 por pessoa.
+45:15 - Victor Henrique Aguiar Gutierrez Duarte: Vamos fazer as contas juntos? 18,80 x 78 pessoas, quantas vocês têm hoje?
+45:20 - Victor Henrique Aguiar Gutierrez Duarte: Aqui é 60, mas 1.200 por menos.
+45:28 - Victor Henrique Aguiar Gutierrez Duarte: É, 60 vezes 8 é isso aí. 1.128 reais.
+45:29 - Victor Henrique Aguiar Gutierrez Duarte: Com descontinho para a gente acelerar fechamento, de repente a gente chega a uns 12,5% aí.
+45:32 - Victor Henrique Aguiar Gutierrez Duarte: O que vocês acharam?
+45:35 - Victor Henrique Aguiar Gutierrez Duarte: É, 12,5%, dá uma margem grande para o negócio, tá?
+45:39 - Victor Henrique Aguiar Gutierrez Duarte: Uma margem grande.
+45:43 - Victor Henrique Aguiar Gutierrez Duarte: Deu 1,28... 987 reais para a gente entregar tudo isso que vocês precisam mensal, tá?
+45:56 - Alan Correa Graminho: Tá, como que funciona o dos usuários assim?
+46:05 - Alan Correa Graminho: Diminuiu duas pessoas, a gente comprou 60, sempre vai pagar 60 usuários ou paga por usuários ativos na plataforma?
+46:07 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho uma pergunta, a gente tem um cap limitado, então por exemplo, fechou um contrato comigo para 60, o mínimo é 60, colocou 61, vai ser um adicional de 18, 80 ali com desconto por pessoa, mas para baixo não.
+46:19 - Victor Henrique Aguiar Gutierrez Duarte: Então é interessante você ancorar de repente num valor que você sabe que você nunca vai diminuir, entendeu? 55 de repente, Entende?
+46:28 - Alan Correa Graminho: Maravilha.
+46:29 - Victor Henrique Aguiar Gutierrez Duarte: Então é isso. 12 meses a gente tem um contrato de fidelidade onde você paga uma multa de 30% em cima das mensalidades remanescentes, tá?
+46:44 - Victor Henrique Aguiar Gutierrez Duarte: Pra não cancelar.
+46:45 - Victor Henrique Aguiar Gutierrez Duarte: Não tem cancelamento.
+46:48 - Victor Henrique Aguiar Gutierrez Duarte: Cancelamento em 30 dias.
+46:49 - Victor Henrique Aguiar Gutierrez Duarte: É, você pode cancelar gratitamente em 30 dias, mas se a gente vai fazer um trabalho tão bom que você não vai querer, você vai gostar.
+46:59 - Alan Correa Graminho: Em 30 dias?
+47:02 - Alan Correa Graminho: Cara, não, tem na código, é só pra saber mesmo.
+47:03 - Victor Henrique Aguiar Gutierrez Duarte: Depois botou o sistema, toda a importação é igual levantar um avião.
+47:05 - Victor Henrique Aguiar Gutierrez Duarte: E assim, gente, a gente vai acompanhar vocês, igual eu comentei anteriormente, a gente tem um número mínimo para que vocês estejam com a plataforma rodando.
+47:12 - Victor Henrique Aguiar Gutierrez Duarte: São duas horas, mais duas horas, mais duas horas, mais duas horas.
+47:17 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente faz aqui, no caso, dois, quatro, seis, oito horas de treinamento.
+47:21 - Victor Henrique Aguiar Gutierrez Duarte: É muito mais do que suficiente, tá?
+47:23 - Victor Henrique Aguiar Gutierrez Duarte: Vocês vão ter um gerente de contas também.
+47:24 - Victor Henrique Aguiar Gutierrez Duarte: Então, sai do onboarding, tá tudo certo, eu tenho uma dúvida.
+47:27 - Victor Henrique Aguiar Gutierrez Duarte: Vocês vão ligar para o gerente de contas específico, vai mandar um e-mail para ele.
+47:30 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente acompanha vocês até o roll-out final, até lançar o convite para os colaboradores, tá?
+47:34 - Victor Henrique Aguiar Gutierrez Duarte: Sem muito segredo, implementação bem fácil, na verdade, quando a gente fala de IRH.
+47:39 - Victor Henrique Aguiar Gutierrez Duarte: Se fosse ponto, se fosse ausência, demora mais.
+47:41 - Victor Henrique Aguiar Gutierrez Duarte: Mas aqui essa questão é muito mais prática.
+47:44 - Victor Henrique Aguiar Gutierrez Duarte: Ficou dúvidas em relação a todo o escopo do nosso projeto?
+47:49 - Victor Henrique Aguiar Gutierrez Duarte: Quando a gente começa, então, Alan?
+47:52 - Alan Correa Graminho: Olha, na Nação do Centro daqui, a questão toda é implementação.
+47:56 - Alan Correa Graminho: Implementação, né?
+47:57 - Alan Correa Graminho: Consegui implementar.
+47:58 - Alan Correa Graminho: Então, esse é o colégio, essa é a reunião interna aqui pra conversar pra que é a estruturação do sistema, né, o acompanhamento, que a gente vai ter que aumentar aqui.
+48:09 - Alan Correa Graminho: Tipo, para famílias, não dá conta pra tudo isso.
+48:13 - Alan Correa Graminho: Entendeu?
+48:13 - Alan Correa Graminho: Você, rapaz, está gestando esses temas sem a gente ter que dar uma pessoa só no sistema, porque muita gente A Lã, pela minha experiência, quando eu tenho uma pessoa só dedicada, até dá, viu?
+48:23 - Victor Henrique Aguiar Gutierrez Duarte: Não é tão grande, talvez seja complexa, mas ela vai ter muita instrução, tá?
+48:29 - Victor Henrique Aguiar Gutierrez Duarte: Eu não acho que precisaria contratar uma pessoa só pra isso, até porque a ferramenta é pra não ter que contratar ninguém, entendeu?
+48:37 - Alan Correa Graminho: Mas perfeito, a gente vai analisar agora.
+48:37 - Alan Correa Graminho: É bem legal, eu já imaginei que a ferramenta era bem completa, assim.
+48:39 - Alan Correa Graminho: E eu li sobre a ferramenta, até ela foi eu que senti que ia essa, né, também dizendo.
+48:47 - Alan Correa Graminho: Eu procurei e achei bem interessante, assim, então.
+48:49 - Alan Correa Graminho: Que bom, Alain.
+48:52 - Alan Correa Graminho: A gente quer implementar agora, só organizar o passo-a-passo, sabe?
+48:54 - Alan Correa Graminho: Que tudo que é punitivo numa empresa, mesmo a gente ser uma média empresa... tem todo o processo interno, mexe um pouquinho com o financeiro, mexe um pouquinho com os outros setores, prazo de implementação, porque a gente tem que só criar essa estrutura assim, vamos fazer agora, e criar toda a meta de criar um plano mesmo de implementação.
+49:13 - Alan Correa Graminho: Eu sei que assim, sistema a gente está acostumado a usar, a sistema de tudo, tem que participar todo, porque é difícil ter um sistema que na... no tamanho de vocês que ele não vai superar as nossas necessidades, isso eu tinha certeza.
+49:27 - Alan Correa Graminho: Agora tem que ter a nossa capacidade de gerir e usar da melhor maneira possível o sistema de negociação, entendeu?
+49:34 - Alan Correa Graminho: E a questão do preço, as duas coisas, a gente tem que ter capacidade financeira para pagar e capacidade de utilizar o cesego, né?
+49:40 - Alan Correa Graminho: Porque não há gente que a gente contrata e não usar, né?
+49:43 - Alan Correa Graminho: Então como a gente vai usar isso da melhor maneira?
+49:44 - Victor Henrique Aguiar Gutierrez Duarte: Legal, então, acredito que você tem que entender como é que você vai fazer esse desenvolvimento, tá?
+49:51 - Victor Henrique Aguiar Gutierrez Duarte: Mas se, de repente, o financeiro for um peso para você, a gente dá uma diminuída nas primeiras mensalidades.
+49:55 - Victor Henrique Aguiar Gutierrez Duarte: Você fez um estilo de prova de conceito mesmo, sabe?
+49:57 - Victor Henrique Aguiar Gutierrez Duarte: Uma coisa para ter um impacto menor no começo e aí depois você tem uma previsibilidade, tá?
+50:03 - Victor Henrique Aguiar Gutierrez Duarte: Vou deixar vocês pensando, vou mandar uma versão de teste, de repente, para o Lorenzo, que é o cara do TI, para ele mexer, se ele quiser, tá?
+50:09 - Victor Henrique Aguiar Gutierrez Duarte: E aí vocês vão se acostumando e a gente volta a falar.
+50:11 - Victor Henrique Aguiar Gutierrez Duarte: Faz sentido?
+50:12 - Alan Correa Graminho: Está sentindo total, já passa para melhor, a oferta ali para Tamires, já para a gente colocar na mesa, o Lorenzo vai testando a implementação e a gente vai vendo essa implementação também, porque estruturar certinho, isso é bem importante.
+50:25 - Alan Correa Graminho: A gente vai ver também como a gente vai fazer essa questão com a nossa plataforma de treinamentos, esses detalhes, e a gente vai conversando com a nossa plataforma.
+50:32 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, então.
+50:33 - Victor Henrique Aguiar Gutierrez Duarte: Vou fazer, Renil, tudo o que a gente falou, proposta, API, versão de teste, vou mandar no e-mail.
+50:39 - Victor Henrique Aguiar Gutierrez Duarte: Todo mundo em cópia, tá?
+50:40 - Victor Henrique Aguiar Gutierrez Duarte: Eu só não tenho o e-mail do Lorenzo.
+50:41 - Victor Henrique Aguiar Gutierrez Duarte: Se, de repente, você puder me passar.
+50:51 - Victor Henrique Aguiar Gutierrez Duarte: Eu me passo, não é?
+50:52 - Victor Henrique Aguiar Gutierrez Duarte: Ah, tem que passar agora?
+50:52 - Victor Henrique Aguiar Gutierrez Duarte: Não, passa depois.
+50:52 - Alan Correa Graminho: Tem que ter só o Lorenzo, se a gente não tem digital, quando que eu vou ter?
+50:56 - Victor Henrique Aguiar Gutierrez Duarte: Ah, então, beleza.
+50:57 - Victor Henrique Aguiar Gutierrez Duarte: Lorenzo...
+50:57 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom, vai.
+50:57 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito, então.
+50:58 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+50:59 - Victor Henrique Aguiar Gutierrez Duarte: Posso mandar, então, tudo isso compilado na segunda para vocês?
+51:01 - Victor Henrique Aguiar Gutierrez Duarte: Fica bom?
+51:02 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, gente.
+51:04 - Victor Henrique Aguiar Gutierrez Duarte: Ótima conversa que a gente teve, boa sorte, tá?
+51:06 - Victor Henrique Aguiar Gutierrez Duarte: E vamos junto aí, com a coisa à tua disposição, tá?
+51:11 - Victor Henrique Aguiar Gutierrez Duarte: Um forte abraço aí.
+51:12 - Victor Henrique Aguiar Gutierrez Duarte: Tchau, gente.
+51:12 - Victor Henrique Aguiar Gutierrez Duarte: Valeu, obrigado.

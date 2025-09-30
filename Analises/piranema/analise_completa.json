@@ -1,0 +1,105 @@
+{
+  "resumo_executivo": "Lead warm com scores: Urgência 0.92, Necessidade 0.6, Fit 0.47. 5 stakeholders identificados.",
+  "highlights": [
+    "Urgência: tempo, pressa, corre",
+    "Necessidades: preciso, problema, dificuldade",
+    "Fit: perfeito, ideal, correto"
+  ],
+  "scores": {
+    "urgencia": 0.92,
+    "necessidade": 0.6,
+    "fit": 0.47,
+    "confianca": 0.8
+  },
+  "temperature": "Warm",
+  "frameworks": {
+    "BANT": {
+      "budget": "Identificado",
+      "authority": "Identificado",
+      "need": "Identificado",
+      "timeline": "Identificado"
+    },
+    "MEDDIC": {
+      "metrics": "A definir - precisa perguntar sobre KPIs e métricas de sucesso",
+      "economic_buyer": "Identificado",
+      "decision_criteria": "A definir - precisa perguntar sobre critérios de decisão",
+      "decision_process": "A definir - precisa perguntar sobre processo de decisão",
+      "identify_pain": "Identificado",
+      "champion": "A definir - precisa identificar campeão interno"
+    },
+    "SPIN": {
+      "situation": "Situação atual identificada através da conversa",
+      "problem": "Problemas identificados",
+      "implication": "A definir - precisa explorar implicações dos problemas",
+      "need_payoff": "A definir - precisa explorar benefícios da solução"
+    }
+  },
+  "stakeholders": [
+    {
+      "nome": "entra um",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de expans",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de contas exclusivo",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de contas que vai falar",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "um minuto que eu vou tirar um",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    }
+  ],
+  "objeções": [
+    "é muito bom escutar de você",
+    "só eu que cuido dos dois, para documento e tudo mais",
+    "Férias, Dessem, Olerit, Cartão Ponto, que é quase sempre, né",
+    "eu achei muito confuso, porque pelo aplicativo a gente consegue colher a assinatura do cartão ponto, mas o Olerit não, o Olerit tem que servir e-mail",
+    "você pode trazer esse modelo para cá"
+  ],
+  "próximos_passos": [
+    {
+      "ação": "tirar de um, porque tem dois abertos",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "ser responsável por seu projeto aqui",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "te perguntar, você prefere exportar o espelho de ponto lá da Tangerino e jogar no nosso sistema para ser distribuído também",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    }
+  ],
+  "recomendações_estratégicas": [
+    "Lead morno - manter engajamento regular",
+    "Agendar próxima reunião para aprofundar necessidades",
+    "Abordar objeções identificadas: é muito bom escutar de você, só eu que cuido dos dois, para documento e tudo mais"
+  ],
+  "email_followup": "Assunto: Material complementar - piranema\n\nOlá,\n\nComo prometido, segue material complementar sobre Urgência: tempo, pressa, corre.\n\nGostaria de agendar uma breve conversa para discutir como isso pode ajudar sua empresa?\n\nDisponível nos próximos dias.\n\nAtenciosamente,\n[SEU NOME]",
+  "call_script": "ROTEIRO - LEAD MORNO\n1. Retomar conversa anterior\n2. Explorar necessidades mais profundas\n3. Apresentar cases de sucesso\n4. Identificar stakeholders adicionais\n5. Agendar próxima reunião",
+  "data_analise": "2025-09-12",
+  "cliente": "piranema"
+}

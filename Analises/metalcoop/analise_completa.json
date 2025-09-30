@@ -1,0 +1,105 @@
+{
+  "resumo_executivo": "Lead warm com scores: Urgência 0.61, Necessidade 0.4, Fit 0.37. 5 stakeholders identificados.",
+  "highlights": [
+    "Urgência: imediato, rápido, prioridade",
+    "Necessidades: preciso, problema, dor",
+    "Fit: perfeito, ideal, correto"
+  ],
+  "scores": {
+    "urgencia": 0.61,
+    "necessidade": 0.4,
+    "fit": 0.37,
+    "confianca": 0.8
+  },
+  "temperature": "Warm",
+  "frameworks": {
+    "BANT": {
+      "budget": "Identificado",
+      "authority": "Identificado",
+      "need": "Identificado",
+      "timeline": "Identificado"
+    },
+    "MEDDIC": {
+      "metrics": "A definir - precisa perguntar sobre KPIs e métricas de sucesso",
+      "economic_buyer": "Identificado",
+      "decision_criteria": "A definir - precisa perguntar sobre critérios de decisão",
+      "decision_process": "A definir - precisa perguntar sobre processo de decisão",
+      "identify_pain": "Identificado",
+      "champion": "A definir - precisa identificar campeão interno"
+    },
+    "SPIN": {
+      "situation": "Situação atual identificada através da conversa",
+      "problem": "Problemas identificados",
+      "implication": "A definir - precisa explorar implicações dos problemas",
+      "need_payoff": "A definir - precisa explorar benefícios da solução"
+    }
+  },
+  "stakeholders": [
+    {
+      "nome": "vendo que eu tenho uma cascata onde eu escolho os",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "Por ser",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "Tem um",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de contos",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    },
+    {
+      "nome": "de contas",
+      "cargo": "Não identificado",
+      "influencia": "Média",
+      "posicao": "Neutro"
+    }
+  ],
+  "objeções": [
+    "tudo na base do Excel",
+    "aí agora a gente está resolvendo um pouco em prática mesmo",
+    "você também fecha a folha",
+    "a gente faz os lançamentos",
+    "é um pouco difícil porque acaba que é bastante gente se olhar no geral aí, né, pra manter o controle de tudo"
+  ],
+  "próximos_passos": [
+    {
+      "ação": "te mostrar tudo isso, tá",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "te mostrar tudo isso",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    },
+    {
+      "ação": "ter aqui todas as informações, então, do que meus gestores responderam sobre o colaborador e a própria avaliação dele",
+      "prazo": "A definir",
+      "responsável": "A definir",
+      "prioridade": "Média"
+    }
+  ],
+  "recomendações_estratégicas": [
+    "Lead morno - manter engajamento regular",
+    "Agendar próxima reunião para aprofundar necessidades",
+    "Abordar objeções identificadas: tudo na base do Excel, aí agora a gente está resolvendo um pouco em prática mesmo"
+  ],
+  "email_followup": "Assunto: Material complementar - metalcoop\n\nOlá,\n\nComo prometido, segue material complementar sobre Urgência: imediato, rápido, prioridade.\n\nGostaria de agendar uma breve conversa para discutir como isso pode ajudar sua empresa?\n\nDisponível nos próximos dias.\n\nAtenciosamente,\n[SEU NOME]",
+  "call_script": "ROTEIRO - LEAD MORNO\n1. Retomar conversa anterior\n2. Explorar necessidades mais profundas\n3. Apresentar cases de sucesso\n4. Identificar stakeholders adicionais\n5. Agendar próxima reunião",
+  "data_analise": "2025-09-12",
+  "cliente": "metalcoop"
+}

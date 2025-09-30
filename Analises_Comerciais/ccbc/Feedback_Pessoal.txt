@@ -1,0 +1,14 @@
+=== FEEDBACK DE PERFORMANCE PESSOAL ===
+
+Total de Perguntas: 193
+Perguntas Abertas: 137
+Perguntas Fechadas: 56
+Razão Abertas/Fechadas: 2.45
+Score de Confiança: 0/10
+
+MELHORIAS SUGERIDAS:
+• Reduzir uso de palavras que transmitem insegurança (acho, talvez)
+• Usar mais linguagem assertiva e baseada em fatos
+• Preparar perguntas específicas sobre dores e objetivos
+• Usar mais cases de sucesso para construir credibilidade
+• Focar em benefícios específicos para o cliente

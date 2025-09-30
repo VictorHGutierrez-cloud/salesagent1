@@ -1,0 +1,75 @@
+{
+  "Cliente": "vguard",
+  "Data_Analise": "2025-09-29 00:54:55",
+  "Diagnostico": {
+    "Setor": "tecnologia",
+    "Porte": "grande",
+    "Dores_Principais": [
+      "meta, que eu não estou entregando meta"
+    ],
+    "Stakeholders": {
+      "Decisores": [],
+      "Influenciadores": [
+        "Equipe interna",
+        "Equipe interna"
+      ],
+      "Usuarios": []
+    },
+    "Gatilhos_Emocionais": [],
+    "Objetivos_Declarados": [
+      "de três meses, trazer tanto de receita",
+      "ou não",
+      "de tempo de atendimento, de nota de qualidade do atendimento, aquela monitoria mesmo que a gente escuta as ligações e avalia no formulário e tal"
+    ]
+  },
+  "Score_Prioridade": {
+    "Urgencia": 5,
+    "Autoridade": 6,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Score_Geral": 7.7,
+    "Classificacao": "MÉDIA PRIORIDADE"
+  },
+  "Resumo_FollowUp": {
+    "Resumo_Executivo": "Cliente do setor tecnologia com média prioridade (score 7.7/10). Principais dores: meta, que eu não estou entregando meta. Urgência moderada - agendar follow-up em 48h.",
+    "Objecoes_Identificadas": [
+      "Objeção detectada: (?:muito\\s+)?(?:caro|caro\\s+demais)"
+    ],
+    "Respostas_Strategicas": [
+      "Focar no ROI e economia de longo prazo. Apresentar casos de sucesso com retorno comprovado."
+    ],
+    "Template_Email": "Assunto: Próximos passos - Cliente\n\n\nOlá Cliente,\n\nObrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.\n\nBaseado na nossa conversa, identifiquei algumas oportunidades interessantes:\n• meta, que eu não estou entregando meta\n\nPróximos passos sugeridos:\n• [Ação específica baseada no score de prioridade]\n• [Segunda ação]\n• [Terceira ação]\n\nGostaria de agendar uma call de 15 minutos para discutirmos os detalhes?\n\nAtenciosamente,\n[Seu nome]\n",
+    "Proximos_Passos_Sugeridos": [
+      "Enviar material de apoio e cases de sucesso",
+      "Agendar call de esclarecimentos em 1 semana",
+      "Preparar piloto ou demonstração específica"
+    ]
+  },
+  "Feedback_Pessoal": {
+    "Total_Perguntas": 161,
+    "Perguntas_Abertas": 81,
+    "Perguntas_Fechadas": 80,
+    "Razao_Abertas_Fechadas": 1.01,
+    "Indicadores_Inseguranca": 48,
+    "Indicadores_Confianca": 0,
+    "Score_Confianca": 0,
+    "Melhorias_Sugeridas": [
+      "Reduzir uso de palavras que transmitem insegurança (acho, talvez)",
+      "Usar mais linguagem assertiva e baseada em fatos",
+      "Preparar perguntas específicas sobre dores e objetivos",
+      "Usar mais cases de sucesso para construir credibilidade",
+      "Focar em benefícios específicos para o cliente"
+    ]
+  },
+  "Proximos_Passos": {
+    "Prioridade": "MÉDIA",
+    "Acoes_Imediatas": [
+      "Enviar material de apoio",
+      "Agendar call de esclarecimentos",
+      "Preparar demonstração específica"
+    ],
+    "Prazo_Proxima_Acao": "1 semana",
+    "Objetivo_Proxima_Call": "Avançar no processo de vendas"
+  }
+}

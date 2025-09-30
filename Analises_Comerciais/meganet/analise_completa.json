@@ -1,0 +1,70 @@
+{
+  "Cliente": "meganet",
+  "Data_Analise": "2025-09-29 00:54:55",
+  "Diagnostico": {
+    "Setor": "tecnologia",
+    "Porte": "grande",
+    "Dores_Principais": [],
+    "Stakeholders": {
+      "Decisores": [],
+      "Influenciadores": [
+        "Equipe interna",
+        "Equipe interna"
+      ],
+      "Usuarios": []
+    },
+    "Gatilhos_Emocionais": [],
+    "Objetivos_Declarados": []
+  },
+  "Score_Prioridade": {
+    "Urgencia": 8,
+    "Autoridade": 5,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Score_Geral": 8.4,
+    "Classificacao": "ALTA PRIORIDADE"
+  },
+  "Resumo_FollowUp": {
+    "Resumo_Executivo": "Cliente do setor tecnologia com alta prioridade (score 8.4/10). Principais dores: não identificadas claramente. Alta urgência detectada - priorizar follow-up imediato.",
+    "Objecoes_Identificadas": [
+      "Objeção detectada: (?:muito\\s+)?(?:caro|caro\\s+demais)"
+    ],
+    "Respostas_Strategicas": [
+      "Focar no ROI e economia de longo prazo. Apresentar casos de sucesso com retorno comprovado."
+    ],
+    "Template_Email": "Assunto: Próximos passos - Cliente\n\n\nOlá Cliente,\n\nObrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.\n\nBaseado na nossa conversa, identifiquei algumas oportunidades interessantes:\n\n\nPróximos passos sugeridos:\n• [Ação específica baseada no score de prioridade]\n• [Segunda ação]\n• [Terceira ação]\n\nGostaria de agendar uma call de 15 minutos para discutirmos os detalhes?\n\nAtenciosamente,\n[Seu nome]\n",
+    "Proximos_Passos_Sugeridos": [
+      "PRIORIDADE: Contato imediato via telefone",
+      "Agendar call de fechamento em 24-48h",
+      "Preparar proposta comercial detalhada",
+      "Envolver stakeholders-chave identificados"
+    ]
+  },
+  "Feedback_Pessoal": {
+    "Total_Perguntas": 189,
+    "Perguntas_Abertas": 144,
+    "Perguntas_Fechadas": 45,
+    "Razao_Abertas_Fechadas": 3.2,
+    "Indicadores_Inseguranca": 50,
+    "Indicadores_Confianca": 0,
+    "Score_Confianca": 0,
+    "Melhorias_Sugeridas": [
+      "Reduzir uso de palavras que transmitem insegurança (acho, talvez)",
+      "Usar mais linguagem assertiva e baseada em fatos",
+      "Preparar perguntas específicas sobre dores e objetivos",
+      "Usar mais cases de sucesso para construir credibilidade",
+      "Focar em benefícios específicos para o cliente"
+    ]
+  },
+  "Proximos_Passos": {
+    "Prioridade": "ALTA",
+    "Acoes_Imediatas": [
+      "Contato telefônico em 24h",
+      "Preparar proposta comercial",
+      "Agendar reunião de fechamento"
+    ],
+    "Prazo_Proxima_Acao": "24-48 horas",
+    "Objetivo_Proxima_Call": "Fechamento da venda"
+  }
+}

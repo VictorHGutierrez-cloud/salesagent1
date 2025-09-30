@@ -1,0 +1,899 @@
+00:02 - Regiane: treinamentos, avaliação de desempenho, pesquisa de clima, todos esses documentos, toda essa temática que a gente já faz, mas tudo na base do Excel.
+00:10 - Regiane: Excel e formulários.
+00:12 - Regiane: Então, a gente tem aí uma ideia de começar a sistematizar isso.
+00:18 - Regiane: Nós já temos um sistema que nós utilizamos na contabilidade em relação a folha de pagamento, que aumenta dados.
+00:25 - Regiane: Então, a gente usa esse sistema para questões de folha.
+00:29 - Regiane: Então, a gente está precisando do sistema maior para essas questões treinamentos, avaliação de desempenho, documentações de funcionários, essas questões assim.
+00:39 - Regiane: Então, é uma necessidade que surge.
+00:41 - Regiane: Na verdade, faz tempo que a gente está pensando, mas aí agora a gente está resolvendo um pouco em prática mesmo.
+00:47 - Regiane: Para tentar sair um pouco dessa coisa do manual, né?
+00:50 - Victor Henrique Aguiar Gutierrez Duarte: Você que faz tudo sozinha hoje, você tem alguém para se acompanhar?
+00:53 - Regiane: Tenho um aprendiz.
+00:57 - Regiane: Como a folha de pagamento é terceirizada, então acaba se aflitando um pouco.
+01:02 - Victor Henrique Aguiar Gutierrez Duarte: Tá, mas você também fecha a folha.
+01:04 - Victor Henrique Aguiar Gutierrez Duarte: Você também fecha a folha.
+01:06 - Regiane: É, de certa forma.
+01:07 - Regiane: A gente lança lá, né?
+01:08 - Regiane: Quem faz a parte da folha, assim, no geral, é a contabilidade, né?
+01:12 - Regiane: Mas a gente faz os lançamentos.
+01:15 - Regiane: E daí, para simplificar um pouco, para facilitar um pouco, se tivesse algum sistema aí, iria ajudar bastante na questão de tapulação, outras coisas assim.
+01:25 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+01:25 - Victor Henrique Aguiar Gutierrez Duarte: Até para fazer a própria avaliação de desempenho, você gostaria de um sistema automatizado?
+01:29 - Victor Henrique Aguiar Gutierrez Duarte: Porque você faz como hoje?
+01:31 - Regiane: É por formulário?
+01:32 - Regiane: É por formulário.
+01:33 - Regiane: Faz formulário e depois tabula no Excel.
+01:35 - Regiane: Pesquisa de clima, mesma coisa.
+01:37 - Regiane: Matriz de competência, matriz de versatilidade, Excel.
+01:41 - Regiane: Plano de treinamento, Excel.
+01:43 - Regiane: Nossa, você faz tudo isso, Excel.
+01:45 - Regiane: Excel e formulário, né?
+01:47 - Regiane: Avaliação de experiência, on the job, então tudo é base de formulário Excel.
+01:54 - Victor Henrique Aguiar Gutierrez Duarte: E aí você tem que lembrar de quando tá chegando a avaliação, tem que mandar o link.
+02:00 - Regiane: Tem que manter tudo meio que no controle, mas é um pouco difícil porque acaba que é bastante gente se olhar no geral aí, né, pra manter o controle de tudo.
+02:10 - Regiane: Vai dando certo, mas acaba se tem alguma forma de dar uma facilidade, por que não, né?
+02:16 - Victor Henrique Aguiar Gutierrez Duarte: Com certeza.
+02:18 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+02:19 - Victor Henrique Aguiar Gutierrez Duarte: Não, estou super animado.
+02:20 - Victor Henrique Aguiar Gutierrez Duarte: Eu gosto de fazer pergunta para entender um pouco do processo.
+02:22 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos lá.
+02:23 - Victor Henrique Aguiar Gutierrez Duarte: Hoje, você comentou sobre a ISO 9001.
+02:25 - Victor Henrique Aguiar Gutierrez Duarte: Então, você precisa ter registro de, de repente, horas de treinamento também, né?
+02:30 - Victor Henrique Aguiar Gutierrez Duarte: Hora de treinamento, assinatura de documentos que comprovam que, ou eles fizeram treinamento, ou até uma assinatura de acordo com a avaliação, que eles estão de acordo com a avaliação do desempenho.
+02:39 - Victor Henrique Aguiar Gutierrez Duarte: Você pode fazer isso também, se você quiser, né?
+02:42 - Victor Henrique Aguiar Gutierrez Duarte: Sim, sim, sim.
+02:42 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+02:43 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+02:44 - Regiane: Hoje...
+02:46 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou te mostrar tudo isso, tá?
+02:48 - Victor Henrique Aguiar Gutierrez Duarte: Vou te mostrar tudo isso.
+02:50 - Victor Henrique Aguiar Gutierrez Duarte: Aí deixa eu te fazer outra pergunta.
+02:52 - Victor Henrique Aguiar Gutierrez Duarte: O seu modelo de avaliação hoje, como é que ele é?
+02:54 - Victor Henrique Aguiar Gutierrez Duarte: É seu gestor que avalia seu liderado, ou eles se avaliam também?
+02:56 - Regiane: Como é que é?
+02:58 - Regiane: Hoje eu estou fazendo 90 graus somente, até para facilitar um pouco, que é só o superior imediato que avalia o subordinado.
+03:06 - Regiane: Um tempo atrás cheguei a fazer autoavaliação, mas aí diante da demanda, que é bem complicado, acabei reduzindo para meio que tá comprido ali, né, o que precisa.
+03:18 - Victor Henrique Aguiar Gutierrez Duarte: Caramba!
+03:19 - Victor Henrique Aguiar Gutierrez Duarte: E a autoavaliação tem um poder muito forte, na verdade, né?
+03:21 - Regiane: Tem, tem, tem.
+03:22 - Regiane: Ela é bem bacana, ela chegou, tem que fazer algumas vezes, mas daí nos dois últimos anos eu só fiz o mesmo superior imediato versus ordinário.
+03:32 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+03:32 - Victor Henrique Aguiar Gutierrez Duarte: A gente pode fazer, então, deixar automatizado para você, tanto essa que você já tem, e deixar a sua avaliação também automatizada.
+03:39 - Victor Henrique Aguiar Gutierrez Duarte: Aí vai chegar para o colaborador uma avaliação para ele responder no celular.
+03:42 - Victor Henrique Aguiar Gutierrez Duarte: Inclusive, a gente pode responder pelo aplicativo da Factorano Celular, que ajuda bastante, ou posso responder no computador.
+03:48 - Victor Henrique Aguiar Gutierrez Duarte: Aí ele responde.
+03:49 - Victor Henrique Aguiar Gutierrez Duarte: Aí o gestor também.
+03:50 - Victor Henrique Aguiar Gutierrez Duarte: Aí depois eles vão sentar e vão olhar juntos essa avaliação.
+03:54 - Victor Henrique Aguiar Gutierrez Duarte: Faz sentido?
+03:57 - Victor Henrique Aguiar Gutierrez Duarte: Sim, sim, faz.
+03:57 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+03:57 - Regiane: Então, olha...
+03:59 - Victor Henrique Aguiar Gutierrez Duarte: Como que eu faria isso, tá?
+04:01 - Victor Henrique Aguiar Gutierrez Duarte: Hoje, então, aqui nesse panel de desempenho, todas as avaliações que você tem ou já lançou ficam no histórico, obviamente.
+04:07 - Victor Henrique Aguiar Gutierrez Duarte: E aí, num exemplo de uma avaliação que eu lancei, 180 graus, pensando em 90 e 180, eu vou ter aqui todas as informações, então, do que meus gestores responderam sobre o colaborador e a própria avaliação dele.
+04:19 - Victor Henrique Aguiar Gutierrez Duarte: Então, se você reparar, eu tenho 100% de conclusão da avaliação, todo mundo respondeu, graças a Deus, tá?
+04:25 - Victor Henrique Aguiar Gutierrez Duarte: Logo abaixo tem uma distribuição de pontos, então hoje só para entender.
+04:30 - Victor Henrique Aguiar Gutierrez Duarte: A sua avaliação, ela é uma classificação de 1 a 5?
+04:33 - Regiane: É, 1 a 5.
+04:38 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente mantém.
+04:39 - Victor Henrique Aguiar Gutierrez Duarte: E aqui, a gente vai dizer que uma nota 3 atende às expectativas.
+04:42 - Victor Henrique Aguiar Gutierrez Duarte: Então, de repente, é assim que você faz, sabe?
+04:45 - Victor Henrique Aguiar Gutierrez Duarte: Pronto.
+04:45 - Victor Henrique Aguiar Gutierrez Duarte: Já está configurado.
+04:46 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser mudar lá na frente.
+04:47 - Victor Henrique Aguiar Gutierrez Duarte: Vitor, eu quero personalizar minha escala para 10.
+04:50 - Victor Henrique Aguiar Gutierrez Duarte: Você pode personalizar.
+04:51 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu já respondi.
+04:52 - Victor Henrique Aguiar Gutierrez Duarte: As pessoas já responderam.
+04:53 - Victor Henrique Aguiar Gutierrez Duarte: E eu vejo que o gerente...
+04:54 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo que eu tenho uma cascata onde eu escolho os gerentes aqui?
+04:58 - Victor Henrique Aguiar Gutierrez Duarte: É aqui que você vai entender, então, o desempenho de cada equipe em cima desses mesmos critérios mesmo.
+05:04 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo?
+05:05 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+05:05 - Victor Henrique Aguiar Gutierrez Duarte: De você transitar.
+05:07 - Victor Henrique Aguiar Gutierrez Duarte: Então, inicialmente, a gente traz isso daqui.
+05:09 - Victor Henrique Aguiar Gutierrez Duarte: Se você tiver dúvidas, a gente vai entrar um por um e a gente vai ver aqui a avaliação do gestor.
+05:13 - Victor Henrique Aguiar Gutierrez Duarte: O que foi falado?
+05:14 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo?
+05:15 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+05:17 - Victor Henrique Aguiar Gutierrez Duarte: Bem tranquilo, tá?
+05:18 - Victor Henrique Aguiar Gutierrez Duarte: Competência por cargo hoje, você também já atribuiu algumas competências por cargo?
+05:23 - Regiane: É, a gente dividiu por grupos, né?
+05:25 - Regiane: Então, dentro desses grupos a gente definiu as competências.
+05:30 - Regiane: Mas é por separadas funções dentro desses grupos, né?
+05:34 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+05:35 - Victor Henrique Aguiar Gutierrez Duarte: Então, assim, por exemplo, você tem um operacional e tem as competências do operacional, do administrativo-administrativo.
+05:40 - Regiane: Analista, você tem essas de apoio.
+05:42 - Regiane: Diretoria tem, né, então tem toda essa abordagem.
+05:46 - Victor Henrique Aguiar Gutierrez Duarte: Genial.
+05:47 - Victor Henrique Aguiar Gutierrez Duarte: Aposto que você não quer perder esse trabalho seu.
+05:49 - Regiane: Não, porque deu bastante...
+05:52 - Regiane: Sabia.
+05:53 - Regiane: Sabia.
+05:54 - Regiane: De certa forma, seria mais sistematizar aquilo que a gente tem, na verdade.
+06:00 - Victor Henrique Aguiar Gutierrez Duarte: Quando eu apresento a avaliação de desempenho para os clients, eu tento não ter atrito com o processo que eles já fazem.
+06:05 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente vai...
+06:06 - Victor Henrique Aguiar Gutierrez Duarte: Vou te mostrar como é que a gente traz tudo que você tem e aproveita muito do que você já fez aqui.
+06:10 - Victor Henrique Aguiar Gutierrez Duarte: Tá vendo que eu tenho competências por cargo?
+06:14 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu vou criar as competências por cargo também.
+06:17 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+06:18 - Victor Henrique Aguiar Gutierrez Duarte: Fica fácil de fazer, e aí eu escolho o grupo aqui.
+06:21 - Victor Henrique Aguiar Gutierrez Duarte: Gestão, tá vendo?
+06:25 - Victor Henrique Aguiar Gutierrez Duarte: Então é tranquilo.
+06:25 - Victor Henrique Aguiar Gutierrez Duarte: Um analista comercial vai ter competências diferentes de um operacional.
+06:30 - Victor Henrique Aguiar Gutierrez Duarte: E você deixa isso pronto aqui, tá?
+06:32 - Victor Henrique Aguiar Gutierrez Duarte: Para que eu quero deixar isso pronto?
+06:34 - Victor Henrique Aguiar Gutierrez Duarte: Quando eu lançar minha avaliação, ao invés de eu fazer só em cima das competências, a gente pode fazer todas as competências que eu já elenquei ali.
+06:42 - Victor Henrique Aguiar Gutierrez Duarte: Se eu soltar uma avaliação para todo mundo da empresa, cada um vai receber a avaliação em cima das próprias competências, entendeu?
+06:48 - Victor Henrique Aguiar Gutierrez Duarte: Então não vou ser analisado.
+06:48 - Victor Henrique Aguiar Gutierrez Duarte: Então eu posso automatizar 100%.
+06:51 - Victor Henrique Aguiar Gutierrez Duarte: Solto para todo mundo, cada um recebe suas competências.
+06:54 - Victor Henrique Aguiar Gutierrez Duarte: Por que isso pode ser legal?
+06:55 - Victor Henrique Aguiar Gutierrez Duarte: Porque além de você fazer isso em cima das competências, você pode colocar mais perguntas.
+06:59 - Victor Henrique Aguiar Gutierrez Duarte: Por que não?
+07:00 - Victor Henrique Aguiar Gutierrez Duarte: Por que você não coloca, de repente, uma pergunta em aberta?
+07:02 - Victor Henrique Aguiar Gutierrez Duarte: Por exemplo, ah, colaborador, que tipo de melhoria você esperaria que viesse do seu gestor?
+07:08 - Victor Henrique Aguiar Gutierrez Duarte: Como você acha que poderia se desenvolver?
+07:10 - Victor Henrique Aguiar Gutierrez Duarte: Então, além das competências que vão ser automatizadas na avaliação, você pode brincar e criar mais perguntas ainda.
+07:16 - Victor Henrique Aguiar Gutierrez Duarte: Vai consolidando mais informações, entendeu?
+07:20 - Regiane: E isso fica salvo com as coroas no seguinte, eu consigo manter o mesmo padrão, assim, que elas só perdem.
+07:27 - Regiane: A gente fica fazendo esse trabalho todas as vezes.
+07:29 - Victor Henrique Aguiar Gutierrez Duarte: Você faz uma vez e deixa até pronto pra soltar toda vez sem que você nunca mais clique.
+07:33 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+07:35 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+07:35 - Victor Henrique Aguiar Gutierrez Duarte: É ótimo.
+07:35 - Victor Henrique Aguiar Gutierrez Duarte: E olha, quando o colaborador...
+07:37 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou voltar na configuração porque tem algumas coisinhas que eu quero te mostrar.
+07:40 - Victor Henrique Aguiar Gutierrez Duarte: Mas como é que isso se transparência?
+07:42 - Victor Henrique Aguiar Gutierrez Duarte: Quando eu responder a avaliação, no meu perfil de colaborador, eu vou enxergar isso daqui, tá vendo?
+07:46 - Victor Henrique Aguiar Gutierrez Duarte: Que eu tenho uma caixinha no meu perfil logo me dizendo sobre o meu desempenho.
+07:50 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+07:51 - Victor Henrique Aguiar Gutierrez Duarte: Então eu já vejo histórico, a janeira, o abril, julho.
+07:53 - Victor Henrique Aguiar Gutierrez Duarte: Se eu tiver dúvida, eu posso entrar aqui.
+07:56 - Victor Henrique Aguiar Gutierrez Duarte: E aí eu vejo, de fato, as avaliações de forma mais completa.
+08:00 - Regiane: Tá?
+08:01 - Victor Henrique Aguiar Gutierrez Duarte: Olha que legal.
+08:02 - Victor Henrique Aguiar Gutierrez Duarte: Eu lancei a avaliação, todo mundo respondeu.
+08:04 - Victor Henrique Aguiar Gutierrez Duarte: Até então, o pessoal respondeu muito fácil pelo celular e pelo computador.
+08:07 - Victor Henrique Aguiar Gutierrez Duarte: Aí eu quero começar a trazer mais informações.
+08:09 - Victor Henrique Aguiar Gutierrez Duarte: O que eu vou trazendo ali, então?
+08:12 - Victor Henrique Aguiar Gutierrez Duarte: Essa tela aqui é como se fosse o compilado, o tudo que foi feito ali numa página só para que você tome a decisão baseada num resumo.
+08:21 - Victor Henrique Aguiar Gutierrez Duarte: Aqui eu tenho, então, a Helena, a diretora.
+08:24 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho o mapa dela aqui de competência.
+08:26 - Victor Henrique Aguiar Gutierrez Duarte: Uma competência é ela se avaliando, a outra é o gerente dela.
+08:29 - Victor Henrique Aguiar Gutierrez Duarte: Ou seja, eu trago esse mapa da Inbox que você usa no mapa de teia.
+08:33 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu consigo já colocar as duas visões.
+08:35 - Victor Henrique Aguiar Gutierrez Duarte: Você está vendo que tem uma certa discrepância?
+08:37 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+08:37 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente acha que eu performo melhor do que eu mesmo acho.
+08:40 - Victor Henrique Aguiar Gutierrez Duarte: Primeira coisa que a gente vai trazer no mapa de teia para você.
+08:44 - Victor Henrique Aguiar Gutierrez Duarte: Depois, tudo que for tabulado mesmo.
+08:46 - Victor Henrique Aguiar Gutierrez Duarte: Se você fez perguntas de texto, eu vou trazer para você as respostas das perguntas, para que a gente possa discutir em cima disso.
+08:53 - Victor Henrique Aguiar Gutierrez Duarte: Então, tranquilo até então essas informações para você compiladas, que sentido?
+09:00 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, a equipe tem dez pessoas.
+09:01 - Victor Henrique Aguiar Gutierrez Duarte: Como é que eu trago então, como é que eu torno esse dado estratégico do meu ponto de vista?
+09:07 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que além de a gente entender individualmente, a gente pode entender a equipe como um todo.
+09:11 - Victor Henrique Aguiar Gutierrez Duarte: A fato que o Real tem uma IA, que faz o seguinte, a gente vai desvê para a equipe desse gestor exatamente como é que está o alinhamento da equipe dele, o desempenho da equipe como todo, tá?
+09:20 - Victor Henrique Aguiar Gutierrez Duarte: Então, a equipe, sob a supervisão da Helena, está atuando num nível normal.
+09:24 - Victor Henrique Aguiar Gutierrez Duarte: Cada membro tem pontos fortes e distintos e áreas para melhoria.
+09:27 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente vai dar para esse gestor um gostinho do que pode ser entendido dessas avaliações, e a gente sugere o próprio PDI, a gente sugere um plano de desenvolvimento individual.
+09:36 - Victor Henrique Aguiar Gutierrez Duarte: O Ivan tem que receber um treinamento em planejamento estratégico, porque as perguntas que eu fiz sobre o planejamento ele não performou.
+09:42 - Regiane: Entendeu?
+09:44 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+09:44 - Victor Henrique Aguiar Gutierrez Duarte: Bom, né?
+09:44 - Regiane: Não sei, eu acho.
+09:47 - Regiane: Não é, é bacana, mas também é bacana.
+09:49 - Victor Henrique Aguiar Gutierrez Duarte: Show de bola.
+09:50 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+09:51 - Victor Henrique Aguiar Gutierrez Duarte: Mapa de calor também.
+09:52 - Victor Henrique Aguiar Gutierrez Duarte: Deixa eu só voltar para você.
+09:53 - Victor Henrique Aguiar Gutierrez Duarte: Pode me fazer perguntas.
+09:54 - Regiane: É mais você do que eu aqui, tá?
+09:56 - Victor Henrique Aguiar Gutierrez Duarte: Por favor.
+10:00 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+10:02 - Victor Henrique Aguiar Gutierrez Duarte: Outro dado que eu posso dar para você é o seguinte, tá?
+10:04 - Victor Henrique Aguiar Gutierrez Duarte: Vamos ver se eu consigo te dar um mapa de...
+10:09 - Victor Henrique Aguiar Gutierrez Duarte: Vamos ver se eu consigo te dar um mapa de TEI aqui.
+10:10 - Victor Henrique Aguiar Gutierrez Duarte: Espera aí.
+10:12 - Victor Henrique Aguiar Gutierrez Duarte: Bom, mapa de TEI.
+10:13 - Victor Henrique Aguiar Gutierrez Duarte: Vou botar tudo.
+10:15 - Victor Henrique Aguiar Gutierrez Duarte: Vou botar tudo, respostas.
+10:18 - Victor Henrique Aguiar Gutierrez Duarte: Não, deixa eu pegar uma outra variação.
+10:19 - Victor Henrique Aguiar Gutierrez Duarte: Deixa eu mostrar todos os gráficos, tá?
+10:21 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+10:21 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos lá.
+10:23 - Victor Henrique Aguiar Gutierrez Duarte: Aqui, olha só, um pouco mais disperso, né?
+10:26 - Victor Henrique Aguiar Gutierrez Duarte: Então, tem pessoas que precisam melhorar, já aponta aqui.
+10:29 - Victor Henrique Aguiar Gutierrez Duarte: Aqui, nesse mapa de color, a gente não trabalhou, e o IA nesse aqui não trabalhou.
+10:34 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu já te mostrei que a IA entrega um relatório completo, né?
+10:37 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+10:38 - Victor Henrique Aguiar Gutierrez Duarte: É isso que eu quero te mostrar.
+10:39 - Victor Henrique Aguiar Gutierrez Duarte: Até então, atende seus parâmetros iniciais, a forma como é lançada e os dados inicialmente?
+10:44 - Regiane: Sim, sim.
+10:46 - Regiane: No caso, ele fica...
+10:48 - Regiane: A avaliação dos empenhos de vocês é a parte, ou ela puxa, por exemplo, com a descrição de cargo, com a questão de cargo?
+10:56 - Regiane: Por exemplo, lá eu cadastrei, não sei se vocês têm, né?
+10:58 - Regiane: Tem lá as descrições de cargos, aí tem lá as competências.
+11:03 - Victor Henrique Aguiar Gutierrez Duarte: Ela linka ou não?
+11:04 - Victor Henrique Aguiar Gutierrez Duarte: Linka.
+11:04 - Victor Henrique Aguiar Gutierrez Duarte: Lembra que a gente fez as competências em cima dos cargos aqui, ó?
+11:08 - Regiane: Ah, tá.
+11:08 - Regiane: Então, primeiro lança todos os cargos, as formações, tal, tal, tudo o que precisa, e depois, automaticamente, a malhação consegue puxar de lá, então.
+11:16 - Victor Henrique Aguiar Gutierrez Duarte: Exato.
+11:16 - Victor Henrique Aguiar Gutierrez Duarte: Tá, dessa o cargo, as competências do cargo.
+11:18 - Regiane: Tá vendo, ó?
+11:20 - Victor Henrique Aguiar Gutierrez Duarte: Tá. e já puxa, aí facilita.
+11:22 - Victor Henrique Aguiar Gutierrez Duarte: Aí já vai juntando mais dados ali.
+11:25 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, então hoje você precisa de um mapa...
+11:28 - Victor Henrique Aguiar Gutierrez Duarte: Quais os dados no final que você precisa?
+11:30 - Victor Henrique Aguiar Gutierrez Duarte: Aquele que eu te mostrei, da escala da equipe, como um todo ali, de 1 a 5, já atende?
+11:35 - Regiane: Vamos voltar para lá.
+11:36 - Regiane: Não, já, pelo que você mostrou aí, atenderia, sim.
+11:41 - Regiane: Uma questão, se eu não quiser fazer, como o pessoal, a alta avaliação também dá para seguir normal, só com o superior.
+11:49 - Regiane: É que, de acordo com a cultura, às vezes é um pouco complicado aqui.
+11:54 - Regiane: Por ser cooperativa, é um pouco mais difícil as questões.
+11:57 - Regiane: Então, às vezes, a gente tem que fazer um pouco mais...
+12:00 - Victor Henrique Aguiar Gutierrez Duarte: Mais limitado, né?
+12:01 - Regiane: Também fechado, né?
+12:03 - Regiane: É.
+12:03 - Regiane: E, no meu preto, normal já é complicado, imagina onde, né?
+12:06 - Regiane: Tem 29 donos juntos, então...
+12:09 - Regiane: Quantos?
+12:10 - Regiane: É 29, né?
+12:11 - Regiane: Porque são os cooperados, né?
+12:12 - Victor Henrique Aguiar Gutierrez Duarte: Ah, tá.
+12:13 - Regiane: Não, isso é um outro cenário, né?
+12:15 - Regiane: É outro cenário.
+12:16 - Regiane: Então, a gente tem que fazer tudo, mas de uma forma que...
+12:18 - Victor Henrique Aguiar Gutierrez Duarte: E que as coisas se aliniem, né?
+12:20 - Victor Henrique Aguiar Gutierrez Duarte: E que seja agradativo, de repente, a revolução, né?
+12:23 - Victor Henrique Aguiar Gutierrez Duarte: Também, também.
+12:24 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+12:24 - Victor Henrique Aguiar Gutierrez Duarte: Eu dei um treinamento sobre a avaliação de desempenho para a equipe da Factorial, justamente para identificar quando o vendedor encontrar um cliente, primeiro entenda a maturidade, ao invés de ficar oferecendo uma avaliação de 360 graus.
+12:35 - Regiane: Então, entenda-se ser maturidade.
+12:37 - Regiane: É, porque hoje a gente não consegue, é lógico que futuramente quem sabe, né?
+12:41 - Victor Henrique Aguiar Gutierrez Duarte: Olha, poucas empresas, eu tenho 250 clientes próprios e meus, eu acho que nem 10% faz 360, então não fica tão pronto.
+12:51 - Regiane: É muito, tem que ter uma boa, um bom alinhamento, né?
+12:54 - Regiane: Um bom alinhamento.
+12:57 - Victor Henrique Aguiar Gutierrez Duarte: Tem as partes, tem tudo, então tem toda uma questão.
+12:59 - Victor Henrique Aguiar Gutierrez Duarte: Proção body love ali, né?
+13:02 - Victor Henrique Aguiar Gutierrez Duarte: Então só pra te mostrar, aqui eu só quero criar uma avaliação de gestor, então pronto, a gente atende só 90 graus, tá?
+13:08 - Victor Henrique Aguiar Gutierrez Duarte: Rapidinho, eu vou selecionar, tô criando do zero aqui, quem vai participar, eu vou selecionar as pessoas que vão participar aqui de repente.
+13:15 - Victor Henrique Aguiar Gutierrez Duarte: Aí posso fazer de repente por equipe, tá?
+13:17 - Regiane: Por exemplo, se eu quiser fazer uma avaliação de experiência somente, eu posso usar esse mesmo estilo aí, coloco só que avaliação de experiência no caso.
+13:25 - Regiane: Correto.
+13:27 - Regiane: Um de job, você acha que entra aí?
+13:30 - Regiane: Dá pra entrar?
+13:31 - Regiane: Trabalho em um posto de trabalho, por exemplo.
+13:33 - Regiane: Avaliação no posto de trabalho.
+13:35 - Regiane: Então, a pessoa entrou, ela foi para o posto de trabalho, ela tem umas atividades para ser formada ali, durante o período.
+13:41 - Regiane: Aí, depois ela terminou, a gente faz uma avaliação.
+13:44 - Regiane: Dá para fazer.
+13:45 - Victor Henrique Aguiar Gutierrez Duarte: Você tem liberdade total, porque você pode criar perguntas personalizadas e escolher pessoas aleatoriamente.
+13:51 - Regiane: Ah, entendi.
+13:52 - Regiane: Então, aprende.
+13:53 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito, maravilha.
+13:55 - Victor Henrique Aguiar Gutierrez Duarte: Aí, se você quiser pesos lá na frente, a gente tem pesos.
+13:58 - Victor Henrique Aguiar Gutierrez Duarte: Tá, beleza?
+13:59 - Victor Henrique Aguiar Gutierrez Duarte: Tranquilo.
+14:00 - Victor Henrique Aguiar Gutierrez Duarte: Uma pergunta final ali. do gestor.
+14:02 - Victor Henrique Aguiar Gutierrez Duarte: Plano de ação é muito legal.
+14:04 - Victor Henrique Aguiar Gutierrez Duarte: A avaliação de competências.
+14:06 - Victor Henrique Aguiar Gutierrez Duarte: A hora que eu habilito isso, eu puxo as competências do cargo, tá?
+14:09 - Victor Henrique Aguiar Gutierrez Duarte: E a patócia final que pode me dar um mailbox ali na frente.
+14:11 - Victor Henrique Aguiar Gutierrez Duarte: Então, são várias coisas que você pode habilitar.
+14:13 - Victor Henrique Aguiar Gutierrez Duarte: Eu gosto muito, muito mesmo, da parte de PDI.
+14:16 - Victor Henrique Aguiar Gutierrez Duarte: Não sei se você faz, mas é aí que a gente pode chegar na sua editoria.
+14:20 - Regiane: É fácil.
+14:20 - Regiane: Preciso melhorar.
+14:23 - Regiane: Talvez a ferramenta ajude.
+14:25 - Victor Henrique Aguiar Gutierrez Duarte: Eu acredito que, pelo menos, a gente pode reassinar e, na hora da editoria, a gente bate e vai falar, olha, o PDI, ele foi...
+14:32 - Victor Henrique Aguiar Gutierrez Duarte: O PDI tá feito agora.
+14:33 - Victor Henrique Aguiar Gutierrez Duarte: Exato.
+14:34 - Victor Henrique Aguiar Gutierrez Duarte: Na prática, as coisas são meio complicadas.
+14:37 - Victor Henrique Aguiar Gutierrez Duarte: Nem me fale, aqui na Factorial também, em casa de Ferreira e Espeto de Pau, né?
+14:40 - Victor Henrique Aguiar Gutierrez Duarte: A gente não bate ponto às vezes, porque a gente bate ponto aqui nesse sistema.
+14:43 - Victor Henrique Aguiar Gutierrez Duarte: Meu arregar fica louco também, e a gente...
+14:44 - Regiane: Deve ser o exemplo, mas é colaborador, é colaborador, sabe como que é.
+14:48 - Victor Henrique Aguiar Gutierrez Duarte: Aí, legal.
+14:49 - Victor Henrique Aguiar Gutierrez Duarte: Sabe o que a gente vai fazer no PDI?
+14:50 - Victor Henrique Aguiar Gutierrez Duarte: O que a gente vai assinar?
+14:51 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai assinar exatamente aquele acordo que as pessoas vão enxergar.
+14:54 - Victor Henrique Aguiar Gutierrez Duarte: Se você não tem a 180°, não tem problema.
+14:57 - Victor Henrique Aguiar Gutierrez Duarte: A gente pode aqui criar a mesma questão e escrever, por exemplo, ó, quero um curso de comunicação.
+15:05 - Victor Henrique Aguiar Gutierrez Duarte: Isso é um item de ação pós a avaliação.
+15:07 - Victor Henrique Aguiar Gutierrez Duarte: Você está salvando essa informação aqui.
+15:11 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+15:11 - Victor Henrique Aguiar Gutierrez Duarte: Você tem time comercial?
+15:13 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+15:14 - Victor Henrique Aguiar Gutierrez Duarte: Toda empresa tem que ter.
+15:15 - Victor Henrique Aguiar Gutierrez Duarte: Então, se for um comercial lá na frente, você vai fazer assim.
+15:17 - Victor Henrique Aguiar Gutierrez Duarte: Meta de vender R$ 3.000 em tanto tempo.
+15:21 - Victor Henrique Aguiar Gutierrez Duarte: Então, posso vir aqui, colocar uma meta para ele dentro de um período, data inicial para ele entregar a meta, data final para entregar a meta, você está vendo que está dando um mês.
+15:29 - Victor Henrique Aguiar Gutierrez Duarte: Posso dizer que é quantitativo, então tem que me entregar R$ 3.000, vou colocar R$ 3.000.
+15:32 - Victor Henrique Aguiar Gutierrez Duarte: Ele pode ir atualizando isso durante o uso da Factorial e para ver se atingiu o objetivo.
+15:37 - Victor Henrique Aguiar Gutierrez Duarte: Então, lá na frente, quando você tiver tempo de organizar os objetivos, você vai poder fazer isso, tá?
+15:43 - Regiane: Tá.
+15:45 - Victor Henrique Aguiar Gutierrez Duarte: Ficou claro?
+15:46 - Victor Henrique Aguiar Gutierrez Duarte: Então, fiz aqui o PDI.
+15:47 - Victor Henrique Aguiar Gutierrez Duarte: Curso, se você que tiver, vamos falar de treinamentos, tá?
+15:51 - Victor Henrique Aguiar Gutierrez Duarte: Você tem treinamento interno?
+15:54 - Victor Henrique Aguiar Gutierrez Duarte: Terce.
+15:54 - Victor Henrique Aguiar Gutierrez Duarte: Você tem treinamento externo?
+15:57 - Victor Henrique Aguiar Gutierrez Duarte: Também.
+15:57 - Victor Henrique Aguiar Gutierrez Duarte: Os seus treinamentos, você gostaria de ter alguma forma de rastrear horas que as pessoas treinaram, treinamentos que inspiraram tudo isso?
+16:05 - Regiane: Sim, né?
+16:06 - Victor Henrique Aguiar Gutierrez Duarte: Seria importante.
+16:07 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente tem isso também.
+16:08 - Victor Henrique Aguiar Gutierrez Duarte: Primeira coisa, pode colocar um curso já pra essa pessoa fazer.
+16:11 - Victor Henrique Aguiar Gutierrez Duarte: Então, desde o momento que fez a primeira avaliação de desempenho, joga um curso aqui.
+16:15 - Victor Henrique Aguiar Gutierrez Duarte: Motivo, melhoria dos processos.
+16:18 - Victor Henrique Aguiar Gutierrez Duarte: Você vai deixar dentro da Factorial o curso com os vídeos, com os PDFs, com seus materiais, entendeu?
+16:25 - Victor Henrique Aguiar Gutierrez Duarte: Ah, que legal.
+16:26 - Victor Henrique Aguiar Gutierrez Duarte: Você tem esses materiais?
+16:28 - Regiane: Ah, tem alguma coisa, né?
+16:29 - Regiane: Mas aí a gente poderia melhorar mais, ficar mais.
+16:32 - Victor Henrique Aguiar Gutierrez Duarte: Pode melhorar.
+16:33 - Victor Henrique Aguiar Gutierrez Duarte: Eu estou solicitando um treinamento.
+16:35 - Victor Henrique Aguiar Gutierrez Duarte: Se o treinamento for fechado, vai chegar para você do RH.
+16:38 - Victor Henrique Aguiar Gutierrez Duarte: Olha, o Victor está pedindo um treinamento.
+16:40 - Victor Henrique Aguiar Gutierrez Duarte: Vai chegar uma solicitação, você aprova.
+16:42 - Victor Henrique Aguiar Gutierrez Duarte: Para treinamento, eu tenho como rastrear, por exemplo, os certificados.
+16:47 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu tenho meus treinamentos aqui, por exemplo, em resolução de conflito.
+16:51 - Victor Henrique Aguiar Gutierrez Duarte: Vamos entrar no treinamento. as competências elencadas com esse treinamento, os objetivos, o custo.
+16:59 - Victor Henrique Aguiar Gutierrez Duarte: Vamos supor que tem um custo externo.
+17:01 - Victor Henrique Aguiar Gutierrez Duarte: Você está pagando, pode ser que sim, né?
+17:03 - Regiane: Sim.
+17:04 - Victor Henrique Aguiar Gutierrez Duarte: Então, você vai colocar o custo aqui para depois trazer um BI ali, um relatório pronto na Factorial para a sua diretoria.
+17:10 - Victor Henrique Aguiar Gutierrez Duarte: Gastei tanto em treinamento, entendeu?
+17:13 - Victor Henrique Aguiar Gutierrez Duarte: Para chegar para a diretoria tem que a gente vai, né, mostrando dados e tal.
+17:17 - Victor Henrique Aguiar Gutierrez Duarte: Então ótimo, rastreio tudo isso.
+17:19 - Victor Henrique Aguiar Gutierrez Duarte: Que mais que eu tenho?
+17:20 - Victor Henrique Aguiar Gutierrez Duarte: Vou criar grupo de novos colaboradores, grupo por turma, e aí eu vou colocar as pessoas aqui, elas vão poder assistir por dentro da factorial e depois elas mesmas podem subir o certificado, ou vocês fazem o certificado para elas assinarem.
+17:34 - Victor Henrique Aguiar Gutierrez Duarte: Então dá para fazer tudo o ciclo completinho aqui.
+17:38 - Regiane: Avaliação também dá para fazer aí?
+17:42 - Victor Henrique Aguiar Gutierrez Duarte: Avaliação de eficácia?
+17:43 - Victor Henrique Aguiar Gutierrez Duarte: Você sabe de algo, hein?
+17:44 - Regiane: Gostei.
+17:45 - Regiane: Já tenho o processo.
+17:48 - Victor Henrique Aguiar Gutierrez Duarte: Não, maravilhoso.
+17:49 - Victor Henrique Aguiar Gutierrez Duarte: Dá sim, tá?
+17:50 - Victor Henrique Aguiar Gutierrez Duarte: Inclusive, a gente acabou de criar...
+17:52 - Victor Henrique Aguiar Gutierrez Duarte: Que bom que a gente está falando nesse momento.
+17:55 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem a eficácia, a satisfação.
+17:57 - Victor Henrique Aguiar Gutierrez Duarte: Então, a eficácia vai para o gerente, a satisfação vai para as pessoas e a gente tem teste.
+18:01 - Regiane: Teste.
+18:03 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+18:03 - Victor Henrique Aguiar Gutierrez Duarte: Você vai criar perguntas e respostas, entendeu?
+18:07 - Victor Henrique Aguiar Gutierrez Duarte: Isso é ótimo.
+18:08 - Victor Henrique Aguiar Gutierrez Duarte: É ótimo.
+18:08 - Victor Henrique Aguiar Gutierrez Duarte: Eu estava louco para ver essa funcionalidade.
+18:10 - Victor Henrique Aguiar Gutierrez Duarte: Estou na Factorola desde que a gente veio para o Brasil há quatro anos e meia.
+18:13 - Victor Henrique Aguiar Gutierrez Duarte: E assim, eu estava louco para ver essas perguntinhas.
+18:16 - Victor Henrique Aguiar Gutierrez Duarte: É um sistema que evolui bastante rápido também.
+18:19 - Victor Henrique Aguiar Gutierrez Duarte: Você já ouviu falar da gente?
+18:21 - Regiane: Não, eu ouvi pelo Google.
+18:23 - Regiane: Eu comecei a procurar alguma coisa nesse sentido e apareceu lá vocês.
+18:27 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou deixar entrar em contato para ver.
+18:29 - Victor Henrique Aguiar Gutierrez Duarte: Que bom.
+18:30 - Regiane: Mas eu não conheço ninguém assim ainda aqui. daqui, naquela cidade de Salto, no interior de São Paulo.
+18:36 - Regiane: Então, não sei, né?
+18:37 - Regiane: Conheço ninguém daqui ainda.
+18:39 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem empresas em Ribeirão, a gente tem empresas em Araraquara.
+18:42 - Regiane: Provavelmente a gente atende bem o Centro Oeste, deve ter.
+18:46 - Victor Henrique Aguiar Gutierrez Duarte: E assim, a Factorial é uma multinacional, na verdade, nascida na Espanha há seis anos e meio.
+18:51 - Victor Henrique Aguiar Gutierrez Duarte: E era uma startup, tinha 30 colaboradores, a gente tem 1.500 no mundo.
+18:55 - Victor Henrique Aguiar Gutierrez Duarte: E o sistema expandiu para 70 países.
+18:57 - Victor Henrique Aguiar Gutierrez Duarte: Então, uma plataforma bem consolidada, com muito investimento, então a tecnologia só aumenta.
+19:03 - Victor Henrique Aguiar Gutierrez Duarte: Estou falando isso, de fato, não para puxar a sardinha, mas é porque eu estou aqui desde o começo, E a factura, o ideal é que você use tudo aqui dentro e você não saia para nada.
+19:12 - Victor Henrique Aguiar Gutierrez Duarte: Só para processar a folha com a contabilidade.
+19:14 - Victor Henrique Aguiar Gutierrez Duarte: Mas tudo você traga aqui.
+19:16 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho documento, recurtamento e seleção, avaliação de desempenho, pesquisa de clima, ponto, ausências, férias, tudo junto e funcionando, entendeu?
+19:27 - Victor Henrique Aguiar Gutierrez Duarte: Tá?
+19:27 - Victor Henrique Aguiar Gutierrez Duarte: Dito isso, então, feito aqui o meu discurso sobre avaliação de desempenho, estamos bem?
+19:33 - Victor Henrique Aguiar Gutierrez Duarte: Ok.
+19:34 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+19:34 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de clima, você também gostaria de colocar nesse projeto junto?
+19:38 - Regiane: Sim.
+19:39 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de clima hoje é basicamente o mesmo formulário que vai ser respondido no computador e no celular do colaborador, e aí a gente tem dois vieses.
+19:46 - Victor Henrique Aguiar Gutierrez Duarte: Um, que pesquisa de clima tem que ser anônima, correto?
+19:50 - Victor Henrique Aguiar Gutierrez Duarte: Certo.
+19:50 - Victor Henrique Aguiar Gutierrez Duarte: Eu garanto isso.
+19:51 - Victor Henrique Aguiar Gutierrez Duarte: Então vou criar na minha avaliação aqui, que vai ser repetida também, você vai deixar para rodar automaticamente.
+19:57 - Regiane: Mas ela dá um exato pelo menos para colocar o setor, alguma coisa assim.
+20:02 - Regiane: Para saber, porque também como que vai fazer a triagem se o cara está reclamando do líder, por exemplo.
+20:08 - Victor Henrique Aguiar Gutierrez Duarte: Só não pode fazer uma equipe de uma pessoa só, senão você vai saber, né?
+20:11 - Regiane: Não, tem, tem.
+20:11 - Regiane: Não vai dar problema, mas...
+20:13 - Regiane: Mas aí é com você.
+20:15 - Regiane: Geralmente a gente coloca a setor pra ter uma ideia do plano de ação mesmo, né?
+20:19 - Regiane: Maravilha, assim.
+20:19 - Regiane: Porque as coisas mais departamentalizadas, né?
+20:24 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, consigo sim, tá?
+20:25 - Victor Henrique Aguiar Gutierrez Duarte: Então aqui você tem esse filtro.
+20:27 - Victor Henrique Aguiar Gutierrez Duarte: Tá vendo minha telinha, né?
+20:28 - Regiane: Equipe.
+20:29 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+20:29 - Victor Henrique Aguiar Gutierrez Duarte: Você escolhe a equipe aqui.
+20:31 - Victor Henrique Aguiar Gutierrez Duarte: Então, basicamente, se eu clicar, não vou te mostrar o nome das pessoas, porque eu não poderia.
+20:35 - Victor Henrique Aguiar Gutierrez Duarte: Você pode baixar os dados em Excel, se você quiser, o CSV também, tá?
+20:40 - Victor Henrique Aguiar Gutierrez Duarte: A pesquisa, então, fica nesse formatinho, você cria do seu jeito, perguntas, de texto, múltipla escolha, do jeito que você quiser, vê os participantes, as respostas, então, tranquilo, tá?
+20:49 - Victor Henrique Aguiar Gutierrez Duarte: Quero fazer uma pesquisa aberta.
+20:51 - Victor Henrique Aguiar Gutierrez Duarte: Ah, o que vocês querem ganhar de final de ano?
+20:53 - Victor Henrique Aguiar Gutierrez Duarte: Você pode fazer uma pesquisa aberta, vou te dar dados com nomes, né?
+20:58 - Victor Henrique Aguiar Gutierrez Duarte: Tranquilo.
+20:59 - Victor Henrique Aguiar Gutierrez Duarte: Então, resolvido.
+21:00 - Victor Henrique Aguiar Gutierrez Duarte: E aí pesquisas, quer fazer alguma pergunta?
+21:03 - Regiane: É, questão de, é que você entrou já na pesquisa, mas, por exemplo, questão de matriz de competência, matriz de versatilidade, vocês têm alguma coisa ou não?
+21:12 - Regiane: Dá uma olhada se quando a gente...
+21:15 - Regiane: Queria que ele fosse demonstrativo, se a pessoa tá apta ou não, sabe?
+21:19 - Regiane: Geralmente a ISO pede muito isso, né?
+21:22 - Regiane: A gente faz nem o que é hoje em dia, mas como tá toda a questão de casos, né?
+21:26 - Regiane: E... e certificados as questões dentro do sistema, vocês têm alguma coisa nesse sentido.
+21:33 - Victor Henrique Aguiar Gutierrez Duarte: Vamos explorar melhor isso?
+21:35 - Victor Henrique Aguiar Gutierrez Duarte: Me conta o que seria essa aptidão para o cargo.
+21:38 - Regiane: A matriz de incompetência é uma matriz que vai colocar uma sucessatilidade, por exemplo, ela fica no setor.
+21:44 - Regiane: Então lá no departamento de usinagem que a gente tem aqui tem 15 colaboradores e lá precisa, sei lá, um operador no controle dimensional precisa de leitura de desenho.
+21:57 - Regiane: Aí, de 10 funcionários, tem cinco ditados para operatório e leitura de desenho, e outros estão programados.
+22:06 - Regiane: É o que compõe, na verdade, o plano de treinamento, de certa forma.
+22:10 - Regiane: Só que ali fica visual para o pessoal.
+22:14 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+22:16 - Regiane: Mas é a matriz de competência, que é a matriz que lá, quando o auditor vem, que ele pede, é que lá ele consegue olhar se a pessoa está apta, está com o treinamento problemado, se ela não está habilitada, alguma coisa assim, sabe?
+22:34 - Regiane: É um espelho, como se fosse um espelho, do plano de treinamento da questão de carga.
+22:40 - Regiane: O que puxa?
+22:41 - Regiane: Pega a descrição de carga, então na descrição de carga pede 10 competências técnicas, por exemplo.
+22:48 - Regiane: E essa matriz, ela demonstra essas 10 competências técnicas, se a pessoa está apta ou não está.
+22:55 - Victor Henrique Aguiar Gutierrez Duarte: Entendi, entendi.
+22:59 - Victor Henrique Aguiar Gutierrez Duarte: Quando a gente estava falando de matriz, eu tenho uma matriz nine box, que eu acho que você já ouviu falar, provavelmente.
+23:06 - Victor Henrique Aguiar Gutierrez Duarte: E aí, por exemplo, você tem uma competência que, sei lá, o cara tem que operar torno.
+23:12 - Victor Henrique Aguiar Gutierrez Duarte: Ou ele sabe, ou ele não sabe, ou a gente gostaria de ter uma classificação, tipo, passou de três, a pessoa pode operar o torno.
+23:19 - Victor Henrique Aguiar Gutierrez Duarte: Entendeu?
+23:20 - Victor Henrique Aguiar Gutierrez Duarte: Passou de uma avaliação 13, a pessoa pode operar o tour.
+23:22 - Regiane: Ou tem que ter os treinamentos juntos também?
+23:24 - Regiane: Não, é daí, no caso, geralmente a ISO amarram a questão dos certificados.
+23:27 - Regiane: Ou lista de presença, alguma coisa assim.
+23:30 - Regiane: Então, lista de presença de treinamentos internos.
+23:34 - Regiane: Então, ela amarram ou treinamento ou certificado.
+23:37 - Regiane: Então, se você tem algum documento desse, você comprova que a pessoa, literalmente, está apto para que tenha a função.
+23:45 - Regiane: Por isso que tem esse on the job.
+23:47 - Regiane: Então, o on the job, como é o posto de trabalho, Ele está sendo treinado ali, então é como se fosse um treinamento interno também, né?
+23:55 - Regiane: E daí a pessoa está apta para limpar a função.
+23:58 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+23:59 - Victor Henrique Aguiar Gutierrez Duarte: Ó, eu acho que a gente pode ir por alguns caminhos aqui.
+24:02 - Victor Henrique Aguiar Gutierrez Duarte: Os dados que você precisa, eles estão aqui na plataforma.
+24:06 - Regiane: Sim.
+24:06 - Regiane: De certa forma.
+24:08 - Regiane: Na parte de treinamento eu consegui enxergar tudo isso.
+24:11 - Regiane: É, eu pegaria isso.
+24:12 - Regiane: Eu acho que é uma forma de...
+24:15 - Victor Henrique Aguiar Gutierrez Duarte: É, eu acho que a gente não vai poder centralizar tudo, assim, acho que no mesmo local.
+24:20 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou pensar se, de repente, dá pra fazer numa tabela, porque é factural criar relatórios extras de várias formas.
+24:26 - Victor Henrique Aguiar Gutierrez Duarte: A gente cria os próprios relatórios aqui, se você quiser.
+24:29 - Regiane: Ah, então, talvez a verdade é que, na verdade, nada mais é do que um relatório da sua, tipo, restrição de carga, né?
+24:36 - Regiane: Lá competências versus o que cumpriu ou não, né?
+24:40 - Regiane: Então, seria mais ou menos uma coisa assim.
+24:42 - Regiane: Mais ou menos uma coisa assim.
+24:43 - Regiane: É um espelho do... da questão de evidência versus competência do colaborador.
+24:51 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, que é muito ligado a treinamento principalmente.
+24:54 - Regiane: Sim, porque quando a pessoa vai entrar, a maioria das vezes eles já entram com as competências já adquiridas, que no caso a pessoa entrou com a usinagem, ela já entrou com certificados que consegue evidenciar esses conhecimentos dele.
+25:11 - Regiane: Então, ele dá a atitude certa forma e já para se empenhar nessa função.
+25:18 - Regiane: É verdade?
+25:20 - Victor Henrique Aguiar Gutierrez Duarte: Só para demonstrar isso em alguma coisa.
+25:21 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que a gente pode, quando o editor bater na sua porta, a gente vai, poderia abrir aqui a tela de insights de treinamentos e eu vou escolher, de repente, qual curso que eu quero, sei lá.
+25:32 - Victor Henrique Aguiar Gutierrez Duarte: Vamos supor que é QNR, sei lá, ISO, tal.
+25:34 - Victor Henrique Aguiar Gutierrez Duarte: Aí eu pego o período, de repente no ano, ó, no ano, quantos cursos...
+25:38 - Victor Henrique Aguiar Gutierrez Duarte: Geralmente é anual, né, que faz.
+25:40 - Victor Henrique Aguiar Gutierrez Duarte: É, né, é anual.
+25:41 - Victor Henrique Aguiar Gutierrez Duarte: Ó, número médio de colaborador por curso, colaborador escrito, colaborador escrito por equipe, colaborador escrito por gênero, média de treinamento e horas de curso concluída por colaborador.
+25:50 - Victor Henrique Aguiar Gutierrez Duarte: Samantha completou 24 horas de treinamento sobre esse assunto.
+25:55 - Victor Henrique Aguiar Gutierrez Duarte: Primeiro passo.
+25:56 - Victor Henrique Aguiar Gutierrez Duarte: Poderia fazer assim.
+25:57 - Victor Henrique Aguiar Gutierrez Duarte: Por outro lado, como a gente pode enviar um certificado para eles assinarem, eu acho que eu poderia vir aqui em análises, criar um relatório extra para você, e aí como que eu faria, tá?
+26:08 - Victor Henrique Aguiar Gutierrez Duarte: Aí, de repente, você vai ter mais um relatório, mas é possível puxar.
+26:11 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos fazer o seguinte, gráfico de tabela, nome completo e assinatura.
+26:21 - Victor Henrique Aguiar Gutierrez Duarte: Eu pego assinatura, status de assinatura, nome do documento.
+26:27 - Victor Henrique Aguiar Gutierrez Duarte: Por exemplo, o que eu vou trazer?
+26:29 - Victor Henrique Aguiar Gutierrez Duarte: O nome de todos os documentos assinados por um colaborador em relação a tal treinamento.
+26:33 - Regiane: Eu poderia fazer isso.
+26:35 - Victor Henrique Aguiar Gutierrez Duarte: Mais um tipo de informação.
+26:36 - Victor Henrique Aguiar Gutierrez Duarte: Quero os documentos de fato de todo mundo.
+26:40 - Victor Henrique Aguiar Gutierrez Duarte: Vai chegar na empresa e eu quero todos os documentos.
+26:42 - Victor Henrique Aguiar Gutierrez Duarte: Você vai vir aqui em documentos.
+26:45 - Victor Henrique Aguiar Gutierrez Duarte: Dentro das passas dos colaboradores, você vai ter aqui passas só de treinamento.
+26:49 - Regiane: Aqui não consigo colocar.
+26:51 - Regiane: Tanto até documentos de segurança, certificados, essas coisas, sem conseguir colocar tudo aí.
+26:57 - Victor Henrique Aguiar Gutierrez Duarte: Tudo, e assinado com validade jurídica.
+26:59 - Victor Henrique Aguiar Gutierrez Duarte: Então, significa que eles concordaram com isso.
+27:04 - Victor Henrique Aguiar Gutierrez Duarte: Se eu quero todos os documentos na pasta de treinamento, eu vou ter todos os documentos aqui, de repente, que foram assinados, entendeu? tá?
+27:12 - Victor Henrique Aguiar Gutierrez Duarte: Ó, proprietário, training certificate, é um exemplo, tá?
+27:14 - Victor Henrique Aguiar Gutierrez Duarte: Que tá em inglês, boba, ok.
+27:16 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu vi que não tá assinado, mas eu posso ter os arquivos assinados, você vai baixar todos em massa, é mais um fator ali, tá?
+27:22 - Victor Henrique Aguiar Gutierrez Duarte: Ah, legal.
+27:26 - Victor Henrique Aguiar Gutierrez Duarte: Outro ponto, aproveito, pra gente não sair da questão de treinamento.
+27:29 - Victor Henrique Aguiar Gutierrez Duarte: Tá vendo aqui no meu perfil, além do desempenho, eu tenho treinamentos que estão em aberto, ó?
+27:33 - Victor Henrique Aguiar Gutierrez Duarte: Sim.
+27:33 - Victor Henrique Aguiar Gutierrez Duarte: Cadê, cadê, cadê?
+27:35 - Victor Henrique Aguiar Gutierrez Duarte: Aqui, treinamentos, tá vendo?
+27:38 - Victor Henrique Aguiar Gutierrez Duarte: Eu estou escrito em um treinamento, então também acompanho, recebo notificação de quando vai ser o treinamento por e-mail.
+27:43 - Victor Henrique Aguiar Gutierrez Duarte: Se vai ser por um link, se vai ser um presencial.
+27:47 - Victor Henrique Aguiar Gutierrez Duarte: O meu gestor pode vir e dar um check na minha presença e falar, o Victor participou, o Victor participou.
+27:52 - Victor Henrique Aguiar Gutierrez Duarte: Então, se o seu gestor apoiar, vai ser incrível, tá?
+27:56 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+27:56 - Victor Henrique Aguiar Gutierrez Duarte: Que encaixa na sua realidade isso que eu estou te apresentando?
+27:59 - Regiane: Ficou muito opuso?
+27:59 - Regiane: É bem bacana.
+28:03 - Regiane: Que encaixa, sim.
+28:04 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+28:04 - Victor Henrique Aguiar Gutierrez Duarte: Então treinamento, acho que pode ir muito bem, te respalda, te dá os insights, avaliação de desempenho sem problemas e pesquisa de clima também, tá?
+28:12 - Victor Henrique Aguiar Gutierrez Duarte: No geral, para atender esse URH, é isso que você precisa ou tem mais algum ponto?
+28:16 - Regiane: Eu acho que hoje seria mais isso.
+28:19 - Regiane: Porque as questões de cargo aí, você falou que tem dentro do...
+28:24 - Regiane: Dá para lançar as descrições, se eu quiser consultar de alguém eu consigo ver por função, né?
+28:28 - Regiane: Consegue ver por função, sim.
+28:29 - Regiane: Consegue ver até na pessoa.
+28:30 - Regiane: Se eu entrar na minha, vai conseguir ver lá a minha descrição de cargo, é isso?
+28:34 - Victor Henrique Aguiar Gutierrez Duarte: Total.
+28:35 - Victor Henrique Aguiar Gutierrez Duarte: Te mostro aqui agora, sim.
+28:36 - Victor Henrique Aguiar Gutierrez Duarte: No contrato da pessoa já vai...
+28:38 - Victor Henrique Aguiar Gutierrez Duarte: Ó, todas as informações são centralizadas.
+28:40 - Victor Henrique Aguiar Gutierrez Duarte: Tenho a visão geral aqui, tudo bem, tá?
+28:42 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu quero, de fato, ver meu contrato, meu cargo.
+28:46 - Victor Henrique Aguiar Gutierrez Duarte: Eu vejo aqui em Contratos, Cargo.
+28:49 - Victor Henrique Aguiar Gutierrez Duarte: Descrição não tem, mas tá aqui.
+28:51 - Victor Henrique Aguiar Gutierrez Duarte: Se eu quiser colocar, eu coloco.
+28:53 - Regiane: Ah, legal.
+28:53 - Regiane: Daí dá pra lançar. meu salário.
+28:56 - Regiane: Aí não tem nenhuma questão referente a cargos e salários, né?
+29:00 - Regiane: Tipo, alguma questão de evolução salarial, outras coisas não.
+29:04 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho vários gráficos que podem te mostrar a evolução.
+29:07 - Victor Henrique Aguiar Gutierrez Duarte: A gente queria mais lá de folha de pagamento, eu acho, né?
+29:09 - Victor Henrique Aguiar Gutierrez Duarte: Na verdade, mais ou menos.
+29:10 - Victor Henrique Aguiar Gutierrez Duarte: A gente não processa folha, a gente tem a gestão da folha, mas se você quiser ver evolução salarial, eu tenho gráficos que mostram evolução salarial por equipe.
+29:16 - Victor Henrique Aguiar Gutierrez Duarte: Isso dá pra fazer.
+29:17 - Regiane: E pra questão assim de fazer tabela de funções, de salários, com as letras, assim, consegue também o nosso.
+29:27 - Regiane: Vamos lá, seria uma questão?
+29:28 - Regiane: Vamos pegar lá, é operador 1, 2, 3, 4.
+29:32 - Regiane: Ah, vem a tal, tal, tal, tal.
+29:35 - Regiane: Aí eu consigo identificar que a pessoa, o meu operador 1, landital, venha tanto, isso não se aumenta tanto.
+29:44 - Victor Henrique Aguiar Gutierrez Duarte: Total.
+29:46 - Victor Henrique Aguiar Gutierrez Duarte: Total, sim.
+29:47 - Regiane: Eu posso criar uma...
+29:47 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo que eu tenho o gênero júnior, pleno e cênero?
+29:51 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso ir criando aqui.
+29:53 - Victor Henrique Aguiar Gutierrez Duarte: E aí eu coloco também faixas quantia fixa, tipo mensal, entendeu?
+29:58 - Victor Henrique Aguiar Gutierrez Duarte: Intervalo de tanto a tanto.
+30:01 - Regiane: É que tem uns cargos que aumentam normalmente.
+30:04 - Regiane: Aí seria bom se o próprio sistema avisar, ter alguma coisa, pelo menos o RH, não a pessoa.
+30:13 - Regiane: É lógico.
+30:19 - Victor Henrique Aguiar Gutierrez Duarte: Mas para ajudar, sabe, nessa gestão aí de salários.
+30:20 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso criar uma informação de contrato de todo mundo e criar um relatório mostrando a data da última atualização de contrato.
+30:25 - Victor Henrique Aguiar Gutierrez Duarte: Aí você vai ver diariamente lá uma tabela, data da atualização.
+30:28 - Victor Henrique Aguiar Gutierrez Duarte: Pô, olha no meu calendário, já faz um ano?
+30:31 - Victor Henrique Aguiar Gutierrez Duarte: Preciso lembrar.
+30:36 - Regiane: Não dá, gente, já é...
+30:36 - Regiane: Porque hoje eu controlo isso tudo no Excel, então o que lhe é de novo?
+30:38 - Regiane: O que vier se tematizado é lucro, literalmente.
+30:43 - Victor Henrique Aguiar Gutierrez Duarte: Com certeza, né?
+30:44 - Victor Henrique Aguiar Gutierrez Duarte: Você que criou esses excéis malucos?
+30:47 - Regiane: Mais ou menos, uma boa parte sim.
+30:49 - Regiane: Eu só fiquei 15 anos, então a boa parte...
+30:53 - Victor Henrique Aguiar Gutierrez Duarte: Você tem um legado gigante aí.
+30:57 - Victor Henrique Aguiar Gutierrez Duarte: Eu sou a segunda pessoa que entrou na operação do Brasil, na verdade.
+31:02 - Victor Henrique Aguiar Gutierrez Duarte: Tenho diretor, tinha outras pessoas, só que é mais startup.
+31:05 - Victor Henrique Aguiar Gutierrez Duarte: Então, assim, eu passou quatro anos e pouquinho, mas parece que eu tô aqui há 40 anos já.
+31:08 - Regiane: Meu Deus do céu.
+31:10 - Regiane: Mas é questão de aprendizado, né?
+31:11 - Regiane: Você acaba aprendendo muito nesse período, né?
+31:14 - Regiane: A gente dá aquela impressão que estava sentindo.
+31:17 - Victor Henrique Aguiar Gutierrez Duarte: Pois é, Nossa Senhora, gente.
+31:19 - Victor Henrique Aguiar Gutierrez Duarte: E é legal porque eu comecei com pré-vendas aqui, só pra te contar um pouquinho da minha história, e eu fui promovido sete vezes.
+31:23 - Victor Henrique Aguiar Gutierrez Duarte: Hoje eu lidero a expansão da Factorial no Brasil.
+31:26 - Victor Henrique Aguiar Gutierrez Duarte: Sou parceiro do iFood, do El Hub.
+31:28 - Victor Henrique Aguiar Gutierrez Duarte: Então vou atrás de que saia, né, pra me coçar, entendeu?
+31:31 - Regiane: Ah, que legal.
+31:32 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho bem legal.
+31:35 - Victor Henrique Aguiar Gutierrez Duarte: É bem legal.
+31:36 - Victor Henrique Aguiar Gutierrez Duarte: Então, só para você ver, está vendo que eu tenho os gráficos de pessoas?
+31:39 - Victor Henrique Aguiar Gutierrez Duarte: Você vai criar alguns relatórios seus, assim, por painéis.
+31:42 - Victor Henrique Aguiar Gutierrez Duarte: Vitor, eu quero um painel só para a informação de pessoas.
+31:44 - Victor Henrique Aguiar Gutierrez Duarte: Evolução do quadro, senioridade média, aniversariante, tá?
+31:50 - Victor Henrique Aguiar Gutierrez Duarte: Então, você tem liberdade para criar mais de 50 mil tipos de relatórios aqui, tá?
+31:55 - Regiane: Esses relatórios seriam tipo os indicadores.
+31:57 - Regiane: Eu conferiria até os QPI, tipo, por exemplo, a de aposentia, as coisas eu consigo também criar.
+32:05 - Victor Henrique Aguiar Gutierrez Duarte: Consegue.
+32:05 - Victor Henrique Aguiar Gutierrez Duarte: Se você usar o nosso ponto, aí você consegue.
+32:10 - Regiane: Ai, mas...
+32:11 - Victor Henrique Aguiar Gutierrez Duarte: Tão duro que eu já sei.
+32:11 - Victor Henrique Aguiar Gutierrez Duarte: Qual que é que você usa mesmo?
+32:13 - Regiane: Eu uso o Secullum.
+32:15 - Victor Henrique Aguiar Gutierrez Duarte: Ah, o Secullum é bom, porque ele tem um relatório de ponto muito bom.
+32:19 - Regiane: Eu confesso, porque o extrato de totais dele não é...
+32:21 - Regiane: Ah, eu usava o de Mac.
+32:23 - Regiane: A gente usou.
+32:24 - Regiane: Aí faz uns seis anos que a gente mudou o Secullum.
+32:28 - Regiane: Aí a gente usava o de Mac.
+32:29 - Regiane: É que daí, coincidentemente o valor, absurdamente eles mudaram a temática e subiu muito.
+32:35 - Regiane: A gente teve que pegar uma coisa mais com custos de benefícios menores, e a gente acabou pegando desde há século.
+32:40 - Regiane: Assim, acende.
+32:41 - Regiane: Eu sinto que dá pra ser melhor, mas não acende, né?
+32:46 - Regiane: A gente já estava há seis anos com ele.
+32:48 - Victor Henrique Aguiar Gutierrez Duarte: Caramba, fornecedores assim, fiéis.
+32:50 - Victor Henrique Aguiar Gutierrez Duarte: E uma pergunta, é porque provavelmente a sua convenção coletiva é meio cabeluda, não é?
+32:55 - Regiane: Ela é complicada.
+32:56 - Regiane: A metalúrgica, no caso, é bem difícil.
+33:00 - Regiane: Então, a gente tem bastante particularidade, igual tanto a experiência.
+33:04 - Regiane: Todo lugar é 45, o nosso é 60 dias, direto.
+33:08 - Regiane: Então, tem bastante coisinhas que, na comessão nossa, é um pouco diferente.
+33:14 - Victor Henrique Aguiar Gutierrez Duarte: Então, as regras de horas extras normalmente também são complicadíssimas, assim, né?
+33:18 - Regiane: E a seconda atende, né?
+33:19 - Regiane: É, por exemplo, dentro do mês, se fizer fila de 30 horas, 50%, a pessoa tem direito a 75%, a partir da 31ª hora.
+33:28 - Regiane: Então, tem uma série de coisinhas, assim, que A partir da oitava hora do domingo, feriado, muda para 150%.
+33:38 - Regiane: Já me dá a repil de ver isso, de configurar isso.
+33:41 - Regiane: A paralisação foi bem chata no começo, porque, nossa, teve que até sair mais perto, e hoje em dia está pianinho, tá?
+33:49 - Regiane: Que bom, eu nem quero que você mude seu ponto, porque eu não quero o Saga para me constatar também.
+33:54 - Regiane: Mas tem estado, né?
+33:54 - Regiane: E, futuramente, né?
+33:58 - Victor Henrique Aguiar Gutierrez Duarte: Quem sabe.
+33:58 - Victor Henrique Aguiar Gutierrez Duarte: Mas, maravilha, o ponto é tão delicado que não é uma coisa fácil.
+34:02 - Victor Henrique Aguiar Gutierrez Duarte: A avaliação de desempenho é fácil você lançar.
+34:04 - Regiane: Agora, mudar o ponto da galera com as regras?
+34:06 - Regiane: Não, não, não, não, não, não.
+34:07 - Regiane: Não, deixa quieto.
+34:07 - Regiane: Tem uma questão de legislação aí que pega, né?
+34:10 - Regiane: Então, a questão de pontos, essas coisas, é bem complicado, né?
+34:14 - Victor Henrique Aguiar Gutierrez Duarte: Então...
+34:15 - Regiane: O time que está ganhando não se mexe?
+34:18 - Regiane: Deixa quieto.
+34:18 - Regiane: A não ser que for obrigado, meio que entrar só em mudar igual foi, né?
+34:21 - Regiane: Da Dimef.
+34:22 - Victor Henrique Aguiar Gutierrez Duarte: Daí tem que dar um jeito mesmo.
+34:24 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+34:25 - Victor Henrique Aguiar Gutierrez Duarte: Bom, então, o bom é, a factura é modular, você não precisa ter o sistema todo, então a gente já definiu aqui quais seriam as prioridades.
+34:31 - Victor Henrique Aguiar Gutierrez Duarte: E aí eu te pergunto, você já gostaria que eu te passasse uma ideia de investimento, como é que a gente trabalha, para a gente ver os próximos passos?
+34:37 - Regiane: Eu vou passar tudo isso para a diretoria, tá?
+34:40 - Regiane: Se a gente vai até o canal da semana, eu consigo passar, para a gente ver se vai, né, andamento, como que vai saber daí.
+34:46 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, Rê.
+34:48 - Victor Henrique Aguiar Gutierrez Duarte: Bom, a diretriz já tá à par.
+34:49 - Victor Henrique Aguiar Gutierrez Duarte: Eles que pediram pra você também.
+34:50 - Regiane: Acredito que você resolve tudo aí também junto com eles, não é?
+34:55 - Regiane: Um pouco, mas daí a gente leva pra uma decisão final aí, mas, a princípio, ele pediu pra eu dar uma olhada.
+35:04 - Regiane: A facultada, porque foi o próprio editor da ISO, ele viu, assim, tava tudo bem, tudo certinho, mas agora ele falou, ele falou, nossa, esse negócio foi tudo, esse sistema atrasado era bem melhor, eu falei, era.
+35:14 - Regiane: Aí ele levou essa ideia lá pra diretoria e a diretoria comprou a ideia, então...
+35:18 - Regiane: Olha, como agora...
+35:19 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho que aproveitar.
+35:19 - Victor Henrique Aguiar Gutierrez Duarte: Tem que aproveitar, né?
+35:21 - Regiane: É verdade.
+35:22 - Regiane: Nossa senhora...
+35:23 - Victor Henrique Aguiar Gutierrez Duarte: Tem que aproveitar.
+35:24 - Victor Henrique Aguiar Gutierrez Duarte: Igual quando minha mãe fala, quando ela fazia brócolis em casa eu não comia, mas quando era o vizinho que eu comia no vizinho eu comia.
+35:29 - Victor Henrique Aguiar Gutierrez Duarte: Os tempos quando é de fora a gente ouve, né?
+35:33 - Regiane: Então vamos aproveitar.
+35:35 - Regiane: Vamos aproveitar.
+35:36 - Victor Henrique Aguiar Gutierrez Duarte: Tem que ter o custo-benefício, viu, Victor?
+35:36 - Victor Henrique Aguiar Gutierrez Duarte: Então eu vou te perguntar, você provavelmente já entende de RH, você já deve ter procurado outras plataformas.
+35:42 - Victor Henrique Aguiar Gutierrez Duarte: Você já tem alguma outra proposta na sua mão que te atenda tanto quanto a gente?
+35:45 - Regiane: Como é que está?
+35:46 - Regiane: Então, na verdade eu cheguei a ver mais duas empresas, eles não me passaram valores ainda, sinceramente, eles não passaram na hora.
+35:52 - Regiane: Eles falaram que vão me mandar e e-mail, né?
+35:55 - Regiane: Porque como eu estou, na verdade eu estava bem crua, eu não tinha ideia nenhuma desse tema.
+36:01 - Regiane: Tem o metadata, mas sinceramente eu nem olhei ainda o metadata por causa da questão de eggs.
+36:06 - Regiane: Então, até primeiro, a princípio, a gente já tinha pensado que ia saber ouvir em outros lugares, porque também se eu chegar com um valor muito alto, possivelmente a diretoria não vai autorizar, então eu preciso ir devagar.
+36:20 - Victor Henrique Aguiar Gutierrez Duarte: Metadados, eles vão colocar uma mensalidade baixinha, mas a implementação, eles vão dar uma enfiada na faca, hein, conheço o pessoal da metadasa.
+36:28 - Regiane: É, eu quero uma coisa mais, e também de fácil acesso, né?
+36:31 - Regiane: Eu gostei bastante aí da data, que é mágica, deu pra perceber que dá pra lidar bem, né?
+36:36 - Regiane: Porque querendo ou não, a gente tem que virar para algumas situações.
+36:40 - Regiane: Então, tem que ser uma coisa mais fácil para a gente conseguir.
+36:44 - Victor Henrique Aguiar Gutierrez Duarte: Para ter aderência para o colaborador e não achar.
+36:47 - Victor Henrique Aguiar Gutierrez Duarte: Olha a Re com mais um processo aqui chato.
+36:50 - Regiane: É uma dúvida que eu fico.
+36:51 - Regiane: Por exemplo, todo colaborador vai ter a certa plataforma ou não?
+36:56 - Regiane: Só fica o RH e o ordenador.
+36:57 - Regiane: É a gente que decide?
+36:59 - Victor Henrique Aguiar Gutierrez Duarte: Todos vão ter acesso.
+37:00 - Victor Henrique Aguiar Gutierrez Duarte: Você pode decidir.
+37:01 - Victor Henrique Aguiar Gutierrez Duarte: Você pode optar.
+37:01 - Regiane: Olha, não quero que o colaborador veja. que eles só entrem no sistema para responder pesquisa de clima e avaliação de desempenho, por exemplo.
+37:11 - Regiane: Eu posso fazer isso.
+37:12 - Victor Henrique Aguiar Gutierrez Duarte: Pode fazer isso, se você quiser.
+37:15 - Victor Henrique Aguiar Gutierrez Duarte: Mas, assim, você poderia deixar lá o histórico da avaliação para ele consultar?
+37:18 - Victor Henrique Aguiar Gutierrez Duarte: Você não acha que isso é bom?
+37:20 - Regiane: Então, é que aí é diferente, né?
+37:22 - Regiane: Noventa graus.
+37:23 - Regiane: É um pouco diferente, é.
+37:24 - Regiane: Aqui é um pouco complicado, porque é cultura, né?
+37:28 - Regiane: Cultural.
+37:29 - Regiane: Aí, para fazer avaliação já é literalmente diferente. para fazer o que a gente faz.
+37:34 - Regiane: A gente perdeu no jeito, a gente consegue ver a LMT, o levantamento de necessidades, a gente consegue tirar algumas questões.
+37:42 - Regiane: Só que, dependendo da rotativa, tem que se dar algum probleminha.
+37:46 - Regiane: Então, eu tenho que ser cautela.
+37:48 - Regiane: É por isso que eu estou permitindo.
+37:50 - Regiane: Porque se ficar muita coisa aberta também, pode ser que as coisas se desavenham um pouco.
+37:55 - Regiane: Com certeza.
+37:56 - Regiane: Eu acredito que futuramente sim, mas acho que a princípio tem que ser mais devagar.
+38:02 - Regiane: Então talvez eu tinha pensado assim, mandar os links de avaliação, eles respondem e pronto.
+38:09 - Regiane: É lógico que vai chamar pra conversar, fazer o feedback e tal, mas é uma coisa daí mais...
+38:15 - Regiane: Mais fechada ali, né?
+38:16 - Regiane: Mais fechada.
+38:17 - Regiane: Aí é lógico que futuramente a gente vai vendo, dá pra abrir mais, daí a gente abre, daí não tem problema.
+38:25 - Regiane: Mas a gente precisa de mais maturidade pra lidar.
+38:29 - Victor Henrique Aguiar Gutierrez Duarte: Com certeza.
+38:29 - Victor Henrique Aguiar Gutierrez Duarte: Pensando que, inicialmente, eles não vão nem responder a avaliação, porque é o gestor que vai responder, nem vai aparecer nada para eles enxergarem.
+38:37 - Regiane: Então, eles não vão enxergar nada.
+38:39 - Regiane: É, a princípio eu faço assim, aí se a gente ver que ele vai caminhando legal, aí no próximo ano a gente já colocaria, daí já muda um pouquinho, né?
+38:49 - Regiane: Maravilha.
+38:50 - Victor Henrique Aguiar Gutierrez Duarte: De qualquer forma, eles vão ter acesso.
+38:52 - Victor Henrique Aguiar Gutierrez Duarte: E aí, que tipo de informação acho que não teria problema nenhum de você colocar?
+38:55 - Victor Henrique Aguiar Gutierrez Duarte: Caso você não tenha, o que eles vão enxergar quando eles abrirem o aplicativo da Factorial?
+38:59 - Victor Henrique Aguiar Gutierrez Duarte: Vão enxergar só o feed de notícias, se você quiser.
+39:03 - Regiane: Então, eventos, comunicados, você pode usar a Factorial.
+39:07 - Victor Henrique Aguiar Gutierrez Duarte: Pode colocar, Daís, a sign.
+39:07 - Victor Henrique Aguiar Gutierrez Duarte: Pode pôr, então, aqui?
+39:09 - Victor Henrique Aguiar Gutierrez Duarte: A gente pode manter, então, isso para os colaboradores.
+39:12 - Regiane: Claro que pode, isso.
+39:15 - Victor Henrique Aguiar Gutierrez Duarte: É legal.
+39:15 - Victor Henrique Aguiar Gutierrez Duarte: A parte de comunicação, assim.
+39:16 - Regiane: Exato.
+39:17 - Victor Henrique Aguiar Gutierrez Duarte: Comunicação interna.
+39:18 - Victor Henrique Aguiar Gutierrez Duarte: Comunicação interna, postagens, links, vídeos, videozinhos.
+39:21 - Victor Henrique Aguiar Gutierrez Duarte: Então ótimo.
+39:22 - Victor Henrique Aguiar Gutierrez Duarte: Que mais que eles podem enxergar?
+39:23 - Victor Henrique Aguiar Gutierrez Duarte: Quando eles entrarem em perfil, eles não vão ver nada além de nome deles, e-mail, o gestor.
+39:29 - Victor Henrique Aguiar Gutierrez Duarte: Podem ver informações do próprio contrato.
+39:31 - Victor Henrique Aguiar Gutierrez Duarte: Então assim, por que não?
+39:33 - Victor Henrique Aguiar Gutierrez Duarte: Já que eles sabem quanto eles ganham, vê mais informações do contrato.
+39:39 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+39:40 - Victor Henrique Aguiar Gutierrez Duarte: E eles vão ter acesso aos documentos, porque quando chegar ali um documento para eles assinarem, vai ter uma caixinha de entrada no celular dele, aperta assim, você tem que assinar um documento.
+39:48 - Victor Henrique Aguiar Gutierrez Duarte: Ele vai abrir, vai assinar um documento que é o do treinamento, que, de repente, algum outro documento que você quer que eles assinem.
+39:54 - Victor Henrique Aguiar Gutierrez Duarte: Então, basicamente, a gente limita tudo o que você precisa, acredita, tá?
+40:01 - Regiane: Tá.
+40:01 - Regiane: Fou de boa.
+40:03 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+40:03 - Victor Henrique Aguiar Gutierrez Duarte: Então, perfeito.
+40:04 - Regiane: Mais alguma dúvida?
+40:05 - Regiane: Não, acho que...
+40:08 - Regiane: Eu acho que eu tiro bem as dúvidas.
+40:09 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+40:10 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos falar de investimento.
+40:11 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que você vai se surpreender.
+40:12 - Victor Henrique Aguiar Gutierrez Duarte: A gente hoje cobra por vida ativa.
+40:14 - Victor Henrique Aguiar Gutierrez Duarte: E aí eu quero te perguntar.
+40:16 - Victor Henrique Aguiar Gutierrez Duarte: Tem um número mínimo de colaboradores que você já chegou na sua empresa?
+40:18 - Victor Henrique Aguiar Gutierrez Duarte: Olha, Vitor, nunca tive menos de 50, por exemplo.
+40:23 - Regiane: A média aqui sempre foi acima de 50.
+40:26 - Regiane: Chegou numa época que tem, é que é assim.
+40:29 - Regiane: Como eu falei para você, tem aquela questão que, na verdade, avaliações, pesquisa, eu só falo como se funcionasse.
+40:36 - Regiane: E dá em torno de 80.
+40:38 - Regiane: Só que, Os cooperativos, por exemplo, a questão de cargos, essas coisas, sim, aí eu lanço lá as expressões de cargos, até essa matriz que eu comentei com você, eles precisam constar.
+40:48 - Regiane: Mas as avaliações em si, eu não faço com eles, eu só faço com o CLT.
+40:52 - Regiane: Hoje a gente está com 80, 80, CLT e 29 cooperativos.
+40:59 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+40:59 - Regiane: Bom, vamos supor, juntar todo mundo.
+41:01 - Regiane: A experiência é uma média de 100, né? 100, né? 100.
+41:05 - Regiane: Tem essas 10 pessoas.
+41:07 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito, a gente cobra por vida, então cada vida que você adicionar na plataforma vai ser cobrado unitariamente, tá?
+41:12 - Victor Henrique Aguiar Gutierrez Duarte: O plano, eu vou te passar a primeira, eu vou te passar agora, ao contrário dos concorrentes que não te falam, o preço eu vou te falar, tá?
+41:17 - Victor Henrique Aguiar Gutierrez Duarte: Tá vendo a minha tela aqui?
+41:20 - Regiane: Vou te passar aqui, vou aumentar.
+41:24 - Victor Henrique Aguiar Gutierrez Duarte: A gente já definiu, esse pacote de pessoas, a base do sistema obrigatória, que é organograma, admissão digital, documentos, isso é obrigatório ter, Desempenho, pesquisa de clima e gestão de treinamentos, R$18,20 por pessoa mensal, vezes 100, R$1.820 mensais, mensais na recorrência mensal, para manter o sistema ativo para 100 pessoas.
+41:50 - Regiane: E esse completo é o que vem à parte de pertenção de folha?
+41:57 - Victor Henrique Aguiar Gutierrez Duarte: O paquete completo, ele já vem o ponto, ele já vem ali, mas, ó, ele já vem turnos, vem ausências de atestados, vem toda essa gestão de férias também, aí fica um pouco maior.
+42:09 - Victor Henrique Aguiar Gutierrez Duarte: Se você quiser ir lá na frente, você fala com o seu gerente de contos e coloca depois.
+42:15 - Regiane: Tá.
+42:15 - Regiane: E aí você tem o plano de fidelidade, seria um ano?
+42:17 - Victor Henrique Aguiar Gutierrez Duarte: Temos sim, 12 meses, 30% em cima dos meses remanescentes de multa, tá?
+42:24 - Victor Henrique Aguiar Gutierrez Duarte: Cancelamento grátis em 30 dias.
+42:26 - Regiane: Tá, mas você passou um ano e meio, aí quero cancelar.
+42:31 - Regiane: Aí entra só na questão do aviso há 30 dias antes e não tem muita nada.
+42:35 - Regiane: Correto.
+42:36 - Regiane: E esse valor, ele paga mensal ou ele tem a questão anual?
+42:42 - Victor Henrique Aguiar Gutierrez Duarte: Ele é mensal, depende do seu orçamento, porque você pode me pagar um anual mais barato, tem 10% de conto ou 15%, mas aí você vai ter que parcelar em três vezes o pacote anual.
+42:53 - Victor Henrique Aguiar Gutierrez Duarte: Se você tiver fôlego financeiro, não vejo problema nenhum em fazer isso, entendeu?
+42:56 - Regiane: E esse pacote anual para o Brasil de três meses tem um desconto, não?
+43:00 - Victor Henrique Aguiar Gutierrez Duarte: Tem, consigo colocar um desconto, sim, consigo.
+43:01 - Victor Henrique Aguiar Gutierrez Duarte: Dá para colocar 12,5% tranquilamente.
+43:05 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+43:05 - Regiane: Eu já te passo isso.
+43:06 - Regiane: E geralmente, assim, a média de reajuste fica dentro do padrão anual?
+43:11 - Regiane: Ou, por exemplo, assim, fechando esse valor, o ano que vem você reajuste, toda a renovação?
+43:16 - Victor Henrique Aguiar Gutierrez Duarte: A gente ajusta muito em cima do IPCA, dos índices, e a gente pode renegociar os 12,5 para mais 12 meses.
+43:22 - Regiane: Eu começo porque a gente se surpreendeu com o seu cadimete, a gente tinha um contrato de uns 10 anos, mais ou menos, com ele.
+43:29 - Regiane: Aí foi, foi, foi, foi, nossa.
+43:31 - Regiane: Aí deu, disparou, assim, muito alto.
+43:34 - Regiane: Na verdade, ficou cinco vezes mais o valor.
+43:37 - Victor Henrique Aguiar Gutierrez Duarte: Nossa, meu Deus!
+43:39 - Regiane: Foi algo assim.
+43:40 - Regiane: Por isso que a gente foi obrigada em criar a cancelativa, eu falo bastante dele.
+43:44 - Regiane: E aí não teve jeito, né?
+43:46 - Regiane: Falar a diretoria quando a aula chega, né?
+43:48 - Regiane: Não dá.
+43:49 - Regiane: Porque daí você vai, por isso eu falei, a gente vai, às vezes fecha, e aí começa todo ano, aí quando você vê, tá, né?
+43:56 - Regiane: Então aí tava complicado.
+43:58 - Regiane: Fica tranquila.
+43:58 - Regiane: Mas você tem como me mandar, assim, do amor certinho aí, por e-mail?
+44:02 - Regiane: Claro.
+44:02 - Regiane: Aí você tá, né, pra diretoria?
+44:05 - Regiane: Mas não tinha, assim, você, né, da...
+44:07 - Regiane: Do sistema aí, do...
+44:10 - Regiane: Da Factorial?
+44:12 - Regiane: Mas aí tem que estar passando pra ele mesmo.
+44:14 - Victor Henrique Aguiar Gutierrez Duarte: Quem sabe, aí a gente vai seguindo.
+44:18 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, você não perguntou sobre o seu suporte pós-venda, mas acho que você tem que ter essa informação na sua cabeça.
+44:22 - Victor Henrique Aguiar Gutierrez Duarte: Ah, tá.
+44:23 - Victor Henrique Aguiar Gutierrez Duarte: Vou te falar já.
+44:24 - Victor Henrique Aguiar Gutierrez Duarte: Você vai ter um especialista de implementação que vai guiar você por reuniões sobre o seu assunto ali.
+44:29 - Victor Henrique Aguiar Gutierrez Duarte: Então, vamos implementar com 5 horas de treinamento.
+44:33 - Victor Henrique Aguiar Gutierrez Duarte: É o mesmo preço da mensalidade, não tem nada de 60 mil reais, não.
+44:37 - Victor Henrique Aguiar Gutierrez Duarte: Essa implementação vai custar 1.800 reais.
+44:39 - Regiane: Que é o mesmo, valeu.
+44:39 - Regiane: Seria tipo, você não comprar para R$ 1.800.000, mas aí...
+44:45 - Victor Henrique Aguiar Gutierrez Duarte: É 40 dias depois, então é bem flexível, na verdade.
+44:48 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, feito isso, acabou a implementação, lança o convite para os colaboradores.
+44:51 - Victor Henrique Aguiar Gutierrez Duarte: Tem dúvida no projeto?
+44:53 - Victor Henrique Aguiar Gutierrez Duarte: Quer reajustar?
+44:53 - Victor Henrique Aguiar Gutierrez Duarte: Quer falar com alguém?
+44:54 - Victor Henrique Aguiar Gutierrez Duarte: Tem um gerente de contas, é mais uma pessoa que cuida da sua conta.
+44:59 - Victor Henrique Aguiar Gutierrez Duarte: Então você vai mandar o e-mail diretamente para o seu gerente de contas.
+45:02 - Victor Henrique Aguiar Gutierrez Duarte: Não é hoje para um, amanhã para outro.
+45:04 - Victor Henrique Aguiar Gutierrez Duarte: Você tem esse tipo de suporte aqui com a gente, tá?
+45:05 - Regiane: Tá.
+45:07 - Regiane: E uma dúvida, por exemplo, eu não quero colocar a descrita de clima.
+45:11 - Regiane: Quero deixar só a avaliação.
+45:13 - Regiane: A avaliação é essa questão dos cargos escalados, que acho que é importante para dar avaliação.
+45:20 - Regiane: Muda muito, não muda muito nada.
+45:22 - Victor Henrique Aguiar Gutierrez Duarte: Muda muito, muda muito.
+45:24 - Victor Henrique Aguiar Gutierrez Duarte: Aquele era um pacote que tem quatro módulos juntos, porque no final eles querem mais barato se você pegasse do que individualmente.
+45:31 - Victor Henrique Aguiar Gutierrez Duarte: Porém, aqui você pode não querer pesquisa, certo?
+45:35 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente vai pegar o base, vou aumentar até mais um pouquinho.
+45:38 - Regiane: Eu faço o anual, uma vez por ano.
+45:46 - Regiane: E é uma coisa que talvez dê para eu fazer virar.
+45:47 - Regiane: Verdade.
+45:47 - Regiane: Boa, beleza.
+45:48 - Victor Henrique Aguiar Gutierrez Duarte: Mas se for um fator decisivo, de repente eu tento dar um desconto maior para você levar, mas não tem problema.
+45:53 - Victor Henrique Aguiar Gutierrez Duarte: O legal do pesquisas é que ele tem o NPS, que é Detrator Promotor, isso está no engajamento, e tem também o One-on-One, que são reuniões gravadas.
+46:01 - Victor Henrique Aguiar Gutierrez Duarte: Quando você, de repente, começar a gravar reuniões com as pessoas, você pode até abrir o notebook e falar com o notebook.
+46:08 - Victor Henrique Aguiar Gutierrez Duarte: A gente grava por dentro da factorial e a gente faz a transcrição e conversa com a transcrição por IA.
+46:13 - Regiane: O que foi falado nessa reunião?
+46:14 - Regiane: Isso é muito diferenciado.
+46:16 - Victor Henrique Aguiar Gutierrez Duarte: Mas você pode optar depois também, não tem problema.
+46:20 - Victor Henrique Aguiar Gutierrez Duarte: Como é que ficaria isso?
+46:21 - Victor Henrique Aguiar Gutierrez Duarte: R$ 9,00 mais desempenho, mais treinamentos.
+46:25 - Victor Henrique Aguiar Gutierrez Duarte: Ficou R$ 16,00, ou seja, R$ 1.600.
+46:27 - Regiane: É, tudo isso.
+46:32 - Regiane: O preço é diferente.
+46:32 - Regiane: E essa questão da reunião, como que funciona?
+46:35 - Regiane: A gente tem a reunião, eu deixo aqui ligado.
+46:39 - Regiane: O sistema, ele vai meio que pegando todas as informações, e aí chega no final, entrega a falar pronta.
+46:47 - Victor Henrique Aguiar Gutierrez Duarte: Nossa, que da hora isso.
+46:49 - Victor Henrique Aguiar Gutierrez Duarte: Da hora demais.
+46:50 - Victor Henrique Aguiar Gutierrez Duarte: Vou falar para você que quando saiu...
+46:51 - Victor Henrique Aguiar Gutierrez Duarte: Vamos falar português, claro.
+46:52 - Victor Henrique Aguiar Gutierrez Duarte: Da hora mesmo.
+46:53 - Victor Henrique Aguiar Gutierrez Duarte: A gente estava vendendo ilimitado isso daí.
+46:56 - Victor Henrique Aguiar Gutierrez Duarte: O que pensa?
+46:57 - Victor Henrique Aguiar Gutierrez Duarte: A IA consome dados e quem paga é factorial.
+47:00 - Victor Henrique Aguiar Gutierrez Duarte: Então, está sendo limitado, se eu não me engano, uma reunião de vídeo por colaborador ali mensal, tá?
+47:05 - Victor Henrique Aguiar Gutierrez Duarte: Entendeu?
+47:06 - Victor Henrique Aguiar Gutierrez Duarte: Porque senão, meu Deus do céu, é um zam absurdo.
+47:09 - Victor Henrique Aguiar Gutierrez Duarte: Então, só vou confirmar, tá?
+47:11 - Regiane: Não, mas aí, se você puder me traçar em um cartinho, daí eu passo para o pessoal aqui, daí a gente verifica.
+47:18 - Victor Henrique Aguiar Gutierrez Duarte: Beleza aí.
+47:18 - Victor Henrique Aguiar Gutierrez Duarte: Então, maravilha.
+47:19 - Victor Henrique Aguiar Gutierrez Duarte: Você tem mais reunião com a Metadados?
+47:20 - Regiane: Já viu os sistemas que tinha que ver?
+47:22 - Regiane: Não, eu nem entrei em contato, porque realmente eu já sei mais ou menos como vai ser.
+47:28 - Regiane: Então, eu acho que não vai dar.
+47:30 - Regiane: Aí eu tô aguardando aí mais dois, né, mas aí a gente vai olhando todos aí e chega num conflito.
+47:38 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, então vou fazer o meu melhor, vou te mandar tudo certinho.
+47:41 - Victor Henrique Aguiar Gutierrez Duarte: Posso te chamar no WhatsApp?
+47:42 - Victor Henrique Aguiar Gutierrez Duarte: Que dia assim que eu não vou te incomodar?
+47:48 - Victor Henrique Aguiar Gutierrez Duarte: Acho que é semana que vem, lá por terço ou quarta-feira, por aí.
+47:52 - Victor Henrique Aguiar Gutierrez Duarte: Daí eu já vou tentar conversar com todo mundo.
+47:53 - Victor Henrique Aguiar Gutierrez Duarte: Beleza.
+47:53 - Victor Henrique Aguiar Gutierrez Duarte: Então eu já maiorquei aqui na minha agenda, vou te mandar hoje e aí te dou um enzim no WhatsApp.
+47:57 - Victor Henrique Aguiar Gutierrez Duarte: Caso você tenha alguma dúvida, você me grita lá, tá?
+48:00 - Regiane: Tá bom então.
+48:01 - Victor Henrique Aguiar Gutierrez Duarte: Obrigada.
+48:03 - Victor Henrique Aguiar Gutierrez Duarte: Obrigado.
+48:03 - Victor Henrique Aguiar Gutierrez Duarte: Boa tarde.
+48:03 - Victor Henrique Aguiar Gutierrez Duarte: Tchau, tchau.
+48:04 - Victor Henrique Aguiar Gutierrez Duarte: Beijo.

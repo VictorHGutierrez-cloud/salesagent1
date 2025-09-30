@@ -1,0 +1,18 @@
+=== DIAGNÓSTICO DO CLIENTE ===
+
+Setor: tecnologia
+Porte: grande
+
+DORES PRINCIPAIS:
+
+STAKEHOLDERS:
+Decisores: 
+Influenciadores: Equipe interna, Equipe interna
+Usuarios: 
+
+GATILHOS EMOCIONAIS:
+
+OBJETIVOS DECLARADOS:
+• trimestral
+• da Action Day aqui
+• de criar um plano mesmo de implementação

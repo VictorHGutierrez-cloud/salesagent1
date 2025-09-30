@@ -1,0 +1,72 @@
+{
+  "Cliente": "metalcoop",
+  "Data_Analise": "2025-09-29 00:54:55",
+  "Diagnostico": {
+    "Setor": "tecnologia",
+    "Porte": "grande",
+    "Dores_Principais": [],
+    "Stakeholders": {
+      "Decisores": [],
+      "Influenciadores": [
+        "Equipe interna",
+        "Equipe interna"
+      ],
+      "Usuarios": []
+    },
+    "Gatilhos_Emocionais": [
+      "Entusiasmo com possibilidade"
+    ],
+    "Objetivos_Declarados": [
+      "de vender R$ 3",
+      "para ele dentro de um período, data inicial para ele entregar a meta, data final para entregar a meta, você está vendo que está dando um mês"
+    ]
+  },
+  "Score_Prioridade": {
+    "Urgencia": 6,
+    "Autoridade": 5,
+    "Orcamento": 10,
+    "Fit_Solucao": 10,
+    "Timing": 10,
+    "Score_Geral": 7.8,
+    "Classificacao": "MÉDIA PRIORIDADE"
+  },
+  "Resumo_FollowUp": {
+    "Resumo_Executivo": "Cliente do setor tecnologia com média prioridade (score 7.8/10). Principais dores: não identificadas claramente. Urgência moderada - agendar follow-up em 48h.",
+    "Objecoes_Identificadas": [
+      "Nenhuma objeção explícita identificada"
+    ],
+    "Respostas_Strategicas": [],
+    "Template_Email": "Assunto: Próximos passos - Cliente\n\n\nOlá Cliente,\n\nObrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.\n\nBaseado na nossa conversa, identifiquei algumas oportunidades interessantes:\n\n\nPróximos passos sugeridos:\n• [Ação específica baseada no score de prioridade]\n• [Segunda ação]\n• [Terceira ação]\n\nGostaria de agendar uma call de 15 minutos para discutirmos os detalhes?\n\nAtenciosamente,\n[Seu nome]\n",
+    "Proximos_Passos_Sugeridos": [
+      "Enviar material de apoio e cases de sucesso",
+      "Agendar call de esclarecimentos em 1 semana",
+      "Preparar piloto ou demonstração específica"
+    ]
+  },
+  "Feedback_Pessoal": {
+    "Total_Perguntas": 239,
+    "Perguntas_Abertas": 160,
+    "Perguntas_Fechadas": 79,
+    "Razao_Abertas_Fechadas": 2.03,
+    "Indicadores_Inseguranca": 56,
+    "Indicadores_Confianca": 0,
+    "Score_Confianca": 0,
+    "Melhorias_Sugeridas": [
+      "Reduzir uso de palavras que transmitem insegurança (acho, talvez)",
+      "Usar mais linguagem assertiva e baseada em fatos",
+      "Preparar perguntas específicas sobre dores e objetivos",
+      "Usar mais cases de sucesso para construir credibilidade",
+      "Focar em benefícios específicos para o cliente"
+    ]
+  },
+  "Proximos_Passos": {
+    "Prioridade": "MÉDIA",
+    "Acoes_Imediatas": [
+      "Enviar material de apoio",
+      "Agendar call de esclarecimentos",
+      "Preparar demonstração específica"
+    ],
+    "Prazo_Proxima_Acao": "1 semana",
+    "Objetivo_Proxima_Call": "Avançar no processo de vendas"
+  }
+}

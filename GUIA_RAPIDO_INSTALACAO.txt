@@ -1,0 +1,35 @@
+🚀 SALES AGENT IA - GUIA RÁPIDO DE INSTALAÇÃO
+================================================
+
+✅ SUA API KEY JÁ ESTÁ CONFIGURADA!
+
+📋 PRÓXIMOS PASSOS:
+
+1. INSTALAR PYTHON (SE NÃO TIVER)
+   - Baixe em: https://www.python.org/downloads/
+   - ⚠️ IMPORTANTE: Marque "Add Python to PATH" na instalação
+
+2. EXECUTAR INSTALADOR AUTOMÁTICO
+   - Clique duas vezes em: instalar_completo.bat
+   - OU no PowerShell: python -m pip install -r requirements_ia_agent.txt
+
+3. INICIAR O SISTEMA
+   - No PowerShell: python sales_agent_main.py
+
+🎯 O QUE VAI ACONTECER:
+- Sistema vai construir base de conhecimento do seu toolkit
+- Interface vai aparecer
+- Microfone vai começar a capturar
+- Sugestões vão aparecer automaticamente
+
+📱 DURANTE USO:
+- Ícone azul na system tray = sistema ativo
+- Overlay aparece no canto da tela com sugestões
+- Dashboard mostra estatísticas em tempo real
+
+🔧 PROBLEMAS COMUNS:
+- "Python não encontrado" = Instale Python e reinicie PowerShell
+- "API Key inválida" = Verifique arquivo .env
+- "Microfone não funciona" = Teste microfone no Windows
+
+💡 DICA: Teste primeiro com uma conversa simulada para calibrar!

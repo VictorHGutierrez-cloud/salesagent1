@@ -1,0 +1,64 @@
+local (latitude/longitude)
+
+-23.550135633471513, -46.29892026835893
+
+Limites (não pode ser:)
+
+Latitude
+
+Raio para cima: maior que -23.550107720803158
+
+Raio para baixo: menor -23.55018215460083
+
+
+Longitude
+
+Raio pra esquerda: menor que -46.299121004415255
+
+Raio pra direita:Maior que -46.29873983143774
+
+nOVO LOGIN
+victor.gutierrez759@gmail.com
+@Relient1234
+
+Ponto 1
+-23,5501165
+
+GPT
+
+
+Pessoas dentro do perímetro
+
+SELECT
+  employees."full_name" AS "employee.full_name",
+  shifts."date" AS "shift.date",
+  shifts."clock_in" AS "shift.clock_in",
+  shifts."clock_out" AS "shift.clock_out",
+  shifts."in_location_latitude" AS "shift.in_location_latitude",
+  shifts."in_location_longitude" AS "shift.in_location_longitude"
+FROM
+  employees
+  INNER JOIN shifts ON employees."id" = shifts."employee_id"
+WHERE
+  (shifts."in_location_latitude" <= -15.595466915995098 AND shifts."in_location_latitude" >= -15.598725522857242)
+  AND
+  (shifts."in_location_longitude" <= -56.224987904364376 AND shifts."in_location_longitude" >= -56.22791548886919);
+
+
+
+Pessoas fora do perímetro
+SELECT
+  employees."full_name" AS "employee.full_name",
+  shifts."date" AS "shift.date",
+  shifts."clock_in" AS "shift.clock_in",
+  shifts."clock_out" AS "shift.clock_out",
+  shifts."in_location_latitude" AS "shift.in_location_latitude",
+  shifts."in_location_longitude" AS "shift.in_location_longitude"
+FROM
+  employees
+  INNER JOIN shifts ON employees."id" = shifts."employee_id"
+WHERE
+  (shifts."in_location_latitude" > -15.595466915995098 OR shifts."in_location_latitude" < -15.598725522857242)
+  OR
+  (shifts."in_location_longitude" > -56.224987904364376 OR shifts."in_location_longitude" < -56.22791548886919);
+

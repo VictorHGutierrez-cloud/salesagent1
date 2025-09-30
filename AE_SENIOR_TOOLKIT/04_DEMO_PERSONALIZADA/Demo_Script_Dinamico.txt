@@ -1,0 +1,204 @@
+DEMO SCRIPT DINÂMICO - AE SENIOR
+================================
+
+🎯 DEMO MATADORA PERSONALIZADA
+
+PRÉ-DEMO PREPARATION:
+====================
+
+RESEARCH CHECKLIST (30 MIN ANTES):
+✅ Review discovery notes
+✅ Identify top 3 pain points
+✅ Prepare specific scenarios
+✅ Customize demo environment
+✅ Prepare backup slides
+✅ Test all connections
+✅ Prepare ROI calculator
+
+DEMO ENVIRONMENT SETUP:
+✅ Company name in system
+✅ Real employee names
+✅ Relevant departments
+✅ Industry-specific settings
+✅ Local compliance rules
+✅ Integration scenarios
+
+ESTRUTURA DA DEMO (45 MIN):
+===========================
+
+1. ABERTURA ESTRATÉGICA (5 MIN):
+"Obrigado por nos receberem hoje. Baseado na nossa conversa, entendi que vocês têm 3 desafios principais:
+1. [DOR ESPECÍFICA 1]
+2. [DOR ESPECÍFICA 2] 
+3. [DOR ESPECÍFICA 3]
+
+Hoje vou mostrar exatamente como resolveriam cada um desses desafios. Faz sentido?"
+
+2. AGENDA CONFIRMATION (2 MIN):
+"Vamos usar 45 minutos assim:
+- 15 min: Como resolveriam [DOR 1]
+- 15 min: Como resolveriam [DOR 2]
+- 15 min: Como resolveriam [DOR 3]
+- Últimos minutos: ROI e próximos passos
+
+Alguma dúvida ou ajuste na agenda?"
+
+3. DEMO CORE (30 MIN):
+
+PAIN POINT 1 - CONTROLE DE PONTO MANUAL:
+-----------------------------------------
+SETUP: "Vocês falaram que controlam ponto no Excel e é um caos..."
+
+SHOW:
+→ Dashboard tempo real
+→ Marcação mobile
+→ Aprovação de horas extras
+→ Relatório automático
+
+PAYOFF: "Imaginem: sem planilha, sem erro, sem retrabalho. 
+[NOME], quanto tempo isso economizaria por mês?"
+
+PAIN POINT 2 - FECHAMENTO DE FOLHA DEMORADO:
+--------------------------------------------
+SETUP: "Vocês disseram que fechamento leva 15 dias..."
+
+SHOW:
+→ Automation de cálculos
+→ Integração com folha
+→ Validação automática
+→ Export direto
+
+PAYOFF: "De 15 dias para 2 dias automático. 
+[NOME CFO], qual seria o impacto financeiro disso?"
+
+PAIN POINT 3 - FALTA DE MÉTRICAS:
+---------------------------------
+SETUP: "Vocês querem ser mais estratégicos mas faltam dados..."
+
+SHOW:
+→ Dashboard executivo
+→ Métricas de performance
+→ Alerts automáticos
+→ Reports personalizados
+
+PAYOFF: "Todas as métricas que precisam para decisões estratégicas.
+[NOME CHRO], como isso mudaria seu dia a dia?"
+
+4. FECHAMENTO ESTRATÉGICO (8 MIN):
+==================================
+
+ROI CALCULATION LIVE:
+"Vamos calcular o ROI juntos:
+
+CUSTOS ATUAIS:
+- [X] horas/mês em retrabalho × R$ [Y]/hora = R$ [Z]
+- Risco de multa: R$ [W]
+- Perda de produtividade: R$ [V]
+TOTAL: R$ [CUSTO TOTAL MENSAL]
+
+INVESTMENT FACTORIAL:
+- [Z] usuários × R$ [PREÇO] = R$ [INVESTIMENTO]
+
+ROI: [ECONOMIA ANUAL] ÷ [INVESTIMENTO] = [%] no primeiro ano
+Payback: [X] meses"
+
+DEMO SCRIPTS POR PERSONA:
+=========================
+
+PARA CEO:
+"[NOME], imagina ter visibilidade total de todas as métricas de RH em tempo real. Produtividade, custos, riscos... tudo num dashboard só. Como isso mudaria suas decisões estratégicas?"
+
+PARA CFO:
+"[NOME], essa automação elimina R$ [X] em custos operacionais por mês, reduz riscos de multa em 90%, e o payback é de apenas [Y] meses. Já viram ROI assim em outras áreas?"
+
+PARA CHRO:
+"[NOME], imagina não ter que se preocupar com processos operacionais nunca mais. Sua equipe focaria 100% no estratégico: cultura, performance, employee experience. Como seria?"
+
+PARA CTO:
+"[NOME], API REST completa, webhooks, SSO, LGPD compliant, certificação ISO 27001. Implementação sem dor de cabeça e integração nativa com [SISTEMA ATUAL]. Tranquilo, né?"
+
+DEMO TECHNIQUES AVANÇADAS:
+==========================
+
+1. STORYTELLING:
+"A [EMPRESA SIMILAR] tinha exatamente o mesmo problema que vocês. Em 6 meses, reduziram custos em 40% e eliminaram 99% dos erros. Quer saber como?"
+
+2. OBJECTION PREVENTION:
+"Sei que vocês devem estar pensando: 'E a integração com nosso [SISTEMA]?' Olha só como funciona..."
+
+3. EMOTIONAL TRIGGERS:
+"[NOME], como você se sentiria nunca mais tendo que trabalhar fim de semana por causa de erro de folha?"
+
+4. SCARCITY:
+"Só conseguimos fazer implementação express em dezembro para mais 2 clientes. Depois só em março."
+
+5. SOCIAL PROOF:
+"A [CONCORRENTE DO CLIENTE] implementou em setembro e já está colhendo resultados. Não querem ficar para trás, né?"
+
+DEMO RESCUE TECHNIQUES:
+=======================
+
+SE A DEMO TRAVA:
+"Perfeito! Isso me dá chance de mostrar nosso suporte. Vou compartilhar tela de como resolvemos situações assim..."
+
+SE FAZEM PERGUNTA DIFÍCIL:
+"Excelente pergunta! Deixa eu anotar aqui e já te respondo. Isso mostra que vocês estão pensando na implementação, certo?"
+
+SE COMPARAM COM CONCORRENTE:
+"Ótimo que estão avaliando opções! A diferença nossa é [DIFERENCIAL ÚNICO]. Posso mostrar na prática?"
+
+SE QUESTIONA PREÇO:
+"Entendo a preocupação. Vamos olhar o investment vs return. O que importa não é o preço, é o resultado, certo?"
+
+CLOSING DA DEMO:
+=================
+
+1. SUMMARIZE BENEFITS:
+"Recapitulando, com a Factorial vocês teriam:
+- [BENEFÍCIO 1 QUANTIFICADO]
+- [BENEFÍCIO 2 QUANTIFICADO]  
+- [BENEFÍCIO 3 QUANTIFICADO]"
+
+2. CHECK INTEREST:
+"Com base no que viram, faz sentido prosseguir?"
+
+3. NEXT STEPS:
+"Perfeito! Próximos passos:
+- Hoje: Envio proposta personalizada
+- Amanhã: Call com [STAKEHOLDER]
+- [DATA]: Decisão
+Fechado?"
+
+DEMO FOLLOW-UP:
+===============
+
+WITHIN 2 HOURS:
+✅ Thank you email
+✅ Demo recording
+✅ ROI calculation
+✅ Next steps confirmed
+✅ Additional resources
+
+DEMO SCORING:
+=============
+• Engagement level: /10
+• Questions quality: /10  
+• Next steps confirmed: /10
+• Buying signals: /10
+• Technical fit: /10
+
+TOTAL: /50
+
+INTERPRETATION:
+40-50: HOT - Send proposal
+30-39: WARM - More discovery
+20-29: COLD - Long-term nurture
+<20: DISQUALIFY
+
+DEMO METRICS:
+=============
+• Show rate: 90%+
+• Engagement score: 8+
+• Next meeting rate: 60%+
+• Proposal request rate: 40%+
+• Demo-to-close rate: 25%+

@@ -1,0 +1,578 @@
+00:08 - Victor Henrique Aguiar Gutierrez Duarte: Boa tarde, Daniely.
+00:10 - Danielle Castro: Oi, boa tarde, tudo bem?
+00:12 - Victor Henrique Aguiar Gutierrez Duarte: Tudo e você?
+00:13 - Danielle Castro: Jô, só um minutinho, gente.
+00:33 - Danielle Castro: Oi, desculpa, gente.
+00:34 - Danielle Castro: Estava apagando um send aqui.
+00:36 - Victor Henrique Aguiar Gutierrez Duarte: Ah, sempre.
+00:37 - Victor Henrique Aguiar Gutierrez Duarte: Fica tranquila, Danielle.
+00:38 - Victor Henrique Aguiar Gutierrez Duarte: Na verdade, só tem outro ser humano aqui, essa é a nossa IA que grava a reunião, porque você sabe como que a gente fala, fala, fala, e é bom depois a gente resumir tudo, né?
+00:47 - Victor Henrique Aguiar Gutierrez Duarte: Beleza?
+00:48 - Victor Henrique Aguiar Gutierrez Duarte: Prazer te conhecer.
+00:49 - Victor Henrique Aguiar Gutierrez Duarte: Podemos começar?
+00:52 - Victor Henrique Aguiar Gutierrez Duarte: Podemos sim.
+00:53 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, Danielle.
+00:54 - Victor Henrique Aguiar Gutierrez Duarte: Eu sou o Victor Gutierrez aqui da Factorial, sou gerente de expansão aqui de canais e assumi diretamente esse case aqui que foi passado pela Rebeca.
+01:02 - Victor Henrique Aguiar Gutierrez Duarte: Ela entrou em contato com você ontem, né?
+01:05 - Victor Henrique Aguiar Gutierrez Duarte: E fez algumas perguntas ali para entender um pouco do seu cenário.
+01:08 - Victor Henrique Aguiar Gutierrez Duarte: A ideia é eu te mostrar um pouco da plataforma, tirar suas dúvidas, saber onde você quer chegar e se der tempo a gente passa toda a questão de valores.
+01:14 - Victor Henrique Aguiar Gutierrez Duarte: Pode ser assim?
+01:16 - Danielle Castro: Pode.
+01:17 - Danielle Castro: Na verdade, eu estava fazendo uma recarga lá no iFood e meu chefe está em cima de mim, porque a gente precisa ter algo mais executivo para fazer essa parte de feedback e tal.
+01:30 - Danielle Castro: Aí eu vi, na verdade o anúncio lá falava mais sobre recrutamento, seleção e tal, mas aí eu vi que depois, por último, tinha alguma coisa do desenvolvimento mesmo, do colaborador e tal.
+01:42 - Danielle Castro: Eu falei, quem sabe eu consigo adaptar para quem já está aqui.
+01:47 - Victor Henrique Aguiar Gutierrez Duarte: Consegue com certeza.
+01:48 - Victor Henrique Aguiar Gutierrez Duarte: A gente faz algumas divulgações lá de recurtamento é uma delas, só que a gente não faz de desempenho tanto, só que a gente tem todo o rol possível e inimaginável de avaliação de desempenho, acompanhamento, feedback, metas, objetivos. o one-on-ones, aquelas conversas que os gestores normalmente têm que fazer a cada 15 dias, a gente já grava por dentro da plataforma também, você vai ver que é, assim, maravilhoso.
+02:08 - Victor Henrique Aguiar Gutierrez Duarte: Mas você vai adorar.
+02:10 - Victor Henrique Aguiar Gutierrez Duarte: E eu tô aqui desde o começo da empresa, a gente tem 8 anos, somos uma empresa bilionária de RH mundial.
+02:16 - Victor Henrique Aguiar Gutierrez Duarte: Tô desde o começo aqui, eu sou apaixonado, essa funcionalidade eu vou mostrar com muito prazer.
+02:20 - Victor Henrique Aguiar Gutierrez Duarte: Me conta exatamente, então, o que você tá pensando.
+02:22 - Victor Henrique Aguiar Gutierrez Duarte: Vamos partir do seu ponto de vista.
+02:26 - Danielle Castro: Eu tenho um grupo hoje, CLT, tá?
+02:30 - Danielle Castro: São 27 funcionários que fazem parte da central de atendimento.
+02:39 - Danielle Castro: A gente é uma empresa de portaria virtual, eles basicamente atendem as portarias.
+02:43 - Danielle Castro: A gente hoje tem mais de 100 condomínios na base.
+02:46 - Danielle Castro: A gente faz todo o atendimento de portaria desses prédios e também a tratativa de eventos de alarme. no dia a dia de todos.
+02:57 - Danielle Castro: A gente funciona 24 horas.
+03:00 - Danielle Castro: Essa galera tem meta de tempo de atendimento, de nota de qualidade do atendimento, aquela monitoria mesmo que a gente escuta as ligações e avalia no formulário e tal.
+03:13 - Danielle Castro: Tem tempo de atendimento, volume de chamadas atendidas, volume de alarmes tratados, tempo médio de tratamento de cada evento e tal, eles têm todas essas metas.
+03:23 - Danielle Castro: Hoje eu faço o controle dessas metas, o sistema me dá os resultados e eu tenho uma premiação que eu faço para eles de acordo com a performance.
+03:33 - Danielle Castro: Só que eu faço isso numa planilha Excel.
+03:37 - Danielle Castro: E aí o formulário de feedback a gente coloca quais foram as metas do mês, qual foi o resultado deles e eles assinam e eu guardo isso no papel.
+03:49 - Victor Henrique Aguiar Gutierrez Duarte: Entendi, já entendi o cenário, já vi muito do cenário, tá?
+03:53 - Victor Henrique Aguiar Gutierrez Duarte: Mas, legal.
+03:55 - Danielle Castro: Esse é o público CT, né?
+03:58 - Danielle Castro: Aí, a gente tem o corpo gerencial.
+04:01 - Danielle Castro: Aí, no gerencial, a gente tem eu, que sou gerente de operações, que também vou estar lá, o Felipe, no caso, vai fazer avaliação, vai dar feedback e tal.
+04:11 - Danielle Castro: Tem o gerente comercial, gerente de projeto, de agentes de relacionamento, em tudo.
+04:19 - Danielle Castro: E aí, eles, quem vai conduzir essa parte de feedback e tal, é o Felipe, que é o CEO da empresa.
+04:27 - Victor Henrique Aguiar Gutierrez Duarte: Beleza.
+04:28 - Victor Henrique Aguiar Gutierrez Duarte: Então, perfeito.
+04:29 - Victor Henrique Aguiar Gutierrez Duarte: E aí, você sabe que é um pouco o tênue essa linha de fazer avaliação de desempenho com o PJ, né?
+04:33 - Victor Henrique Aguiar Gutierrez Duarte: Vocês são todos PJs, mas também não tem problema nenhum.
+04:36 - Victor Henrique Aguiar Gutierrez Duarte: Vocês fazem de que forma?
+04:37 - Victor Henrique Aguiar Gutierrez Duarte: Da mesma forma, com o 101, com o feedback?
+04:40 - Victor Henrique Aguiar Gutierrez Duarte: Como é que faz?
+04:42 - Danielle Castro: Só que hoje não tem nada formalizado, é uma conversa e você anota ali o que você quer.
+04:49 - Danielle Castro: E pronto, a gente tem um planejamento estratégico, a gente acompanha e tal, mas essas reuniões mais individuais assim.
+04:56 - Danielle Castro: Não são registradas.
+05:00 - Victor Henrique Aguiar Gutierrez Duarte: Depois dessa, deixa eu entender, o seu sistema de atendimento já te dá todos os números, quantitativos mesmo, né?
+05:10 - Victor Henrique Aguiar Gutierrez Duarte: Quantas chamadas a pessoa fez, esse NPR, esses dados prontos, certo?
+05:16 - Victor Henrique Aguiar Gutierrez Duarte: Você pode, ou se você quiser trazer de alguma forma esses dados e jogar num plano numérico, porque o meu sistema faz avaliação assim, por exemplo, a Danielle tem uma comunicação de um a cinco, quatro, tem de repente entregou metas de um a cinco, três, você poderia traduzir isso aqui em números para ter gráficos de repente no meu sistema.
+05:42 - Victor Henrique Aguiar Gutierrez Duarte: É uma das formas de fazer.
+05:45 - Victor Henrique Aguiar Gutierrez Duarte: Se te parecer complicado isso, eu registraria essas conversas de outra maneira.
+05:52 - Victor Henrique Aguiar Gutierrez Duarte: Eu viria para one-on-one, que são as conversas, aquelas gravadas que eu ia te falar, mas já te falo agora.
+05:58 - Victor Henrique Aguiar Gutierrez Duarte: A gente abre aqui o sistema, colaborador e gestor, eles vão entrar numa sala de reunião.
+06:03 - Victor Henrique Aguiar Gutierrez Duarte: E depois a gente vai lá e vai ter toda a transcrição aqui, tá?
+06:11 - Victor Henrique Aguiar Gutierrez Duarte: Dessa conversa e vai poder conversar por IA.
+06:14 - Victor Henrique Aguiar Gutierrez Duarte: Você vai poder conversar como é que foi essa conversa, pontos positivos.
+06:16 - Victor Henrique Aguiar Gutierrez Duarte: Bem legal, né?
+06:18 - Danielle Castro: Legal.
+06:19 - Victor Henrique Aguiar Gutierrez Duarte: Isso daí pode ser um passo inicial, porque não chega a ser uma avaliação de desempenho.
+06:23 - Victor Henrique Aguiar Gutierrez Duarte: Então, eu estou tentando entender como é que eu posso te entregar inicialmente esse registro, que fica registrado para todo mundo.
+06:29 - Victor Henrique Aguiar Gutierrez Duarte: Se a gente trouxer para uma avaliação de desempenho, sabe o que eu faria, de repente?
+06:33 - Victor Henrique Aguiar Gutierrez Duarte: Se você tiver paciência, eu queria te mostrar o que eu faria, tá?
+06:37 - Victor Henrique Aguiar Gutierrez Duarte: Aqui eu tenho uma avaliação 180 graus aqui, uma avaliação que é a gestora olhando o colaborador.
+06:42 - Victor Henrique Aguiar Gutierrez Duarte: O que eu poderia fazer?
+06:43 - Victor Henrique Aguiar Gutierrez Duarte: Desempenho no trabalho.
+06:44 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou criar uma sessão e vou criar uma pergunta assim.
+06:48 - Victor Henrique Aguiar Gutierrez Duarte: Dê uma nota de entrega de, de repente, chamados.
+06:54 - Victor Henrique Aguiar Gutierrez Duarte: Onde?
+06:56 - Victor Henrique Aguiar Gutierrez Duarte: Um, até vinte chamados.
+06:59 - Victor Henrique Aguiar Gutierrez Duarte: Dois, de vinte e um a quarenta chamados.
+07:04 - Danielle Castro: Isso aí é tranquilo, porque a Merta me permite fazer isso aí.
+07:08 - Danielle Castro: Então, se você quiser...
+07:09 - Danielle Castro: Ela já é tipo... de 90, 95% do atingimento, você ganha tanto, entendeu?
+07:18 - Danielle Castro: É fácil colocar aí nesse...
+07:22 - Danielle Castro: Perfeito.
+07:22 - Danielle Castro: Essas perguntas aí, então, a gente que monta, isso não vem ingestado.
+07:27 - Victor Henrique Aguiar Gutierrez Duarte: Não, 100% personalizado isso, tá? 100% personalizado.
+07:31 - Victor Henrique Aguiar Gutierrez Duarte: Perguntas, podem ser perguntas extras também, só para você entender.
+07:35 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso convidar o colaborador para responder também uma autoavaliação sobre ele?
+07:38 - Victor Henrique Aguiar Gutierrez Duarte: Para os seletistas, eu acho que seria legal.
+07:40 - Victor Henrique Aguiar Gutierrez Duarte: É permitido.
+07:41 - Victor Henrique Aguiar Gutierrez Duarte: Ele poderia se avaliar também.
+07:43 - Victor Henrique Aguiar Gutierrez Duarte: Então, você pode convidar o gestor a avaliar o colaborador e tira um pouco do seu peso.
+07:47 - Victor Henrique Aguiar Gutierrez Duarte: É o gestor que vem dar nota para você.
+07:50 - Victor Henrique Aguiar Gutierrez Duarte: O colaborador se autoavalia.
+07:51 - Victor Henrique Aguiar Gutierrez Duarte: Então, lá na frente, você pode até fazer uma avaliação de colaborador para gestor.
+07:55 - Victor Henrique Aguiar Gutierrez Duarte: Você pode fazer isso também aqui.
+07:57 - Victor Henrique Aguiar Gutierrez Duarte: Tudo bem?
+07:59 - Victor Henrique Aguiar Gutierrez Duarte: Legal, então dá para fazer isso, tá?
+08:02 - Victor Henrique Aguiar Gutierrez Duarte: Tchau, divão.
+08:02 - Victor Henrique Aguiar Gutierrez Duarte: Trazendo números, aí a gente começa a falar, de repente, de um gráfico que eu gostaria que você enxergasse, que é mais voltado aqui, de repente, para esse tipo de pontuação, tá vendo?
+08:11 - Victor Henrique Aguiar Gutierrez Duarte: Atende à expectativa, supera a expectativa, isso é um gráfico já pronto, que você vai poder filtrar por área.
+08:18 - Victor Henrique Aguiar Gutierrez Duarte: Então você vai ter essas equipes.
+08:19 - Victor Henrique Aguiar Gutierrez Duarte: De repente você pode filtrar por equipe, né?
+08:21 - Victor Henrique Aguiar Gutierrez Duarte: Posso pegar aqui.
+08:23 - Victor Henrique Aguiar Gutierrez Duarte: Olha o gerente, o Carlos, aqui.
+08:25 - Victor Henrique Aguiar Gutierrez Duarte: A equipe dele, a média, tá todo mundo atendendo aqui.
+08:28 - Danielle Castro: O do Nicolas...
+08:30 - Danielle Castro: O Felipe, por exemplo, vai conseguir ver o do gerente individual, vamos dizer assim, e o resultado da equipe.
+08:38 - Victor Henrique Aguiar Gutierrez Duarte: Consegue ver o resultado da equipe.
+08:40 - Victor Henrique Aguiar Gutierrez Duarte: E tem um ponto positivo.
+08:42 - Victor Henrique Aguiar Gutierrez Duarte: Quando a gente convida, inclusive, colaboradores para fazer uma autoavaliação, a gente vai trazer uma coisa que eu acho muito bacana, que chama Insights da Equipe.
+08:51 - Victor Henrique Aguiar Gutierrez Duarte: O que é isso?
+08:52 - Victor Henrique Aguiar Gutierrez Duarte: Quanto mais dados a gente traz para a Eada Factoral, a Eada Factoral vai dizer assim, olha, a equipe do Nicolas Nunes aqui Tem um desempenho médio e alinhamento médio.
+09:00 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai dizer mais ou menos como as pessoas estão performando.
+09:03 - Victor Henrique Aguiar Gutierrez Duarte: Se eu entreguei menos chamadas, vai falar que eu tenho um problema com meta, que eu não estou entregando meta.
+09:07 - Victor Henrique Aguiar Gutierrez Duarte: Então ele vai dar um overview para o gerente.
+09:09 - Victor Henrique Aguiar Gutierrez Duarte: E aí vai sugerir itens de ação também.
+09:11 - Victor Henrique Aguiar Gutierrez Duarte: O que tipo de plano de desenvolvimento eu posso fazer?
+09:14 - Victor Henrique Aguiar Gutierrez Duarte: De repente um treinamento.
+09:15 - Victor Henrique Aguiar Gutierrez Duarte: Então a gente faz um escopo inicial disso.
+09:18 - Victor Henrique Aguiar Gutierrez Duarte: Legal também, né?
+09:18 - Victor Henrique Aguiar Gutierrez Duarte: Para levar um pouco essa percepção.
+09:22 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha, até aqui te trouxe números.
+09:24 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso ter mais segurança e pedir para o meu colaborador assinar um plano de ação mesmo.
+09:31 - Victor Henrique Aguiar Gutierrez Duarte: Então o que eu faria aqui é entrar nessa conversa, gestor e colaborador, na avaliação de desempenho.
+09:37 - Victor Henrique Aguiar Gutierrez Duarte: E lá no finalzinho eu vou poder assinar.
+09:41 - Victor Henrique Aguiar Gutierrez Duarte: Significa que eu estou de acordo com as avaliações.
+09:44 - Victor Henrique Aguiar Gutierrez Duarte: Posso ainda assim, se você tiver treinamentos, solicitar um treinamento, tá?
+09:49 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso sugerir um treinamento.
+09:51 - Victor Henrique Aguiar Gutierrez Duarte: Você tem treinamentos internos?
+09:52 - Victor Henrique Aguiar Gutierrez Duarte: Você tem essa prática?
+09:54 - Danielle Castro: Tenho.
+09:56 - Victor Henrique Aguiar Gutierrez Duarte: E os treinamentos são gravados?
+09:57 - Victor Henrique Aguiar Gutierrez Duarte: São terceirizados?
+09:59 - Danielle Castro: Não, mais a gente mesmo que sabe.
+10:01 - Danielle Castro: A gente que monta o material e dá as reciclagens e coisa.
+10:07 - Victor Henrique Aguiar Gutierrez Duarte: Coloca seus treinamentos na Factorial também.
+10:09 - Victor Henrique Aguiar Gutierrez Duarte: Os vídeos eles assistem por aqui.
+10:11 - Victor Henrique Aguiar Gutierrez Duarte: Você faz prova nos treinamentos também.
+10:13 - Victor Henrique Aguiar Gutierrez Duarte: A Factorial é toda integrada, tá?
+10:15 - Victor Henrique Aguiar Gutierrez Duarte: Tudo que você está vendo aqui é próprio nosso, toda a tecnologia é nossa.
+10:19 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente tem muitos tech para poder te ajudar com essas avaliações de desempenho.
+10:23 - Victor Henrique Aguiar Gutierrez Duarte: Inicialmente, eu entendi que o Tesouna Ones pode te ajudar.
+10:27 - Victor Henrique Aguiar Gutierrez Duarte: Faz sentido?
+10:27 - Victor Henrique Aguiar Gutierrez Duarte: O que você está achando, Daniela, até aqui?
+10:29 - Danielle Castro: É isso mesmo.
+10:30 - Danielle Castro: A gente precisa mesmo de deixar mais formal isso, né?
+10:35 - Danielle Castro: E tem um histórico, né?
+10:37 - Danielle Castro: Porque hoje o histórico está na cabeça de cada um.
+10:40 - Victor Henrique Aguiar Gutierrez Duarte: Ah, eu já conheço.
+10:41 - Victor Henrique Aguiar Gutierrez Duarte: É padrão, tá?
+10:42 - Victor Henrique Aguiar Gutierrez Duarte: Não se preocupa.
+10:43 - Danielle Castro: E no Brasil ele fez, por exemplo, a Central dois meses depois e nem lembra mais.
+10:49 - Victor Henrique Aguiar Gutierrez Duarte: Então, e aí você hoje tem algum...
+10:51 - Victor Henrique Aguiar Gutierrez Duarte: Você não tem...
+10:51 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou fazer uma pergunta bem séria.
+10:53 - Victor Henrique Aguiar Gutierrez Duarte: Você tem relógio de pontos que atende hoje, certo?
+10:56 - Danielle Castro: Eles...
+10:57 - Danielle Castro: Eu tinha até um...
+10:59 - Danielle Castro: Até dois meses atrás eu usava...
+11:04 - Danielle Castro: Flash.
+11:06 - Danielle Castro: Só que o meu sistema, o sistema que eles usam para trabalhar, já me dá o ponto, já me dá o login log-out, entendeu?
+11:13 - Danielle Castro: Ah, que beleza.
+11:14 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, então tranquilo.
+11:18 - Victor Henrique Aguiar Gutierrez Duarte: Sistema para...
+11:19 - Victor Henrique Aguiar Gutierrez Duarte: Você parou de pagar flash, então?
+11:21 - Danielle Castro: Parei.
+11:23 - Victor Henrique Aguiar Gutierrez Duarte: E qual que é o sistema que você coloca os dados dos colaboradores aí em planilha, data de contrato, organograma?
+11:29 - Victor Henrique Aguiar Gutierrez Duarte: Data de contrato, de repente, quando entrou, quando saiu, informações pessoais deles, sabe?
+11:36 - Danielle Castro: Ah, não tem um sistema que eu guardo isso não.
+11:39 - Danielle Castro: Eu guardo nas minhas planilhas, eu guardo.
+11:42 - Danielle Castro: E a gente tem uma empresa que faz a sugestão de aço social, as coisas aí eles têm lá também, mas aqui, assim, é...
+11:50 - Danielle Castro: É o que eu tenho que é.
+11:52 - Victor Henrique Aguiar Gutierrez Duarte: Normal.
+11:52 - Victor Henrique Aguiar Gutierrez Duarte: Tranquilo também.
+11:53 - Victor Henrique Aguiar Gutierrez Duarte: As planilhas que você tem, elas vão ser de grande valor porque depois a gente sobe tudo em massa aqui.
+11:58 - Victor Henrique Aguiar Gutierrez Duarte: Mas um sistema por uma gerente de RH de pessoas, eu acho que é um sistema que tem que te trazer primeiro todas as informações dos colaboradores e da empresa.
+12:07 - Victor Henrique Aguiar Gutierrez Duarte: Ou seja, quem está ativo, quem não está ativo, quem é estagiário, quem é CLT, informações de contrato.
+12:13 - Victor Henrique Aguiar Gutierrez Duarte: Total.
+12:14 - Victor Henrique Aguiar Gutierrez Duarte: Total.
+12:15 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou te mostrar.
+12:16 - Victor Henrique Aguiar Gutierrez Duarte: Muito rapidamente, tá?
+12:17 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, eu tenho organograma.
+12:19 - Victor Henrique Aguiar Gutierrez Duarte: Primeira coisa, quem responde para quem?
+12:20 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que é mais fácil a gente já entender isso, né?
+12:23 - Victor Henrique Aguiar Gutierrez Duarte: Já tudo legal.
+12:24 - Victor Henrique Aguiar Gutierrez Duarte: Beleza, quero cadastrar os meus cargos?
+12:26 - Victor Henrique Aguiar Gutierrez Duarte: Cadastro de cargos.
+12:27 - Victor Henrique Aguiar Gutierrez Duarte: Analistas, tempo de casa, tudo isso vai aparecer.
+12:30 - Victor Henrique Aguiar Gutierrez Duarte: Vamos voltar para organograma.
+12:32 - Victor Henrique Aguiar Gutierrez Duarte: Vou entrar, né, Helena?
+12:34 - Victor Henrique Aguiar Gutierrez Duarte: Aqui você vai ver todas as informações dela de uma vez.
+12:37 - Victor Henrique Aguiar Gutierrez Duarte: Olha a centralização de informação.
+12:39 - Victor Henrique Aguiar Gutierrez Duarte: Aí é o ponto.
+12:41 - Victor Henrique Aguiar Gutierrez Duarte: Esquece o relógio ponto, tá?
+12:42 - Victor Henrique Aguiar Gutierrez Duarte: Você não vai usar o ponto.
+12:44 - Victor Henrique Aguiar Gutierrez Duarte: Se quiser, teria aqui.
+12:45 - Victor Henrique Aguiar Gutierrez Duarte: Mas você está vendo que eu tenho?
+12:46 - Victor Henrique Aguiar Gutierrez Duarte: Olha com atenção.
+12:48 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho desempenho aqui atual dos meses.
+12:49 - Victor Henrique Aguiar Gutierrez Duarte: Em janeiro ela teve uma nota 3, em abril também.
+12:52 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho treinamento.
+12:53 - Victor Henrique Aguiar Gutierrez Duarte: Você está inscrita?
+12:54 - Victor Henrique Aguiar Gutierrez Duarte: Não está?
+12:54 - Victor Henrique Aguiar Gutierrez Duarte: Está em andamento.
+12:55 - Victor Henrique Aguiar Gutierrez Duarte: Essas informações o colaborador vai enxergar, o gestor pode enxergar.
+12:58 - Victor Henrique Aguiar Gutierrez Duarte: Tem tudo aí.
+12:58 - Victor Henrique Aguiar Gutierrez Duarte: Tem tudo.
+12:59 - Victor Henrique Aguiar Gutierrez Duarte: As tarefas de um plano de desenvolvimento.
+13:01 - Victor Henrique Aguiar Gutierrez Duarte: Poxa, coloquei na Factorial uma tarefa para ele assistir um curso.
+13:05 - Victor Henrique Aguiar Gutierrez Duarte: Ou uma tarefa de onboarding.
+13:06 - Victor Henrique Aguiar Gutierrez Duarte: Contratou gente?
+13:07 - Victor Henrique Aguiar Gutierrez Duarte: Não tem tarefa de onboarding?
+13:08 - Victor Henrique Aguiar Gutierrez Duarte: Subir os documentos, assinar contrato.
+13:10 - Victor Henrique Aguiar Gutierrez Duarte: As tarefas das pessoas ficam circulando aqui.
+13:13 - Victor Henrique Aguiar Gutierrez Duarte: E o que eu ofereço?
+13:14 - Victor Henrique Aguiar Gutierrez Duarte: Eu ofereço de tarefa, por exemplo, para um contrato.
+13:16 - Victor Henrique Aguiar Gutierrez Duarte: Você está contratando o CLT.
+13:17 - Victor Henrique Aguiar Gutierrez Duarte: Você pode assinar os documentos dele aqui, com validade jurídica pelo sistema.
+13:21 - Victor Henrique Aguiar Gutierrez Duarte: A gente é incrível para documento.
+13:23 - Victor Henrique Aguiar Gutierrez Duarte: Você pode distribuir o alerite em massa com um clique.
+13:26 - Victor Henrique Aguiar Gutierrez Duarte: Vai assinar também.
+13:27 - Victor Henrique Aguiar Gutierrez Duarte: Você pode assinar todos os documentos da sua empresa aqui, tá?
+13:30 - Victor Henrique Aguiar Gutierrez Duarte: Vira uma tarefa, o colaborador vê a tarefa do documento.
+13:33 - Victor Henrique Aguiar Gutierrez Duarte: O gestor, ah, tem que aprovar uma ausência.
+13:36 - Victor Henrique Aguiar Gutierrez Duarte: Aqui vai aparecer também, eu faço controle de férias, eu tenho tudo no sistema.
+13:40 - Victor Henrique Aguiar Gutierrez Duarte: Mas eu vou me focar no RH, tá?
+13:43 - Victor Henrique Aguiar Gutierrez Duarte: É que eu me empolgo, eu adoro.
+13:46 - Danielle Castro: Eu vim pensando só nessa parte de desenvolvimento e tal, mas aí a ferramenta vem com tudo. bem contudo, né?
+13:53 - Victor Henrique Aguiar Gutierrez Duarte: Desculpa que eu vou me desviando.
+13:56 - Victor Henrique Aguiar Gutierrez Duarte: Mas o seu objetivo é gostoso, né?
+13:58 - Victor Henrique Aguiar Gutierrez Duarte: Porque você não tem muitas ferramentas hoje, né?
+14:01 - Danielle Castro: Não.
+14:04 - Danielle Castro: Eu tive uma época, tentei fazer com o Flash, né, a gente contratou.
+14:09 - Danielle Castro: Além do ponto, a gente tinha um outro produto deles, mas era muito gessado, então eu não conseguia, por exemplo, igual você colocou aí, gravar uma reunião, eu não conseguia mexer nas perguntas da avaliação do desempenho, sabe?
+14:27 - Danielle Castro: Era um negócio muito gessado.
+14:29 - Danielle Castro: Acabou que eu parei de usar, porque eu estava tendo dois trabalhos, entendeu?
+14:35 - Danielle Castro: Entendi.
+14:36 - Danielle Castro: O jeito que você está me colocando, eu consigo simplesmente ver o resultado dele no meu sistema, copiar e colar aí.
+14:44 - Victor Henrique Aguiar Gutierrez Duarte: Basicamente isso.
+14:46 - Victor Henrique Aguiar Gutierrez Duarte: Exato.
+14:46 - Victor Henrique Aguiar Gutierrez Duarte: Então, aí que tá.
+14:47 - Victor Henrique Aguiar Gutierrez Duarte: Eu quero saber, você vai trazer de repente alguns dados, tá?
+14:50 - Victor Henrique Aguiar Gutierrez Duarte: E aí você, por exemplo, qual que é o nome do sistema?
+14:53 - Victor Henrique Aguiar Gutierrez Duarte: É um sistema de atendimento deles?
+14:54 - Victor Henrique Aguiar Gutierrez Duarte: Qual sistema que é que mede isso?
+14:56 - Danielle Castro: Eu chamo a Guia.
+14:57 - Victor Henrique Aguiar Gutierrez Duarte: Guia, tá, beleza.
+14:59 - Victor Henrique Aguiar Gutierrez Duarte: Quais são as métricas principais então?
+15:00 - Victor Henrique Aguiar Gutierrez Duarte: Já anotei aqui, tá?
+15:02 - Danielle Castro: C, MT, aí a gente separa TMA de atendimento VoIP, TMA de atendimento de alarme, TMA de VoIP, TMA de alarme, volume de chamadas atendidas, volume de alarmes atendidos, nota de qualidade, Você não falou TMA?
+15:22 - Victor Henrique Aguiar Gutierrez Duarte: Você falou TMA.
+15:23 - Victor Henrique Aguiar Gutierrez Duarte: O que eu faria?
+15:23 - Victor Henrique Aguiar Gutierrez Duarte: Vamos criar uma sessão aqui só de TMA.
+15:25 - Victor Henrique Aguiar Gutierrez Duarte: Acho que você falou TMA, não foi?
+15:27 - Danielle Castro: Isso.
+15:28 - Victor Henrique Aguiar Gutierrez Duarte: TMA.
+15:28 - Victor Henrique Aguiar Gutierrez Duarte: Aqui é uma sessão só de TMA.
+15:29 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso criar uma pergunta dentro de TMA?
+15:31 - Victor Henrique Aguiar Gutierrez Duarte: Sei lá, número de chamados...
+15:33 - Victor Henrique Aguiar Gutierrez Duarte: O que é o TMA?
+15:33 - Victor Henrique Aguiar Gutierrez Duarte: Me explica.
+15:35 - Danielle Castro: Tempo, média e atendimento.
+15:37 - Danielle Castro: Em quantos segundos ele atendeu a chamada?
+15:40 - Victor Henrique Aguiar Gutierrez Duarte: Isso é uma média?
+15:41 - Danielle Castro: O sistema dá uma média?
+15:43 - Danielle Castro: Por exemplo, até quatro segundos ele é excelente.
+15:47 - Danielle Castro: De 5 a 7 segundos?
+15:50 - Danielle Castro: Bom, de 8 a 10 segundos, excelente.
+15:58 - Danielle Castro: Bom, aí tem uma outra lá e depois, acima de 10 segundos, insuficiente, vamos dizer assim.
+16:05 - Victor Henrique Aguiar Gutierrez Duarte: Ah, entendi, aí é insuficiente.
+16:08 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom, escolha única.
+16:10 - Victor Henrique Aguiar Gutierrez Duarte: A gente vai fazer por classificação e aí nessa classificação a gente vai fazer assim, ó, é melhor deixar desse jeito, de 1 a 10 segundos, Você instrui o gestor, nota 1.
+16:20 - Victor Henrique Aguiar Gutierrez Duarte: Vai instruindo assim, de repente fica mais fácil.
+16:22 - Victor Henrique Aguiar Gutierrez Duarte: Porque depois, quando a gente tiver as notas aqui, a gente vai dizer exatamente aqui, olha como vai ficar.
+16:29 - Victor Henrique Aguiar Gutierrez Duarte: Seu gestor vai te apoiar ou é você que vai lançar isso?
+16:31 - Victor Henrique Aguiar Gutierrez Duarte: Quero entender também.
+16:34 - Danielle Castro: Não, eu devo lançar sozinha e eles aplicam o feedback.
+16:41 - Victor Henrique Aguiar Gutierrez Duarte: É, acho que o mais difícil é a gente engajar gestor, né?
+16:44 - Danielle Castro: Eu, inclusive, tenho falado muito.
+16:46 - Danielle Castro: Geralmente eu participo dessa conversa, sabe?
+16:49 - Victor Henrique Aguiar Gutierrez Duarte: Entendi, entendi.
+16:50 - Victor Henrique Aguiar Gutierrez Duarte: É que são poucos gestores.
+16:52 - Danielle Castro: Quantos gestores temos hoje na empresa?
+16:53 - Danielle Castro: Na verdade, aqui na central, são três.
+16:58 - Danielle Castro: Então, é uma de urno, que eu chamo, né?
+17:02 - Danielle Castro: E os dois plantanistas noturnos, cada um responsável por um plantão.
+17:07 - Danielle Castro: Aí cada um tem uma equipe, entendeu?
+17:09 - Danielle Castro: A equipe do...
+17:10 - Danielle Castro: Todo mundo que trabalha durante o dia, Sr.
+17:12 - Danielle Castro: Paulo e a Juliane.
+17:14 - Danielle Castro: Aí à noite eu tenho a turma de um e são duas turmas separadas.
+17:19 - Victor Henrique Aguiar Gutierrez Duarte: Entendi.
+17:20 - Victor Henrique Aguiar Gutierrez Duarte: Legal.
+17:21 - Victor Henrique Aguiar Gutierrez Duarte: Obrigado por me explicar.
+17:22 - Victor Henrique Aguiar Gutierrez Duarte: Perfeito.
+17:23 - Victor Henrique Aguiar Gutierrez Duarte: Eu só quero saber se, de repente, a gente não convence os seus outros pares, gestores, a colaborarem, a entenderem, a aprenderem, porque depois, dando as notas onde tem que dar, você é a pessoa que dá os dados.
+17:33 - Victor Henrique Aguiar Gutierrez Duarte: Eles só vão ter que avaliar o colaborador.
+17:35 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que eles podem te ajudar.
+17:37 - Danielle Castro: Ok.
+17:38 - Victor Henrique Aguiar Gutierrez Duarte: No final, está vendo esse gráfico de atendas expectativas?
+17:40 - Victor Henrique Aguiar Gutierrez Duarte: Eu vou trazer isso para você.
+17:42 - Victor Henrique Aguiar Gutierrez Duarte: Por números.
+17:43 - Victor Henrique Aguiar Gutierrez Duarte: Então, tudo vai ser conversa e vai se traduzir exatamente nisso mesmo, tá?
+17:47 - Victor Henrique Aguiar Gutierrez Duarte: Eu acho que a gente chegou, de repente, num...
+17:49 - Victor Henrique Aguiar Gutierrez Duarte: Está vendo que eu tenho margem para progredir, alguns têm margem para progredir?
+17:54 - Danielle Castro: Eu consigo criar, tipo, essa avaliação aí para central, aí para um gerente comercial, uma outra avaliação com outros indicadores com...
+18:06 - Victor Henrique Aguiar Gutierrez Duarte: Dá para entender.
+18:07 - Victor Henrique Aguiar Gutierrez Duarte: Dá porque, ó, só para você entender comigo, vamos chamar de avaliação do zero, rapidão, é rapidão mesmo.
+18:15 - Victor Henrique Aguiar Gutierrez Duarte: Olha o tipo de... eu posso fazer uma autoavaliação, avaliação de gestão subordinada ou par, tudo bem, isso aqui é só a verticalidade, autoavaliação e gestor.
+18:22 - Victor Henrique Aguiar Gutierrez Duarte: Que mais que eu tenho?
+18:23 - Victor Henrique Aguiar Gutierrez Duarte: Quem vai ser avaliado?
+18:24 - Victor Henrique Aguiar Gutierrez Duarte: Aí eu vou escolher.
+18:25 - Victor Henrique Aguiar Gutierrez Duarte: Seleção personalizada.
+18:27 - Victor Henrique Aguiar Gutierrez Duarte: Posso escolher um grupo.
+18:28 - Danielle Castro: E é isso aí.
+18:30 - Victor Henrique Aguiar Gutierrez Duarte: Pronto.
+18:30 - Victor Henrique Aguiar Gutierrez Duarte: Equipe de finanças.
+18:32 - Danielle Castro: Peguei.
+18:32 - Danielle Castro: Aí eu posso criar uma outra, escolher outra.
+18:35 - Victor Henrique Aguiar Gutierrez Duarte: Pode.
+18:36 - Victor Henrique Aguiar Gutierrez Duarte: Pode, mas pode.
+18:37 - Victor Henrique Aguiar Gutierrez Duarte: Então pronto, resolvida, né?
+18:39 - Victor Henrique Aguiar Gutierrez Duarte: Resolvida.
+18:40 - Victor Henrique Aguiar Gutierrez Duarte: E aí, aquela visãozinha, quanto mais você, enfim, vai aderindo à factual, gente, claro que espera isso, você vai tendo mais coisas.
+18:46 - Victor Henrique Aguiar Gutierrez Duarte: Então, por exemplo, o seu desempenho já é traduzido nessa telinha bonitinha, os treinamentos também, como eu comentei, os objetivos.
+18:53 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho uma meta de três meses, trazer tanto de receita.
+18:55 - Victor Henrique Aguiar Gutierrez Duarte: Se você tem várias pessoas querendo trazer tanto de receita, você traz no sistema e a gente vai medindo se vocês vão chegar na meta ou não.
+19:03 - Victor Henrique Aguiar Gutierrez Duarte: Tem toda uma questão de fazer tracking, desses objetivos, olha a Helena Howard, ela tem que melhorar a eficácia da gestão da equipe, ela tem que aumentar em 15%, ela conseguiu?
+19:13 - Victor Henrique Aguiar Gutierrez Duarte: Não conseguiu?
+19:14 - Victor Henrique Aguiar Gutierrez Duarte: Vamos ver.
+19:15 - Victor Henrique Aguiar Gutierrez Duarte: Então se sentar e der bruxo aqui dá pra fazer bastante coisa, não precisa chegar nesse nível de complexidade, mas você tem esse poder, faz sentido?
+19:25 - Danielle Castro: O segredo é começar certinho também, né?
+19:28 - Danielle Castro: Porque se a gente já começa atrapalhado...
+19:30 - Danielle Castro: Eu acho que o que meio que também deu uma desanimada com o Flash foi que o início foi muito manual.
+19:39 - Danielle Castro: Eu tinha que cadastrar funcionário por funcionário.
+19:42 - Danielle Castro: Não conseguia importar uma planeira lá pra dentro.
+19:45 - Danielle Castro: Sério?
+19:46 - Danielle Castro: Então foi mais buído, assim.
+19:50 - Victor Henrique Aguiar Gutierrez Duarte: Aqui não vou prometer que a gente também vai fazer em uma semana.
+19:54 - Victor Henrique Aguiar Gutierrez Duarte: Entretanto, porém, desempenho é fácil de instalar.
+19:57 - Victor Henrique Aguiar Gutierrez Duarte: A gente sobe os colaboradores em massa por planilha, muito simples.
+20:00 - Victor Henrique Aguiar Gutierrez Duarte: Nome sobre nome, data de admissão e email.
+20:03 - Victor Henrique Aguiar Gutierrez Duarte: Tem que ter email, tá?
+20:04 - Victor Henrique Aguiar Gutierrez Duarte: Pode ser virtual.
+20:06 - Victor Henrique Aguiar Gutierrez Duarte: A gente sobe todo mundo em massa.
+20:07 - Victor Henrique Aguiar Gutierrez Duarte: Normalmente na primeira hora de treinar aqui de onboard você já faz isso, entende?
+20:11 - Victor Henrique Aguiar Gutierrez Duarte: Aqui vocês têm um tamanho de empresa que já tem um gerente de contas, uma pessoa única que cuida do pós-venda, fora a implementação, tá?
+20:20 - Victor Henrique Aguiar Gutierrez Duarte: Mas aí vamos tirar todas as suas dúvidas e saber os próximos passos.
+20:23 - Victor Henrique Aguiar Gutierrez Duarte: O sistema te atendeu?
+20:24 - Victor Henrique Aguiar Gutierrez Duarte: É aquilo que você buscava inicialmente?
+20:28 - Victor Henrique Aguiar Gutierrez Duarte: É.
+20:28 - Danielle Castro: Maravilha.
+20:29 - Victor Henrique Aguiar Gutierrez Duarte: Desempenho aqui, não?
+20:30 - Danielle Castro: A gente tava caminhando pra Planilha no drive, pra você ter uma ideia.
+20:37 - Victor Henrique Aguiar Gutierrez Duarte: Ah, tem que ser criativo nesses momentos, né?
+20:40 - Victor Henrique Aguiar Gutierrez Duarte: Mas se tiver espaço e abertura, a diretoria que comentou que queria um sistema desse, então você tem endosso, acho, né?
+20:47 - Danielle Castro: É, só que eu estou tentando ver a questão de custo também, né?
+20:51 - Danielle Castro: E como a gente já tem essa, parece que tem uma condição diferenciada para quem é... iFood. iFood, né?
+20:58 - Danielle Castro: Aí o fiado não custa olhar ou não, a gente já tem, né?
+21:01 - Victor Henrique Aguiar Gutierrez Duarte: Claro, mas a mais importante é a ferramenta de atender e aí o preço é a parte mais gostosa de negociar aqui.
+21:07 - Victor Henrique Aguiar Gutierrez Duarte: Eu adorava quando era do time de vendas, hoje não sou diretamente, mas eu acho que é bem honesto para o tamanho de empresa.
+21:13 - Victor Henrique Aguiar Gutierrez Duarte: Hoje a gente tem 50 pessoas, é isso, mais ou menos?
+21:17 - Danielle Castro: Deixa eu só confirmar aqui, ok.
+21:35 - Victor Henrique Aguiar Gutierrez Duarte: São 5 pessoas. 50 pessoas, maravilha.
+21:39 - Victor Henrique Aguiar Gutierrez Duarte: Eu já tenho um preço aqui, já vou te passar agora sem... pra você não ficar com nenhuma dúvida, tá?
+21:44 - Victor Henrique Aguiar Gutierrez Duarte: Só me ajuda a decidir, então, se a gente vai abraçar o módulo de desempenho completo, vai, né?
+21:49 - Victor Henrique Aguiar Gutierrez Duarte: Desempenho, tudo que eu te mostrei, de avaliações, sim.
+21:52 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de clima, é uma questão que te interessa?
+21:54 - Victor Henrique Aguiar Gutierrez Duarte: Pesquisa de... pesquisa diversas e de clima, faz sentido ou não?
+21:59 - Danielle Castro: Então, a gente tem o selo JTTW, Jana.
+22:02 - Danielle Castro: Então, todo ano eu rodo a pesquisa do... do GPTW.
+22:09 - Danielle Castro: Eu não rodo nenhum mando.
+22:11 - Danielle Castro: Ah, que legal.
+22:14 - Danielle Castro: No final de ano, em outubro, que é o vez-feito do 9-0, a gente... o GPTW libera lá a plataforma e os meninos fazem.
+22:28 - Danielle Castro: Todo mundo responde por lá.
+22:29 - Victor Henrique Aguiar Gutierrez Duarte: Ah, beleza.
+22:30 - Victor Henrique Aguiar Gutierrez Duarte: Maravilha.
+22:30 - Victor Henrique Aguiar Gutierrez Duarte: Tem uma unidade, acho que é na França, da GPTW, que usa Factorial.
+22:34 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem umas parcerias legais, tem o Greenpeace também, então a gente é bastante focado nisso também.
+22:39 - Victor Henrique Aguiar Gutierrez Duarte: Legal que você não precisa.
+22:40 - Victor Henrique Aguiar Gutierrez Duarte: Então tira, pesquisa, porque você já faz isso.
+22:43 - Victor Henrique Aguiar Gutierrez Duarte: Agora, pesquisa de benefício, satisfação, qualquer tipo de pesquisa que você quiser fazer, se te interessa lá na frente, a gente põe.
+22:49 - Victor Henrique Aguiar Gutierrez Duarte: Então deixa eu montar aqui.
+22:50 - Victor Henrique Aguiar Gutierrez Duarte: Estou montando, tá?
+22:51 - Victor Henrique Aguiar Gutierrez Duarte: A base do sistema já vai com admissão digital e assinatura de documentos.
+22:54 - Victor Henrique Aguiar Gutierrez Duarte: Lembra que eu falei pra você de assinatura de eulerite, contracheque, contrato?
+22:58 - Victor Henrique Aguiar Gutierrez Duarte: Não.
+22:59 - Victor Henrique Aguiar Gutierrez Duarte: Vai te ajudar.
+23:00 - Victor Henrique Aguiar Gutierrez Duarte: Nota fiscal de PJ também.
+23:01 - Victor Henrique Aguiar Gutierrez Duarte: Já tá no sistema base.
+23:02 - Victor Henrique Aguiar Gutierrez Duarte: É obrigatório.
+23:03 - Victor Henrique Aguiar Gutierrez Duarte: Desempenho.
+23:04 - Victor Henrique Aguiar Gutierrez Duarte: Beleza.
+23:05 - Victor Henrique Aguiar Gutierrez Duarte: Ó, vou compartilhar a tela, tá?
+23:07 - Victor Henrique Aguiar Gutierrez Duarte: Deixa eu ver que eu não tô mentindo pra você.
+23:12 - Victor Henrique Aguiar Gutierrez Duarte: Tá vendo o meu Excel?
+23:13 - Danielle Castro: Tô.
+23:15 - Danielle Castro: Nove raiz da base.
+23:15 - Victor Henrique Aguiar Gutierrez Duarte: Ó, ó, ó, ó, ó, ó, ó, ó, ó, ó.
+23:19 - Victor Henrique Aguiar Gutierrez Duarte: No final a gente sempre vai usar, né?
+23:23 - Victor Henrique Aguiar Gutierrez Duarte: Muito bom.
+23:23 - Victor Henrique Aguiar Gutierrez Duarte: Ó, a base de sistema obrigatória tem que ter sempre no pacote.
+23:26 - Victor Henrique Aguiar Gutierrez Duarte: Então, organograma, cargos, tudo aquilo que eu comentei ali por cima, tá?
+23:31 - Victor Henrique Aguiar Gutierrez Duarte: Desempenho, as avaliações, cruzadas, enfim, os relatórios.
+23:37 - Victor Henrique Aguiar Gutierrez Duarte: O one-on-one, que é aquela conversa que eu te mostrei, ela está em pesquisas, então ela fica aqui, tá?
+23:43 - Victor Henrique Aguiar Gutierrez Duarte: Só isso, R$16 por colaborador mensal. 16 vezes 50, 800 reais mensais.
+23:52 - Victor Henrique Aguiar Gutierrez Duarte: Descontos de 10% da Ifood vezes 0.9, 720 reais mensais.
+23:58 - Victor Henrique Aguiar Gutierrez Duarte: Organograma, tira muitas planilhas de pessoas, faz o seu desempenho, deixa armazenado ali.
+24:05 - Victor Henrique Aguiar Gutierrez Duarte: O que você acha?
+24:10 - Danielle Castro: Eu tenho que chorar preso.
+24:12 - Danielle Castro: Eu achei que era mais um...
+24:14 - Danielle Castro: Não é caro.
+24:15 - Danielle Castro: Não é caro.
+24:17 - Danielle Castro: Mas eu achei que fosse algo um pouco menor.
+24:22 - Victor Henrique Aguiar Gutierrez Duarte: Então, hoje é mais ou menos isso mesmo, tá?
+24:26 - Victor Henrique Aguiar Gutierrez Duarte: Conhecendo um pouco de mercado de flutuações, eu acho que você pode encontrar algo próximo ali de 600, mas muitos acima também.
+24:34 - Victor Henrique Aguiar Gutierrez Duarte: Kitcherox, já ouviu falar?
+24:35 - Danielle Castro: Vamos falar de alguns fornecedores, tá?
+24:37 - Victor Henrique Aguiar Gutierrez Duarte: Kitcherox, extremamente cara, boa, muito bom para analytics, tá?
+24:40 - Victor Henrique Aguiar Gutierrez Duarte: Ela é focada nisso, mas ela não tem PES e MDP, então não te ajuda muito com contrato, informações, não te permite crescer tanto, assim.
+24:46 - Victor Henrique Aguiar Gutierrez Duarte: Só, Alites, conhecemos bastante, tá?
+24:50 - Danielle Castro: Faz as avaliações também.
+24:51 - Victor Henrique Aguiar Gutierrez Duarte: Gente, já ouviu.
+24:52 - Victor Henrique Aguiar Gutierrez Duarte: Já ouviu?
+24:52 - Victor Henrique Aguiar Gutierrez Duarte: O que você achou?
+24:54 - Danielle Castro: Na época eu não cuidava disso, então eu sou mais suspeita para falar.
+24:57 - Danielle Castro: Eu respondia as pesquisas, assim, porque na época a gente tinha uma pessoa de RH, né?
+25:01 - Victor Henrique Aguiar Gutierrez Duarte: Hoje Hoje sou eu.
+25:04 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+25:05 - Victor Henrique Aguiar Gutierrez Duarte: Dani, você que cuida de mais questões, por exemplo, você cuida do financeiro também de alguma parte?
+25:08 - Danielle Castro: Não.
+25:09 - Victor Henrique Aguiar Gutierrez Duarte: Tá.
+25:10 - Victor Henrique Aguiar Gutierrez Duarte: Tem um gestor financeiro que cuida de despesa de colaborador?
+25:14 - Danielle Castro: Tem, ele cuida de tudo.
+25:16 - Victor Henrique Aguiar Gutierrez Duarte: Ótimo.
+25:16 - Victor Henrique Aguiar Gutierrez Duarte: Eu trago lá na frente, se você entender, a Factorial não vai ser só um sistema de RH.
+25:20 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho gestor de despesa, analítica de despesa, quanto eu tô gastando em folha, que contrato tá vencendo.
+25:24 - Victor Henrique Aguiar Gutierrez Duarte: Essas informações podem ser adicionadas na Factorial, o máximo que você vai pagar é 25 reais por mês.
+25:29 - Victor Henrique Aguiar Gutierrez Duarte: Entende?
+25:30 - Victor Henrique Aguiar Gutierrez Duarte: Então, a gente é muito forte em centralização, novas tecnologias, tá?
+25:37 - Victor Henrique Aguiar Gutierrez Duarte: E conversas e reports.
+25:39 - Victor Henrique Aguiar Gutierrez Duarte: A gente tem relatórios de tudo, eu nem te mostrei.
+25:41 - Victor Henrique Aguiar Gutierrez Duarte: Mas, enfim, isso é mais ou menos o preço que eu acho que você vai encontrar.
+25:45 - Victor Henrique Aguiar Gutierrez Duarte: Se você entender que, pô, Vitor, beleza, dá pra chegar numa coisa um pouquinho menor, mas não tanto, a gente tenta trazer uns 12% de desconto, mas não tem como baixar muito disso, tá?
+25:57 - Danielle Castro: Tá.
+25:59 - Danielle Castro: Espera aí, eu ia fazer, a pergunta tava na ponta da língua aqui.
+26:05 - Danielle Castro: Ah, sensibilidade?
+26:07 - Victor Henrique Aguiar Gutierrez Duarte: Doze meses, e a gente tem uma multa de 30% em cima das mensalidades remanescentes.
+26:13 - Victor Henrique Aguiar Gutierrez Duarte: Você cancelar gratuitamente em 30 dias, tá?
+26:18 - Danielle Castro: Tá, tá.
+26:18 - Danielle Castro: Passou os 30 dias, cancelar antes de um ano, 30% das mensalidades voltando a ser em um ano.
+26:24 - Danielle Castro: Exatamente.
+26:25 - Danielle Castro: Desse plano que você montou aí, tem algo que a gente conseguiria tirar para dar uma reduzida?
+26:36 - Victor Henrique Aguiar Gutierrez Duarte: Eu acredito que sim.
+26:37 - Victor Henrique Aguiar Gutierrez Duarte: Aí eu posso te mostrar o seguinte, você lembra que a gente falou de O desempenho, de repente, talvez não precisa tanto.
+26:45 - Victor Henrique Aguiar Gutierrez Duarte: Se você quer registrar os feedbacks e coletar informações dos colaboradores, de repente, o módulo de pesquisas e base que é obrigatório ficaria 11,80, entendeu?
+26:55 - Victor Henrique Aguiar Gutierrez Duarte: Vitor, eu posso abrir mão, de repente, dessas conversas e deixar registrado só na avaliação de desempenho?
+27:00 - Victor Henrique Aguiar Gutierrez Duarte: Tira pesquisas, avaliação de desempenho, traz mais dados.
+27:03 - Danielle Castro: A gente falou de tirar a gravação da conversa.
+27:12 - Victor Henrique Aguiar Gutierrez Duarte: Essa é a prioridade para você?
+27:14 - Danielle Castro: Não.
+27:16 - Danielle Castro: Você fala ter gravado a conversa que eu tive com o colaborador.
+27:20 - Danielle Castro: Isso, faz parte do modo de pesquisa.
+27:22 - Danielle Castro: Não, a gente pode registrar, acho que avaliação lá e ele assim...
+27:27 - Victor Henrique Aguiar Gutierrez Duarte: Eu também acho.
+27:29 - Victor Henrique Aguiar Gutierrez Duarte: Eu também acho.
+27:30 - Victor Henrique Aguiar Gutierrez Duarte: E depois, enfim, a gente evolui. 9 aqui, 9 reais mais 4,20. 13 e 20, tá? 13,20 vezes 50, 660.
+27:39 - Victor Henrique Aguiar Gutierrez Duarte: Mais o descontinho do iFluid.
+27:43 - Victor Henrique Aguiar Gutierrez Duarte: Mais...
+27:44 - Victor Henrique Aguiar Gutierrez Duarte: Opa, perdão.
+27:45 - Victor Henrique Aguiar Gutierrez Duarte: Vezes 0,9. 594.
+27:47 - Danielle Castro: Tá.
+27:50 - Danielle Castro: Essas 50 pessoas, a maior parte delas hoje, é da VGuard, né?
+27:56 - Danielle Castro: Que é a...
+27:58 - Danielle Castro: É porque dentro da Veiguard existem algumas empresas.
+28:07 - Danielle Castro: A Veiguard é um grupo de empresas, vamos dizer assim.
+28:09 - Danielle Castro: Então, eu tenho uma empresa de TI, eu tenho uma empresa de mercadinho autônomo, eu tenho uma empresa de rastreamento e tá tudo aqui, a gente tá todo mundo no mesmo ambiente.
+28:22 - Danielle Castro: Então, esses 50 estão somando o...
+28:25 - Victor Henrique Aguiar Gutierrez Duarte: O CNPJ.
+28:27 - Danielle Castro: Está somando o pessoal desses outros 32J, vamos dizer assim.
+28:31 - Danielle Castro: Entendi.
+28:31 - Danielle Castro: Se a gente optar por fazer só pela veguarde, e a gente vai ter um número menor que 50, esse valor aí muda?
+28:38 - Victor Henrique Aguiar Gutierrez Duarte: Claro, porque é proibida, né?
+28:40 - Danielle Castro: Ali é 9, está dando...
+28:42 - Danielle Castro: Aí está dando 13 e 20 por pessoa.
+28:46 - Danielle Castro: Exatamente.
+28:47 - Danielle Castro: Essa condição é para 50 pessoas ou se forem 40 pessoas o valor é esse mesmo?
+28:53 - Victor Henrique Aguiar Gutierrez Duarte: O valor é esse mesmo, não, esse é o nosso valor padrão, tem o mínimo de 10, tá?
+28:56 - Victor Henrique Aguiar Gutierrez Duarte: Fica tranquila.
+28:58 - Danielle Castro: Ah não, entendi.
+28:59 - Danielle Castro: Então é no mínimo 10.
+29:00 - Danielle Castro: No mínimo 10, tá?
+29:02 - Danielle Castro: Tá.
+29:04 - Danielle Castro: Porque a nossa ideia, a ideia do Flippy é que todo mundo faça, porque acaba que O Filipe cuida mais da portaria, mas tem o gestor lá da empresa de teli, que é só os dele, então a ideia é que eles usem também, é só o de elevador usar também.
+29:22 - Danielle Castro: Só que pode ser que algum deles fale assim, ah não, o meu nesse momento não.
+29:27 - Danielle Castro: Mas só aposaria e vai diminuir o número de pessoas aí, por isso que eu tô perguntando.
+29:32 - Victor Henrique Aguiar Gutierrez Duarte: Eu tive uma ideia também.
+29:33 - Victor Henrique Aguiar Gutierrez Duarte: Se você, por exemplo, vamos supor que os seus colaboradores, não sei se todos vão interagir com a avaliação de desempenho, sabe?
+29:38 - Victor Henrique Aguiar Gutierrez Duarte: Então eu tava pensando assim, ah, às vezes você só quer começar avaliando o corpo de gerência, 15 pessoas.
+29:45 - Victor Henrique Aguiar Gutierrez Duarte: Você pode contratar para menos vidas, de repente, fazer um teste.
+29:48 - Victor Henrique Aguiar Gutierrez Duarte: O que vai mudar, na verdade, é a qualidade do atendimento de pós-venda por quê?
+29:54 - Victor Henrique Aguiar Gutierrez Duarte: Quando você fecha para mais vidas, você entra num bloco de atendimento, com a board com uma pessoa.
+29:59 - Victor Henrique Aguiar Gutierrez Duarte: Se você está com 10 pessoas, não tem como colocar uma pessoa para te treinar, se você tem 40 da.
+30:04 - Victor Henrique Aguiar Gutierrez Duarte: São mais ou menos esses níveis de suporte que mudam.
+30:07 - Danielle Castro: Entendi.
+30:10 - Danielle Castro: Mas eu acho que a ideia é começar pelo menos assim, a parte de importaria, Principalmente a galera CLT tem muita coisa aí que vai me ajudar muito.
+30:21 - Danielle Castro: E hoje é igual eu falei, ou tá em planilha, ou tá em arquivo com papel assinado, papel físico assinado e tal.
+30:30 - Danielle Castro: Então, acho que se a gente for caminhar com isso aí, vai ser pra todo mundo, sabe?
+30:36 - Danielle Castro: Não vai ser...
+30:37 - Danielle Castro: Não vai ser fragmentado.
+30:38 - Danielle Castro: Às vezes ele quer, começa só com os gerentes, depois vai aumentar, mas eu não acredito, não.
+30:44 - Victor Henrique Aguiar Gutierrez Duarte: Como você quiser.
+30:47 - Victor Henrique Aguiar Gutierrez Duarte: Aqui é o meu ambiente como colaborador.
+30:50 - Victor Henrique Aguiar Gutierrez Duarte: Realmente eu faço tudo.
+30:50 - Victor Henrique Aguiar Gutierrez Duarte: O meu contra-cheque, se eu tenho dúvida do meu salário, se tem algum comunicado.
+30:54 - Victor Henrique Aguiar Gutierrez Duarte: Esse aqui é o meu sistema hoje, quem está fora da empresa.
+30:57 - Victor Henrique Aguiar Gutierrez Duarte: Os emojis bonitinhos, os links, os tickets que eu tenho que mandar para o meu TI.
+31:01 - Danielle Castro: E eles conversam, tipo assim, eu estou vendo ali umas comunidades e tal.
+31:06 - Danielle Castro: Isso é a sua empresa?
+31:08 - Victor Henrique Aguiar Gutierrez Duarte: Isso é a minha empresa.
+31:11 - Victor Henrique Aguiar Gutierrez Duarte: Isso já está no seu pacote, já está no plano, inclusive.
+31:14 - Danielle Castro: A gente pode lançar lá então comunicados, por exemplo, aniversariante do dia, a gente pode colocar aí, um colaborador consegue visualizar o perfil do outro, não os resultados.
+31:26 - Victor Henrique Aguiar Gutierrez Duarte: Lógico, lógico, sim.
+31:29 - Danielle Castro: A gente quer saber todo dia como é que você está consultado seu humor, então usa um emoji lá.
+31:34 - Victor Henrique Aguiar Gutierrez Duarte: A pesquisa de pulso, a hora que ele abre a plataforma, aparece uma carinha aí para ele colocar um comentário se ele quiser.
+31:40 - Victor Henrique Aguiar Gutierrez Duarte: Isso é legal também.
+31:43 - Victor Henrique Aguiar Gutierrez Duarte: Os aniversários daqui da Thalita, aniversário aqui, eu posso clicar e dar um parabéns para ela.
+31:47 - Victor Henrique Aguiar Gutierrez Duarte: Isso já está no plano de desempenho.
+31:51 - Victor Henrique Aguiar Gutierrez Duarte: É tudo centralizado, bonitinho, é uma tecnologia muito boa.
+31:55 - Victor Henrique Aguiar Gutierrez Duarte: E aí, vê qual é a prioridade, vê que orçamento você tem, sente um pouco do Felipe que você comentou.
+32:00 - Danielle Castro: Tem que mandar esse material pra ele, esse tudo gravado, né, que a Rebecca falou.
+32:07 - Danielle Castro: Porque essa semana ele tá fora, que ele tá fazendo um MBA, então ele tá a semana inteira fora.
+32:12 - Danielle Castro: Então eu vou mandar o link pra ele, pra ele dar uma assistida.
+32:16 - Victor Henrique Aguiar Gutierrez Duarte: Pode ser, eu posso mandar um PDF também, não sei se ele vai ter tempo de ver uma hora, posso mandar um PDF só com as telas também.
+32:23 - Danielle Castro: Ah, eu acho legal.
+32:27 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom.
+32:27 - Victor Henrique Aguiar Gutierrez Duarte: Também acho que sim.
+32:29 - Victor Henrique Aguiar Gutierrez Duarte: De repente vai sondando com ele, ver o que ele acha de investimento, claro, a gente pode tentar, enfim, encaixar uma coisa a outra, não tanto assim, mas sempre tem uma gordurinha.
+32:38 - Victor Henrique Aguiar Gutierrez Duarte: E aí me fala só que próximos passos, você quer que eu já te envie esse material o quanto antes?
+32:42 - Victor Henrique Aguiar Gutierrez Duarte: Quando que você conversa com o Felipe?
+32:46 - Danielle Castro: Não, eu confesso com ele o tempo inteiro.
+32:49 - Danielle Castro: Mas ele vai, pra ele analisar o material, ele deve analisar, sei lá, até o final do semana e a noite.
+32:58 - Danielle Castro: Eu vou mandar pra ele, assim que você me mandar o link, o material, eu já vou mandar pra ele.
+33:04 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom, perfeito.
+33:05 - Victor Henrique Aguiar Gutierrez Duarte: Eu posso te chamar no WhatsApp pra mandar as coisas por lá?
+33:08 - Victor Henrique Aguiar Gutierrez Duarte: Pode, claro.
+33:09 - Victor Henrique Aguiar Gutierrez Duarte: Ou não?
+33:09 - Victor Henrique Aguiar Gutierrez Duarte: Eu tenho aqui já, tá?
+33:10 - Victor Henrique Aguiar Gutierrez Duarte: Aqui é o 31-9-8-3-7-1-2-6-3-1.
+33:13 - Victor Henrique Aguiar Gutierrez Duarte: Isso, pode me mandar aí.
+33:15 - Victor Henrique Aguiar Gutierrez Duarte: Tá em Mineira?
+33:16 - Danielle Castro: É, gente, é de Belo Horizonte.
+33:19 - Victor Henrique Aguiar Gutierrez Duarte: Eu comprei um doce de leite muito bom aí.
+33:21 - Victor Henrique Aguiar Gutierrez Duarte: Acho que está suzerano, alguma coisa assim.
+33:23 - Victor Henrique Aguiar Gutierrez Duarte: Nossa, é maravilhoso.
+33:23 - Victor Henrique Aguiar Gutierrez Duarte: Ele é docinho, molinho, maravilhoso.
+33:26 - Danielle Castro: Adoro minas.
+33:28 - Danielle Castro: Eu sou mais da turma do pão de queijo, do sal gato.
+33:30 - Victor Henrique Aguiar Gutierrez Duarte: Dani, eu comprei um pão de queijo que eu coloquei no forno e você não tem ideia.
+33:34 - Victor Henrique Aguiar Gutierrez Duarte: Ele ficou desse tamanho.
+33:35 - Victor Henrique Aguiar Gutierrez Duarte: Ele ficou, parecia um bolo de queijo.
+33:37 - Victor Henrique Aguiar Gutierrez Duarte: Nossa senhora, que lindo.
+33:41 - Victor Henrique Aguiar Gutierrez Duarte: Ai, que vou adorar conversar com o pessoal de Minas.
+33:44 - Victor Henrique Aguiar Gutierrez Duarte: Tem muitos amigos aí.
+33:46 - Victor Henrique Aguiar Gutierrez Duarte: Então é isso.
+33:47 - Victor Henrique Aguiar Gutierrez Duarte: Fica então no aguardo de eu te mandar, né?
+33:49 - Danielle Castro: Você me mandando aqui, ele olhando, eu já te dou o feedback.
+33:53 - Victor Henrique Aguiar Gutierrez Duarte: Tá bom, vou tentar correr.
+33:54 - Victor Henrique Aguiar Gutierrez Duarte: Provavelmente até o final do dia, porque tem mais uma reunião logo em breve, vou tentar acelerar, mas até o final do dia eu já te mando algumas informações, tá bom?
+34:01 - Danielle Castro: Tá, já ia.
+34:02 - Victor Henrique Aguiar Gutierrez Duarte: Obrigadão, tá vindo.
+34:03 - Victor Henrique Aguiar Gutierrez Duarte: Obrigada, imagina que agradeço.
+34:04 - Danielle Castro: Boa tarde pra você, beijão.
+34:05 - Danielle Castro: Boa tarde, beijo, tchau.

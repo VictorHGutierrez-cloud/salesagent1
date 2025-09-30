@@ -1,0 +1,31 @@
+=== ESTRATÉGIA DE FOLLOW-UP ===
+
+RESUMO EXECUTIVO:
+Cliente do setor tecnologia com média prioridade (score 7.7/10). Principais dores: meta, que eu não estou entregando meta. Urgência moderada - agendar follow-up em 48h.
+
+OBJEÇÕES IDENTIFICADAS:
+• Objeção detectada: (?:muito\s+)?(?:caro|caro\s+demais)
+
+RESPOSTAS ESTRATÉGICAS:
+• Focar no ROI e economia de longo prazo. Apresentar casos de sucesso com retorno comprovado.
+
+TEMPLATE DE EMAIL:
+Assunto: Próximos passos - Cliente
+
+
+Olá Cliente,
+
+Obrigado pela reunião de hoje. Foi muito produtivo entender melhor suas necessidades.
+
+Baseado na nossa conversa, identifiquei algumas oportunidades interessantes:
+• meta, que eu não estou entregando meta
+
+Próximos passos sugeridos:
+• [Ação específica baseada no score de prioridade]
+• [Segunda ação]
+• [Terceira ação]
+
+Gostaria de agendar uma call de 15 minutos para discutirmos os detalhes?
+
+Atenciosamente,
+[Seu nome]
