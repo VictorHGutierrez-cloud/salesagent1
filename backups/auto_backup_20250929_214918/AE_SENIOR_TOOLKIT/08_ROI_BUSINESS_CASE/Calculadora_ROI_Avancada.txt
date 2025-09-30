@@ -1,0 +1,298 @@
+CALCULADORA ROI AVANÇADA - AE SENIOR
+===================================
+
+🎯 BUSINESS CASE MATADOR
+
+FRAMEWORK DE CÁLCULO ROI:
+========================
+
+VARIÁVEIS DE INPUT:
+• Número de funcionários: [N]
+• Salário médio RH: R$ [S]
+• Horas/mês em processos manuais: [H]
+• Taxa de erro atual: [E]%
+• Custo de retrabalho/erro: R$ [R]
+• Risco de multa/ano: R$ [M]
+• Ticket médio Factorial: R$ [T]
+
+FÓRMULAS BÁSICAS:
+================
+
+CUSTO ATUAL MENSAL:
+• Custo operacional = ([H] × [S]/160) × [N]
+• Custo de erros = ([E]/100 × [N] × [R])
+• Custo de risco = [M]/12
+• TOTAL = Operacional + Erros + Risco
+
+ECONOMIA COM FACTORIAL:
+• Redução operacional = 60% × Custo operacional
+• Redução erros = 90% × Custo de erros
+• Redução risco = 95% × Custo de risco
+• TOTAL ECONOMIA = Σ todas reduções
+
+ROI = (Economia Anual - Investimento Anual) / Investimento Anual × 100
+
+CENÁRIOS POR TAMANHO:
+====================
+
+EMPRESA PEQUENA (20-50 FUNCIONÁRIOS):
+=====================================
+
+CUSTOS ATUAIS:
+• 1 pessoa RH × 40h/mês processos manuais × R$ 5.000 = R$ 1.250/mês
+• 5% erro rate × 30 funcionários × R$ 500 = R$ 750/mês
+• Risco multa R$ 50.000/ano = R$ 4.167/mês
+TOTAL CUSTO: R$ 6.167/mês = R$ 74.000/ano
+
+INVESTIMENTO FACTORIAL:
+• 30 usuários × R$ 15 = R$ 450/mês = R$ 5.400/ano
+
+ECONOMIA:
+• 60% × R$ 1.250 = R$ 750/mês (operacional)
+• 90% × R$ 750 = R$ 675/mês (erros)
+• 95% × R$ 4.167 = R$ 3.959/mês (risco)
+TOTAL ECONOMIA: R$ 5.384/mês = R$ 64.608/ano
+
+ROI: (R$ 64.608 - R$ 5.400) / R$ 5.400 × 100 = 1.096%
+PAYBACK: 1,0 mês
+
+EMPRESA MÉDIA (100-300 FUNCIONÁRIOS):
+====================================
+
+CUSTOS ATUAIS:
+• 2 pessoas RH × 80h/mês × R$ 6.000 = R$ 6.000/mês
+• 3% erro rate × 200 funcionários × R$ 800 = R$ 4.800/mês
+• Risco multa R$ 200.000/ano = R$ 16.667/mês
+TOTAL CUSTO: R$ 27.467/mês = R$ 329.600/ano
+
+INVESTIMENTO FACTORIAL:
+• 200 usuários × R$ 12 = R$ 2.400/mês = R$ 28.800/ano
+
+ECONOMIA:
+• 60% × R$ 6.000 = R$ 3.600/mês (operacional)
+• 90% × R$ 4.800 = R$ 4.320/mês (erros)
+• 95% × R$ 16.667 = R$ 15.834/mês (risco)
+TOTAL ECONOMIA: R$ 23.754/mês = R$ 285.048/ano
+
+ROI: (R$ 285.048 - R$ 28.800) / R$ 28.800 × 100 = 890%
+PAYBACK: 1,2 meses
+
+EMPRESA GRANDE (500+ FUNCIONÁRIOS):
+==================================
+
+CUSTOS ATUAIS:
+• 5 pessoas RH × 160h/mês × R$ 8.000 = R$ 32.000/mês
+• 2% erro rate × 800 funcionários × R$ 1.200 = R$ 19.200/mês
+• Risco multa R$ 1.000.000/ano = R$ 83.333/mês
+TOTAL CUSTO: R$ 134.533/mês = R$ 1.614.400/ano
+
+INVESTIMENTO FACTORIAL:
+• 800 usuários × R$ 10 = R$ 8.000/mês = R$ 96.000/ano
+
+ECONOMIA:
+• 60% × R$ 32.000 = R$ 19.200/mês (operacional)
+• 90% × R$ 19.200 = R$ 17.280/mês (erros)
+• 95% × R$ 83.333 = R$ 79.167/mês (risco)
+TOTAL ECONOMIA: R$ 115.647/mês = R$ 1.387.764/ano
+
+ROI: (R$ 1.387.764 - R$ 96.000) / R$ 96.000 × 100 = 1.346%
+PAYBACK: 0,8 mês
+
+CALCULADORA INTERATIVA:
+======================
+
+INPUT SECTION:
+--------------
+[ ] Número de funcionários: ____
+[ ] Pessoas na equipe de RH: ____
+[ ] Salário médio RH: R$ ____
+[ ] Horas/mês em processos manuais: ____
+[ ] % de erro atual estimado: ____%
+[ ] Custo médio por erro: R$ ____
+[ ] Já tiveram multa trabalhista? (S/N): ____
+[ ] Valor da última multa: R$ ____
+[ ] Frequência de auditorias: ____
+
+AUTO-CALCULATION:
+-----------------
+Custo operacional atual: R$ ____/mês
+Custo de erros atual: R$ ____/mês
+Risco de compliance: R$ ____/mês
+TOTAL CUSTO ATUAL: R$ ____/mês
+
+Investimento Factorial: R$ ____/mês
+Economia operacional: R$ ____/mês
+Economia em erros: R$ ____/mês
+Redução de risco: R$ ____/mês
+ECONOMIA TOTAL: R$ ____/mês
+
+ROI ANUAL: _____%
+PAYBACK: ____ meses
+ECONOMIA LÍQUIDA ANO 1: R$ ____
+
+BUSINESS CASE NARRATIVO:
+=======================
+
+VERSÃO EXECUTIVA (CEO/CFO):
+"Investimento de R$ [X]/mês gera economia de R$ [Y]/mês.
+ROI de [Z]% e payback em [W] meses.
+Eliminação de 95% dos riscos de compliance.
+Liberação da equipe RH para foco estratégico."
+
+VERSÃO OPERACIONAL (CHRO):
+"Elimina [X] horas/mês de retrabalho.
+Reduz erros em 90%.
+Automatiza 100% dos processos manuais.
+Equipe RH pode focar em people development."
+
+VERSÃO TÉCNICA (CTO):
+"API REST completa, integração nativa com [SISTEMA].
+Zero downtime, backup automático, LGPD compliant.
+Implementação em 30 dias sem interrupção."
+
+FATORES DE RISCO/BENEFÍCIO:
+==========================
+
+FATORES QUE AUMENTAM ROI:
+• Número alto de funcionários
+• Muitos processos manuais
+• Alta taxa de erro
+• Histórico de multas
+• Crescimento acelerado
+• Múltiplas filiais
+• Compliance complexo
+
+FATORES QUE REDUZEM ROI:
+• Poucos funcionários (<20)
+• Processos já automatizados
+• Baixa taxa de erro
+• Nunca tiveram problemas
+• Equipe RH terceirizada
+• Sistema atual satisfatório
+
+BREAK-EVEN ANALYSIS:
+===================
+
+MÍNIMO VIÁVEL:
+• 15+ funcionários
+• 2+ pessoas RH
+• 20+ horas/mês processos manuais
+• Crescimento previsto
+
+SWEET SPOT:
+• 50-500 funcionários
+• 3-10 pessoas RH
+• 40+ horas/mês processos manuais
+• Histórico de problemas
+
+COMPARATIVO COM ALTERNATIVAS:
+============================
+
+FAZER NADA:
+• Custo: R$ [CUSTO ATUAL]/ano
+• Risco: Alto
+• Crescimento: Limitado
+• ROI: -100%
+
+DESENVOLVER INTERNO:
+• Custo: R$ [DESENVOLVIMENTO + MANUTENÇÃO]/ano
+• Risco: Muito alto
+• Timeline: 12+ meses
+• ROI: Negativo
+
+CONCORRENTE:
+• Custo: R$ [PREÇO CONCORRENTE]/ano
+• Funcionalidades: 70% da Factorial
+• Suporte: Limitado
+• ROI: [X]% menor
+
+FACTORIAL:
+• Custo: R$ [PREÇO FACTORIAL]/ano
+• Funcionalidades: 100%
+• Suporte: Full
+• ROI: [Y]%
+
+SENSIBILIDADE DO ROI:
+====================
+
+CENÁRIO CONSERVADOR (-20%):
+• Economia: R$ [ECONOMIA × 0.8]/ano
+• ROI: [ROI × 0.8]%
+• Payback: [PAYBACK × 1.2] meses
+
+CENÁRIO REALISTA (BASE):
+• Economia: R$ [ECONOMIA]/ano
+• ROI: [ROI]%
+• Payback: [PAYBACK] meses
+
+CENÁRIO OTIMISTA (+30%):
+• Economia: R$ [ECONOMIA × 1.3]/ano
+• ROI: [ROI × 1.3]%
+• Payback: [PAYBACK × 0.8] meses
+
+VALIDAÇÃO DO BUSINESS CASE:
+===========================
+
+CHECKPOINTS:
+✅ Números validados com cliente
+✅ Premissas confirmadas
+✅ Benchmarks de mercado
+✅ References similares
+✅ Aprovação stakeholders
+✅ Budget confirmado
+
+RED FLAGS:
+🚩 ROI > 1000% (muito otimista)
+🚩 Payback < 3 meses (irreal)
+🚩 Cliente questiona premissas
+🚩 Números não batem com realidade
+🚩 Comparação desfavorável
+🚩 CFO não compra business case
+
+APRESENTAÇÃO DO ROI:
+===================
+
+SLIDE 1 - EXECUTIVE SUMMARY:
+• Investimento: R$ [X]/mês
+• Economia: R$ [Y]/mês
+• ROI: [Z]%
+• Payback: [W] meses
+
+SLIDE 2 - BREAKDOWN:
+• Custo atual detalhado
+• Economia por categoria
+• Investimento detalhado
+• Timeline de retorno
+
+SLIDE 3 - SENSIBILIDADE:
+• Cenário conservador
+• Cenário base
+• Cenário otimista
+• Break-even analysis
+
+SLIDE 4 - COMPARATIVO:
+• Status quo
+• Build interno
+• Concorrentes
+• Factorial (recomendado)
+
+FERRAMENTAS DE APOIO:
+====================
+
+EXCEL CALCULATOR:
+• Template pronto
+• Fórmulas automáticas
+• Gráficos dinâmicos
+• Cenários múltiplos
+
+BUSINESS CASE DOC:
+• Template Word
+• Narrativa completa
+• Premissas detalhadas
+• Aprovações necessárias
+
+PRESENTATION DECK:
+• PowerPoint template
+• Slides executivos
+• Gráficos de impacto
+• Next steps claros

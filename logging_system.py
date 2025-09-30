@@ -111,7 +111,7 @@ class StructuredLogger:
         self._analysis_thread = None
         self._stop_analysis = threading.Event()
         
-        logger.info("Sistema de logs estruturado inicializado")
+        logger.info("Sistema de logs estruturado inicializado", extra={"category": "SYSTEM"})
     
     def _load_logging_config(self) -> Dict:
         """Carrega configuração de logging"""
@@ -367,7 +367,7 @@ class StructuredLogger:
         self._analysis_thread = threading.Thread(target=self._analysis_loop, daemon=True)
         self._analysis_thread.start()
         
-        logger.info("Análise de logs iniciada")
+        logger.info("Análise de logs iniciada", extra={"category": "SYSTEM"})
     
     def stop_analysis(self):
         """Para análise de logs"""

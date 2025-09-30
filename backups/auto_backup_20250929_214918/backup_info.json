@@ -1,0 +1,19 @@
+{
+  "name": "auto_backup_20250929_214918",
+  "timestamp": "2025-09-29T21:49:18.964111",
+  "description": "Backup automático - 29/09/2025 21:49",
+  "version": "1.0.0",
+  "files_count": 23,
+  "size": 191812,
+  "auto_backup": true,
+  "config": {
+    "enabled": true,
+    "auto_backup_interval": 24,
+    "max_backups": 10,
+    "backup_on_startup": true,
+    "backup_on_config_change": true,
+    "compress_backups": true,
+    "include_logs": false,
+    "include_temp": false
+  }
+}

@@ -134,14 +134,14 @@ class SalesAgentAdvanced:
         # Estatísticas de logs
         if self.logger:
             stats = self.logger.get_log_stats()
-            console.print(f"\n📈 [bold yellow]Estatísticas de Logs:[/yellow]")
+            console.print(f"\n📈 [bold yellow]Estatísticas de Logs:[/bold yellow]")
             console.print(f"   Total de entradas: {stats.total_entries}")
             console.print(f"   Taxa de erro: {stats.error_rate:.2f}%")
         
         # Saúde das dependências
         if self.dependency_monitor:
             health = self.dependency_monitor.get_system_health()
-            console.print(f"\n🔍 [bold yellow]Saúde das Dependências:[/yellow]")
+            console.print(f"\n🔍 [bold yellow]Saúde das Dependências:[/bold yellow]")
             console.print(f"   Status geral: {health.overall_status}")
             console.print(f"   Críticas: {health.critical_deps_ok}/{health.critical_deps_total}")
             console.print(f"   Opcionais: {health.optional_deps_ok}/{health.optional_deps_total}")
@@ -149,7 +149,7 @@ class SalesAgentAdvanced:
     def run_interactive_menu(self):
         """Executa menu interativo"""
         while True:
-            console.print("\n[bold yellow]MENU PRINCIPAL - SALES AGENT IA AVANÇADO[/yellow]")
+            console.print("\n[bold yellow]MENU PRINCIPAL - SALES AGENT IA AVANÇADO[/bold yellow]")
             console.print("1. Verificar status do sistema")
             console.print("2. Executar setup completo")
             console.print("3. Gerenciar backups")
@@ -183,7 +183,7 @@ class SalesAgentAdvanced:
     
     def _run_complete_setup(self):
         """Executa setup completo"""
-        console.print("\n🔧 [bold yellow]Executando setup completo...[/yellow]")
+        console.print("\n🔧 [bold yellow]Executando setup completo...[/bold yellow]")
         
         try:
             self.setup_system.run_complete_setup()
@@ -194,7 +194,7 @@ class SalesAgentAdvanced:
     
     def _manage_backups(self):
         """Gerencia backups"""
-        console.print("\n💾 [bold yellow]Gerenciador de Backups[/yellow]")
+        console.print("\n💾 [bold yellow]Gerenciador de Backups[/bold yellow]")
         console.print("1. Criar backup")
         console.print("2. Listar backups")
         console.print("3. Restaurar backup")
@@ -222,7 +222,7 @@ class SalesAgentAdvanced:
     
     def _manage_logs(self):
         """Gerencia logs"""
-        console.print("\n📝 [bold yellow]Gerenciador de Logs[/yellow]")
+        console.print("\n📝 [bold yellow]Gerenciador de Logs[/bold yellow]")
         console.print("1. Ver dashboard")
         console.print("2. Buscar logs")
         console.print("3. Exportar logs")
@@ -249,7 +249,7 @@ class SalesAgentAdvanced:
     
     def _manage_dependencies(self):
         """Gerencia dependências"""
-        console.print("\n🔍 [bold yellow]Gerenciador de Dependências[/yellow]")
+        console.print("\n🔍 [bold yellow]Gerenciador de Dependências[/bold yellow]")
         console.print("1. Verificar todas")
         console.print("2. Verificar específica")
         console.print("3. Instalar dependência")
@@ -279,7 +279,7 @@ class SalesAgentAdvanced:
     
     def _open_gui(self):
         """Abre interface gráfica"""
-        console.print("\n🖥️ [bold yellow]Abrindo interface gráfica...[/yellow]")
+        console.print("\n🖥️ [bold yellow]Abrindo interface gráfica...[/bold yellow]")
         
         try:
             gui = ConfigGUI()
@@ -291,7 +291,7 @@ class SalesAgentAdvanced:
     
     def _run_original_sales_agent(self):
         """Executa o Sales Agent original"""
-        console.print("\n🎯 [bold yellow]Executando Sales Agent original...[/yellow]")
+        console.print("\n🎯 [bold yellow]Executando Sales Agent original...[/bold yellow]")
         
         try:
             # Importa e executa o sistema original
@@ -305,7 +305,7 @@ class SalesAgentAdvanced:
     
     def _shutdown_systems(self):
         """Desliga todos os sistemas"""
-        console.print("\n⏹️ [bold yellow]Desligando sistemas...[/yellow]")
+        console.print("\n⏹️ [bold yellow]Desligando sistemas...[/bold yellow]")
         
         try:
             # Para monitoramentos
@@ -357,7 +357,7 @@ def main():
             system.run_interactive_menu()
     
     except KeyboardInterrupt:
-        console.print("\n⏹️ [bold yellow]Interrompido pelo usuário[/yellow]")
+        console.print("\n⏹️ [bold yellow]Interrompido pelo usuário[/bold yellow]")
     except Exception as e:
         console.print(f"\n❌ [bold red]Erro fatal: {e}[/bold red]")
     finally:

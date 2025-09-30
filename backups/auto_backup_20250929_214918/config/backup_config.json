@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "auto_backup_interval": 24,
+  "max_backups": 10,
+  "backup_on_startup": true,
+  "backup_on_config_change": true,
+  "compress_backups": true,
+  "include_logs": false,
+  "include_temp": false
+}

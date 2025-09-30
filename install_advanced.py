@@ -308,7 +308,7 @@ O Sales Agent IA Avançado está instalado e pronto para uso!
                 console.print("Execute manualmente: python run_sales_agent.py")
     
     except Exception as e:
-        console.print(f"\n❌ [bold red]Erro na instalação: {e}[/red]")
+        console.print(f"\n❌ [bold red]Erro na instalação: {e}[/bold red]")
         console.print("Tente executar: python setup_advanced.py")
 
 if __name__ == "__main__":

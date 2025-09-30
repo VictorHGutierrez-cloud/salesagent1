@@ -1,0 +1,465 @@
+SEQUÊNCIAS DE FOLLOW-UP AUTOMATIZADAS - AE SENIOR
+=================================================
+
+🎯 AUTOMAÇÃO HARDCORE DE VENDAS
+
+ESTRUTURA DE SEQUÊNCIAS:
+=======================
+
+LEAD QUALIFICATION SEQUENCE (7 TOQUES):
+=======================================
+
+EMAIL 1 - INTRODUÇÃO (DIA 0):
+Assunto: "Factorial + [EMPRESA] = Economia de R$ 50k/mês?"
+
+Oi [NOME],
+
+Vi que você é [CARGO] na [EMPRESA]. 
+
+Empresas similares (mesmo setor, tamanho parecido) estão economizando R$ 50k+/mês automatizando RH com nossa solução.
+
+Vale 15 min para mostrar como?
+
+[]
+
+[NOME AE]
+P.S.: A [CONCORRENTE] implementou em setembro e já está colhendo resultados.
+
+---
+
+LINKEDIN MESSAGE (DIA 1):
+"Oi [NOME], enviei um email ontem sobre economia em processos de RH. Chegou até você? Se não, mando por aqui mesmo 😊"
+
+---
+
+EMAIL 2 - SOCIAL PROOF (DIA 3):
+Assunto: "Case [EMPRESA SIMILAR]: R$ 300k economizados"
+
+[NOME],
+
+A [EMPRESA SIMILAR] (também [SETOR]) economizou R$ 300k no primeiro ano automatizando RH.
+
+O que fizeram:
+• Eliminaram 80% dos processos manuais
+• Reduziram erros em 95%
+• Cortaram tempo de folha de 15 para 2 dias
+
+Resultado: ROI de 400% no primeiro ano.
+
+Quer saber os detalhes?
+
+[]
+
+[NOME AE]
+
+---
+
+CALL (DIA 5):
+"Oi [NOME], [NOME AE] da Factorial. Te enviei alguns emails sobre economia em RH. Consegue 2 minutinhos para conversarmos?"
+
+---
+
+EMAIL 3 - TRIGGER EVENT (DIA 7):
+Assunto: "Sobre o crescimento da [EMPRESA]"
+
+[NOME],
+
+Vi que vocês [TRIGGER EVENT - crescimento, contratação, nova unidade].
+
+Isso geralmente significa pressão extra no RH para processos que não escalam.
+
+A [EMPRESA EXEMPLO] passou pela mesma situação e resolveu assim: [SOLUÇÃO].
+
+Vale uma conversa rápida?
+
+[]
+
+[NOME AE]
+
+---
+
+LINKEDIN CONNECT (DIA 10):
+"Oi [NOME], tentei te alcançar por email algumas vezes. Vamos conectar aqui?"
+
+---
+
+EMAIL 4 - LAST CHANCE (DIA 14):
+Assunto: "Última tentativa - [EMPRESA]"
+
+[NOME],
+
+Esta é minha última tentativa de contato.
+
+Se não for o momento ideal, tudo bem! 
+
+Só confirma se:
+1. Recebeu meus emails
+2. Faz sentido conversarmos no futuro
+3. Você é a pessoa certa para falar sobre automação de RH
+
+Qualquer resposta me ajuda muito.
+
+[]
+
+[NOME AE]
+
+---
+
+DEMO FOLLOW-UP SEQUENCE (5 TOQUES):
+===================================
+
+EMAIL 1 - OBRIGADO + RESUMO (2H APÓS DEMO):
+Assunto: "Obrigado pela demo - [EMPRESA] + Factorial"
+
+[NOME],
+
+Obrigado pela atenção na demo hoje!
+
+Resumindo o que conversamos:
+• Problema: [DOR IDENTIFICADA]
+• Solução: [COMO RESOLVER]
+• Resultado: [BENEFÍCIO QUANTIFICADO]
+
+Próximos passos:
+1. [AÇÃO DEFINIDA]
+2. [TIMELINE ACORDADO]
+
+Anexo:
+- Recording da demo
+- ROI calculator personalizado
+- Case study [EMPRESA SIMILAR]
+
+Alguma dúvida?
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 2 - ADDITIONAL VALUE (DIA 2):
+Assunto: "Material adicional - [EMPRESA]"
+
+[NOME],
+
+Lembrei de mais uma coisa que pode interessar:
+
+[INSIGHT ESPECÍFICO BASEADO NA DEMO]
+
+Isso resolve exatamente o que você mencionou sobre [DOR ESPECÍFICA].
+
+Quer que eu detalhe melhor na nossa próxima conversa?
+
+[]
+
+[NOME AE]
+
+---
+
+CALL (DIA 5):
+"Oi [NOME], como estão as conversas internas sobre a Factorial? Posso ajudar com alguma informação adicional?"
+
+---
+
+EMAIL 3 - COMPETITIVE INTEL (DIA 7):
+Assunto: "Comparativo que você pediu"
+
+[NOME],
+
+Segue o comparativo que você pediu:
+
+FACTORIAL vs [CONCORRENTE]:
+• Funcionalidades: ✅ vs ❌
+• Implementação: 30 dias vs 6+ meses
+• Suporte: 24/7 português vs limitado
+• Preço: R$ [X] vs R$ [Y]
+
+O mais importante: 50+ referências industriais vs poucos cases.
+
+Quer conversar sobre algum ponto específico?
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 4 - URGENCY + NEXT STEPS (DIA 10):
+Assunto: "Timeline [EMPRESA] - próximos passos"
+
+[NOME],
+
+Como ficou nossa timeline?
+
+Lembro que você mencionou [URGÊNCIA/DEADLINE].
+
+Para cumprir esse prazo, precisaríamos:
+• Decisão até: [DATA]
+• Contrato até: [DATA]
+• Implementação: [DATA]
+
+Faz sentido agendarmos uma call com o time de decisão?
+
+[]
+
+[NOME AE]
+
+---
+
+PROPOSAL FOLLOW-UP SEQUENCE (6 TOQUES):
+=======================================
+
+EMAIL 1 - PROPOSTA ENVIADA (DIA 0):
+Assunto: "Proposta Factorial para [EMPRESA]"
+
+[NOME],
+
+Conforme combinado, segue nossa proposta personalizada.
+
+Highlights:
+• Investimento: R$ [X]/mês
+• Economia: R$ [Y]/mês
+• ROI: [Z]% no primeiro ano
+• Payback: [W] meses
+
+Revisei tudo baseado na nossa conversa. Alguma dúvida?
+
+[]
+
+[NOME AE]
+
+---
+
+CALL (DIA 2):
+"Oi [NOME], conseguiu revisar nossa proposta? Que perguntas surgiram?"
+
+---
+
+EMAIL 2 - FAQ ANTECIPADO (DIA 4):
+Assunto: "Perguntas frequentes - Proposta [EMPRESA]"
+
+[NOME],
+
+Antecipando algumas dúvidas que sempre surgem:
+
+Q: E a integração com nosso [SISTEMA]?
+A: [RESPOSTA ESPECÍFICA]
+
+Q: Como fica durante a implementação?
+A: [PROCESSO DETALHADO]
+
+Q: E se não funcionar?
+A: [GARANTIAS]
+
+Outras dúvidas?
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 3 - SOCIAL PROOF (DIA 7):
+Assunto: "Reference call - [EMPRESA SIMILAR]"
+
+[NOME],
+
+Organizei uma call com [NOME] da [EMPRESA SIMILAR].
+
+Eles implementaram exatamente o que estamos propondo e podem compartilhar a experiência real.
+
+Quando funciona para vocês?
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 4 - URGENCY (DIA 10):
+Assunto: "Promoção termina em [X] dias"
+
+[NOME],
+
+Nossa promoção de fim de ano termina em [X] dias.
+
+Depois dessa data:
+• Preço sobe 15%
+• Setup passa a ser cobrado (R$ [Y])
+• Implementação só em março
+
+Vale acelerar a decisão?
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 5 - EXECUTIVE ESCALATION (DIA 14):
+Assunto: "Escalar para [CEO NAME]?"
+
+[NOME],
+
+Percebo que pode estar difícil conseguir tempo/atenção internamente.
+
+Devo escalar direto para [CEO NAME] ou você prefere mais alguns dias?
+
+Não quero pressionar, só garantir que temos a atenção necessária.
+
+[]
+
+[NOME AE]
+
+---
+
+EMAIL 6 - FINAL PUSH (DIA 18):
+Assunto: "Última chance - [EMPRESA]"
+
+[NOME],
+
+Esta é realmente nossa última chance de fechar em 2024.
+
+Sei que vocês querem resolver [DOR PRINCIPAL] e nossa solução é perfeita para isso.
+
+15 min hoje para finalizar?
+
+[]
+
+[NOME AE]
+
+---
+
+NURTURE SEQUENCE (LONG-TERM):
+============================
+
+EMAIL MENSAL 1 - INSIGHTS:
+Assunto: "Tendência RH 2024: [TREND]"
+
+EMAIL MENSAL 2 - CASE STUDY:
+Assunto: "Case novo: [EMPRESA] economizou R$ [X]"
+
+EMAIL MENSAL 3 - TRIGGER EVENT:
+Assunto: "Vi que vocês [NEWS] - Parabéns!"
+
+EMAIL TRIMESTRAL - CHECK-IN:
+Assunto: "Como estão as coisas na [EMPRESA]?"
+
+EMAIL SEMESTRAL - NEW FEATURES:
+Assunto: "Novidades que podem interessar"
+
+---
+
+AUTOMAÇÃO POR TRIGGER:
+=====================
+
+TRIGGER: ABRIU EMAIL MAS NÃO RESPONDEU
+AÇÃO: Enviar LinkedIn message em 24h
+
+TRIGGER: CLICOU NO LINK MAS NÃO AGENDOU
+AÇÃO: Call em 48h + email específico
+
+TRIGGER: VISITOU PÁGINA DE PREÇOS
+AÇÃO: Email com ROI calculator em 4h
+
+TRIGGER: BAIXOU MATERIAL
+AÇÃO: Follow-up em 24h com next step
+
+TRIGGER: DEMO AGENDADA
+AÇÃO: Pesquisa automática + prep email
+
+TRIGGER: NO-SHOW DEMO
+AÇÃO: Sequência de reagendamento (3 toques)
+
+---
+
+PERSONALIZAÇÃO AVANÇADA:
+=======================
+
+VARIÁVEIS DINÂMICAS:
+• {{company_name}}
+• {{first_name}}
+• {{title}}
+• {{industry}}
+• {{company_size}}
+• {{competitor}}
+• {{pain_point}}
+• {{roi_estimate}}
+
+CONDITIONAL LOGIC:
+IF {{company_size}} > 500 THEN use_enterprise_messaging
+IF {{industry}} = "Manufacturing" THEN use_compliance_angle
+IF {{trigger_event}} EXISTS THEN reference_news
+
+A/B TESTING:
+• Subject lines (5 variações)
+• Call-to-action (3 opções)
+• Social proof (diferentes cases)
+• Timing (diferentes intervalos)
+
+---
+
+MÉTRICAS DE SEQUÊNCIA:
+=====================
+
+OPEN RATES:
+• Email 1: 65%+
+• Email 2: 55%+
+• Email 3: 45%+
+• Email 4+: 35%+
+
+RESPONSE RATES:
+• Sequência total: 15%+
+• Primeiro email: 8%+
+• Follow-up calls: 25%+
+
+CONVERSION RATES:
+• Lead-to-meeting: 12%+
+• Demo-to-proposal: 60%+
+• Proposal-to-close: 30%+
+
+TIMING OPTIMIZATION:
+===================
+
+MELHORES DIAS:
+• Terça-feira: +35% open rate
+• Quarta-feira: +20% response rate
+• Quinta-feira: +15% meeting rate
+
+MELHORES HORÁRIOS:
+• 9h-11h: +40% open rate
+• 14h-16h: +25% response rate
+• 17h-19h: +30% response rate
+
+EVITAR:
+• Segunda cedo: -50% performance
+• Sexta tarde: -60% performance
+• Véspera de feriado: -70% performance
+
+---
+
+SETUP TÉCNICO:
+==============
+
+CRM AUTOMATION:
+• HubSpot sequences
+• Salesforce campaigns
+• Pipedrive automation
+• Outreach.io integration
+
+EMAIL TRACKING:
+• Open tracking
+• Click tracking
+• Reply tracking
+• Engagement scoring
+
+LEAD SCORING:
+• Email engagement: +10 points
+• Demo attendance: +50 points
+• Proposal review: +30 points
+• Reference call: +40 points
+
+ESCALATION RULES:
+• No response 14 dias: Manager review
+• High-value lead: Executive involvement
+• Competitor mention: Battle card trigger

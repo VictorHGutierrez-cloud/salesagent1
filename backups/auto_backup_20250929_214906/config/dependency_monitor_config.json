@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "check_interval": 300,
+  "auto_update": false,
+  "notify_on_issues": true,
+  "check_pypi": true,
+  "critical_dependencies": [
+    "openai",
+    "pandas",
+    "numpy",
+    "rich",
+    "loguru",
+    "sounddevice",
+    "soundfile",
+    "scipy",
+    "sentence-transformers",
+    "chromadb"
+  ],
+  "optional_dependencies": [
+    "pystray",
+    "PIL",
+    "psutil",
+    "plyer"
+  ]
+}

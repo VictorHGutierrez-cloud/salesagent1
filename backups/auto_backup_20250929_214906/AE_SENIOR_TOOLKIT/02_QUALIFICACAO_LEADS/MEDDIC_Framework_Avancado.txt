@@ -1,0 +1,193 @@
+MEDDIC FRAMEWORK AVANÇADO - AE SENIOR
+====================================
+
+🎯 METODOLOGIA MEDDIC COMPLETA PARA FACTORIAL
+
+M - METRICS (MÉTRICAS)
+=====================
+
+PERGUNTAS ESPECÍFICAS:
+• "Quantos funcionários vocês têm hoje? E qual a previsão para os próximos 12 meses?"
+• "Quanto tempo por mês a equipe de RH gasta com processos manuais?"
+• "Qual o custo médio de uma não conformidade trabalhista para vocês?"
+• "Quantos erros por mês vocês têm no cálculo de horas/banco de horas?"
+• "Qual o turnover atual? E o custo de reposição por funcionário?"
+
+MÉTRICAS GOLD STANDARD:
+• Tempo de fechamento de folha: 15 dias → 2 dias
+• Redução de erros: 80%
+• Economia de tempo RH: 60%
+• ROI: 300% no primeiro ano
+• Payback: 6 meses
+
+E - ECONOMIC BUYER (COMPRADOR ECONÔMICO)
+=======================================
+
+IDENTIFICAÇÃO:
+• CEO/Presidente (empresas até 500 funcionários)
+• CFO (aprovação financeira)
+• CHRO/Diretor de RH (usuário principal)
+• CTO/TI (integração técnica)
+
+PERGUNTAS PARA IDENTIFICAR:
+• "Quem geralmente aprova investimentos em tecnologia aqui?"
+• "Além de você, quem mais participaria da decisão?"
+• "Qual o processo de aprovação para investimentos acima de R$ [VALOR]?"
+• "Quem mais seria impactado por essa mudança?"
+
+ECONOMIC BUYER MAPPING:
+• Nome: [NOME]
+• Cargo: [CARGO]
+• Poder de decisão: [VALOR LIMITE]
+• Motivação principal: [PAIN POINT]
+• Métrica de sucesso: [KPI]
+
+D - DECISION CRITERIA (CRITÉRIOS DE DECISÃO)
+===========================================
+
+CRITÉRIOS TÉCNICOS:
+✅ Integração com ERP/Folha existente
+✅ Compliance com legislação brasileira
+✅ Segurança de dados (LGPD)
+✅ Escalabilidade
+✅ API robusta
+✅ Suporte técnico
+
+CRITÉRIOS COMERCIAIS:
+✅ ROI comprovado
+✅ Preço competitivo
+✅ Implementação rápida
+✅ Treinamento incluído
+✅ SLA de suporte
+✅ Referências do setor
+
+CRITÉRIOS ESTRATÉGICOS:
+✅ Visão de futuro da empresa
+✅ Roadmap do produto
+✅ Estabilidade financeira
+✅ Presença no Brasil
+✅ Cases de sucesso similares
+
+PERGUNTAS PARA DESCOBRIR:
+• "O que é mais importante para vocês na escolha: preço, funcionalidade ou suporte?"
+• "Quais foram os critérios na última vez que escolheram um software?"
+• "O que fez vocês descartarem outras opções no passado?"
+• "Existe algum deal breaker para vocês?"
+
+D - DECISION PROCESS (PROCESSO DE DECISÃO)
+==========================================
+
+MAPEAMENTO COMPLETO:
+1. Identificação da necessidade
+2. Pesquisa de mercado
+3. RFP/RFQ (se aplicável)
+4. Demos/POCs
+5. Referências/Cases
+6. Proposta comercial
+7. Negociação
+8. Aprovação legal/jurídico
+9. Aprovação financeira
+10. Decisão final
+
+TIMELINE TÍPICO:
+• Pequenas empresas (<100): 30-45 dias
+• Médias empresas (100-500): 60-90 dias
+• Grandes empresas (500+): 90-180 dias
+
+PERGUNTAS PARA MAPEAR:
+• "Como foi o processo de decisão da última ferramenta que compraram?"
+• "Quais etapas vocês seguem para aprovar um investimento assim?"
+• "Quem mais precisa avaliar antes da decisão?"
+• "Qual o prazo ideal para implementar?"
+
+I - IDENTIFY PAIN (IDENTIFICAR DOR)
+==================================
+
+DORES PRIMÁRIAS (EXPLICIT PAIN):
+🔥 Processos manuais em Excel/papel
+🔥 Erros de cálculo/conformidade
+🔥 Falta de controle sobre horas
+🔥 Demora no fechamento da folha
+🔥 Risco de auditoria trabalhista
+
+DORES SECUNDÁRIAS (IMPLICIT PAIN):
+💡 Falta de métricas de RH
+💡 Baixa produtividade da equipe
+💡 Dificuldade de crescimento
+💡 Falta de employee experience
+💡 Decisões baseadas em feeling
+
+PAIN AMPLIFICATION (CHALLENGER SALE):
+• "Você sabia que empresas do seu porte perdem em média R$ [VALOR] por ano com processos manuais?"
+• "O maior risco não é o custo, é a multa trabalhista que pode chegar a [VALOR]"
+• "Seus concorrentes já automatizaram e estão crescendo [X]% mais rápido"
+
+C - CHAMPION (CAMPEÃO)
+=====================
+
+IDENTIFICAÇÃO DO CHAMPION:
+✅ Tem poder de influência
+✅ Sente a dor diariamente
+✅ Ganha com nossa solução
+✅ Quer nos ajudar a vender
+✅ Tem acesso ao Economic Buyer
+✅ É respeitado internamente
+
+DESENVOLVIMENTO DO CHAMPION:
+• Educar sobre o mercado
+• Fornecer business case
+• Dar ammunition para vender
+• Conectar com outros champions
+• Oferecer reconhecimento
+
+PERGUNTAS PARA IDENTIFICAR:
+• "Quem mais aqui compartilha dessa frustração?"
+• "Quem seria o maior beneficiado com essa mudança?"
+• "Quem geralmente lidera projetos de melhoria aqui?"
+• "Quem tem credibilidade técnica na empresa?"
+
+CHAMPION ENABLEMENT KIT:
+• Slides executivos
+• ROI calculator
+• Comparison sheet
+• Reference stories
+• Implementation timeline
+• Risk mitigation plan
+
+QUALIFICATION SCORE (0-100):
+============================
+• Metrics identified: 20 pontos
+• Economic Buyer mapped: 25 pontos
+• Decision Criteria clear: 20 pontos
+• Decision Process mapped: 15 pontos
+• Pain quantified: 10 pontos
+• Champion identified: 10 pontos
+
+SCORE INTERPRETATION:
+• 80-100: HOT - Close aggressively
+• 60-79: WARM - Develop further
+• 40-59: COLD - Qualify more
+• 0-39: DISQUALIFY
+
+ACTION ITEMS POR SCORE:
+======================
+HOT (80-100):
+✅ Proposta comercial
+✅ References calls
+✅ Executive presentation
+✅ Legal/security review
+✅ Implementation planning
+
+WARM (60-79):
+✅ Complete discovery
+✅ Demo personalizada
+✅ ROI calculation
+✅ Stakeholder meetings
+✅ Champion development
+
+COLD (40-59):
+✅ More qualification
+✅ Pain amplification
+✅ Competitor research
+✅ Trigger events
+✅ Nurture sequence

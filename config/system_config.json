@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "last_setup": "2025-09-29T21:54:17.731354",
+  "python_version": "3.13.7",
+  "platform": "Windows",
+  "architecture": "AMD64",
+  "dependencies_installed": [
+    "openai",
+    "pandas",
+    "numpy",
+    "rich",
+    "loguru",
+    "sounddevice",
+    "soundfile",
+    "scipy",
+    "sentence-transformers",
+    "chromadb",
+    "pystray",
+    "PIL",
+    "python-dotenv",
+    "requests",
+    "tkinter"
+  ],
+  "backup_enabled": true,
+  "auto_update": true,
+  "log_level": "INFO"
+}

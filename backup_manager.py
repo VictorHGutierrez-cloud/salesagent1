@@ -70,7 +70,7 @@ class BackupManager:
         # Arquivos e diretórios para backup
         self.backup_items = self._get_backup_items()
         
-        logger.info("💾 Gerenciador de backup inicializado")
+        logger.info("💾 Gerenciador de backup inicializado", extra={"category": "BACKUP"})
     
     def _load_backup_config(self) -> BackupConfig:
         """Carrega configuração de backup"""
@@ -257,11 +257,11 @@ class BackupManager:
                 
                 progress.update(task, description="✅ Backup concluído!")
             
-            logger.info(f"Backup criado: {name} ({files_copied} arquivos, {total_size // 1024}KB)")
+            logger.info(f"Backup criado: {name} ({files_copied} arquivos, {total_size // 1024}KB)", extra={"category": "BACKUP"})
             return backup_info
             
         except Exception as e:
-            logger.error(f"Erro ao criar backup: {e}")
+            logger.error(f"Erro ao criar backup: {e}", extra={"category": "BACKUP"})
             # Limpa backup parcial
             if backup_path.exists():
                 shutil.rmtree(backup_path)
@@ -313,7 +313,9 @@ class BackupManager:
                 try:
                     with open(info_file, 'r', encoding='utf-8') as f:
                         data = json.load(f)
-                        backup_info = BackupInfo(**data)
+                        # Remove campos não suportados pelo BackupInfo
+                        data_clean = {k: v for k, v in data.items() if k in ['name', 'timestamp', 'size', 'files_count', 'description', 'version', 'checksum', 'auto_backup']}
+                        backup_info = BackupInfo(**data_clean)
                         backups.append(backup_info)
                 except Exception as e:
                     logger.warning(f"Erro ao ler backup {backup_path}: {e}")
